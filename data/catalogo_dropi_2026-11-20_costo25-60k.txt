@@ -1,0 +1,3156 @@
+items[82]:
+  - id: 1901076
+    sku: "7529"
+    name: Armario Doble
+    sale_price: 56000
+    suggested_price: 99000
+    simple_price: 57000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 90
+    supplier_id: 248350
+    categories[2]: Moda,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1901076/1755287906Diseño%20sin%20título%20-%202025-08-15T122809.436.jpg"
+    variations[0]:
+  - id: 1676393
+    sku: RH01568
+    name: SOPORTE BAÑO METÁLICO 5 PIEZAS
+    sale_price: 42000
+    suggested_price: 74000
+    simple_price: 42000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 313
+    supplier_id: 144205
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1676393/1777397828images%20-%202026-04-28T123341.877.jpg"
+    variations[0]:
+  - id: 426511
+    sku: "03"
+    name: BLUSA MALLA
+    sale_price: 53000
+    suggested_price: 75000
+    simple_price: 53000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 24
+    supplier_id: 102823
+    categories[1]: Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/426511/1696481795WhatsApp%20Image%202023-10-04%20at%2011.03.23%20PM.jpeg"
+    variations[0]:
+  - id: 2280870
+    sku: ZL_soniNtceL_TEB
+    name: Lector Interactivo Vocabulario Ingles Es
+    sale_price: 25900
+    suggested_price: 55900
+    simple_price: 25900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 192984
+    categories[2]: Tecnologia,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2280870/b9b95ac6-823a-4ff6-9d34-1694731c8546.png"
+    variations[0]:
+  - id: 2235734
+    sku: null
+    name: ALCANCIA MUÑECOS ANIMADOS
+    sale_price: 40000
+    suggested_price: null
+    simple_price: 40000
+    visible_start_sale_price: 40000
+    visible_end_sale_price: 40000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 6338
+    categories[5]: Tecnologia,Hogar,Bebé,Jugueteria,Piñateria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2235734/14412ec2-6453-4f89-b13d-c5d2dad735b2.png"
+    variations[7]:
+      - id: 2324924
+        sku: "-0"
+        stock: 0
+        sale_price: 40000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          "DISEÑO:",HOMBRE ARAÑA
+      - id: 2324925
+        sku: "-1"
+        stock: 0
+        sale_price: 40000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          "DISEÑO:",IROMAN
+      - id: 2324926
+        sku: "-2"
+        stock: 5
+        sale_price: 40000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          "DISEÑO:",KUROMI
+      - id: 2324927
+        sku: "-3"
+        stock: 0
+        sale_price: 40000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          "DISEÑO:",CAPITAN AMERICA
+      - id: 2324928
+        sku: "-4"
+        stock: 14
+        sale_price: 40000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          "DISEÑO:",STITCH
+      - id: 2324929
+        sku: "-5"
+        stock: 0
+        sale_price: 40000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          "DISEÑO:",HELLO KITTY
+      - id: 2324930
+        sku: "-6"
+        stock: 0
+        sale_price: 40000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          "DISEÑO:",MARIO BROSS
+  - id: 1924911
+    sku: skum200
+    name: Pulidor De Uñas Eléctrico Mercedes 2000
+    sale_price: 36000
+    suggested_price: 56900
+    simple_price: 36000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 298
+    supplier_id: 5935
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1924911/17577863601728048079170308060017030806009sCHpktwrDpSk1gsa3ZszMFQqKqT6vKKKttuDXoq.jpeg"
+    variations[0]:
+  - id: 168753
+    sku: UR+TRU
+    name: TRULY + URO PROBIOTICO
+    sale_price: 35000
+    suggested_price: 35000
+    simple_price: 35000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 429
+    supplier_id: 5381
+    categories[4]: Belleza,Salud,Aseo,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/168753/1773176084Copia%20de%20Mesa%20de%20trabajo%203.jpg"
+    variations[0]:
+  - id: 2011927
+    sku: GCC993
+    name: Lubricante Tipo Cum For Men Sen Intimo
+    sale_price: 49900
+    suggested_price: 59900
+    simple_price: 49900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 9
+    supplier_id: 701559
+    categories[1]: Sex Shop
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2011927/1764454995imageye___-_imgi_4_Lubricante-Tipo-Cum-For-Men-Sen-Intimo.webp"
+    variations[0]:
+  - id: 2116803
+    sku: "234669"
+    name: Kit Manigueta Bomba + Acelerador Cuarta
+    sale_price: 52000
+    suggested_price: 90000
+    simple_price: 52000
+    visible_start_sale_price: 52000
+    visible_end_sale_price: 52000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 245925
+    categories[9]: Moda,Tecnologia,Salud,Hogar,Natural Home,Deportes,Bienestar,Vehículos,Jugueteria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2116803/17745540081.jpg"
+    variations[18]:
+      - id: 2182392
+        sku: 234669-0
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,AKT-AZUL
+      - id: 2182393
+        sku: 234669-1
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,AKT-ROJO
+      - id: 2182394
+        sku: 234669-2
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,AKT-NEGRO
+      - id: 2182402
+        sku: 234669-10
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,GN-DORADO
+      - id: 2182403
+        sku: 234669-11
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,GN-NEGRO
+      - id: 2182404
+        sku: 234669-12
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,NS-AZUL
+      - id: 2182405
+        sku: 234669-13
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,NS-ROJO
+      - id: 2182406
+        sku: 234669-14
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,NS-NEGRO
+      - id: 2182407
+        sku: 234669-15
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,NS-PLATA
+      - id: 2182408
+        sku: 234669-16
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,NS-DORADO
+      - id: 2182409
+        sku: 234669-17
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,NS-TORNASOL
+      - id: 2182395
+        sku: 234669-3
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,AKT-PLATA
+      - id: 2182396
+        sku: 234669-4
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,AKT-DORADO
+      - id: 2182397
+        sku: 234669-5
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,AKT-TORNASOL
+      - id: 2182398
+        sku: 234669-6
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,GN-AZUL
+      - id: 2182399
+        sku: 234669-7
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,GN-ROJO
+      - id: 2182400
+        sku: 234669-8
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,GN-PLATA
+      - id: 2182401
+        sku: 234669-9
+        stock: 100
+        sale_price: 52000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR,GN-TORNASOL
+  - id: 2216728
+    sku: CONJUNTO PALAZZO
+    name: Conjunto Palazzo
+    sale_price: 40000
+    suggested_price: 89000
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 9889
+    supplier_id: 495754
+    categories[1]: Ropa Deportiva
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2216728/d50d4acb-5e50-46b5-99a6-09047bfbf185.jpeg"
+    variations[0]:
+  - id: 2294262
+    sku: null
+    name: LICRADOS LEVIS X 1
+    sale_price: 40000
+    suggested_price: 100000
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 99979
+    supplier_id: 443095
+    categories[1]: Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2294262/e067bba0-cdc7-4020-99fa-e8d12fb724e4.jpeg"
+    variations[0]:
+  - id: 2181309
+    sku: GR40 6
+    name: GR40 6
+    sale_price: 50000
+    suggested_price: 89000
+    simple_price: 50000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 87969
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2181309/1781888941Captura%20de%20pantalla%202026-06-19%20120333.png"
+    variations[0]:
+  - id: 344585
+    sku: "1048"
+    name: TERMOMETRO PARA BARRIL
+    sale_price: 26250
+    suggested_price: 35000
+    simple_price: 26250
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 996
+    supplier_id: 73665
+    categories[1]: Cocina
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/344585/17018791991701879199Termómetro%20Para%20Barril.png"
+    variations[0]:
+  - id: 2142328
+    sku: null
+    name: SUECO TOMMY
+    sale_price: 45000
+    suggested_price: null
+    simple_price: 45000
+    visible_start_sale_price: 45000
+    visible_end_sale_price: 45000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 99516
+    categories[1]: Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2142328/1777586508AZUL%20LATERAL.jpeg"
+    variations[21]:
+      - id: 2134318
+        sku: "-0"
+        stock: 3
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,"34"
+      - id: 2134319
+        sku: "-1"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,"35"
+      - id: 2134320
+        sku: "-2"
+        stock: 4
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,"36"
+      - id: 2134321
+        sku: "-3"
+        stock: 1
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,"37"
+      - id: 2134322
+        sku: "-4"
+        stock: 1
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,"38"
+      - id: 2134323
+        sku: "-5"
+        stock: 3
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,"39"
+      - id: 2134324
+        sku: "-6"
+        stock: 4
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,"40"
+      - id: 2134325
+        sku: "-7"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,GRIS
+          TALLAS,"34"
+      - id: 2134326
+        sku: "-8"
+        stock: 4
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,GRIS
+          TALLAS,"35"
+      - id: 2134327
+        sku: "-9"
+        stock: 4
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,GRIS
+          TALLAS,"36"
+      - id: 2134328
+        sku: "-10"
+        stock: 3
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,GRIS
+          TALLAS,"37"
+      - id: 2134329
+        sku: "-11"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,GRIS
+          TALLAS,"38"
+      - id: 2134330
+        sku: "-12"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,GRIS
+          TALLAS,"39"
+      - id: 2134331
+        sku: "-13"
+        stock: 4
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,GRIS
+          TALLAS,"40"
+      - id: 2134332
+        sku: "-14"
+        stock: 4
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,AZUL
+          TALLAS,"34"
+      - id: 2134333
+        sku: "-15"
+        stock: 3
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,AZUL
+          TALLAS,"35"
+      - id: 2134334
+        sku: "-16"
+        stock: 1
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,AZUL
+          TALLAS,"36"
+      - id: 2134335
+        sku: "-17"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,AZUL
+          TALLAS,"37"
+      - id: 2134336
+        sku: "-18"
+        stock: 1
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,AZUL
+          TALLAS,"38"
+      - id: 2134337
+        sku: "-19"
+        stock: 3
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,AZUL
+          TALLAS,"39"
+      - id: 2134338
+        sku: "-20"
+        stock: 2
+        sale_price: 45000
+        suggested_price: 85000
+        attributes[2]{name,value}:
+          COLOR,AZUL
+          TALLAS,"40"
+  - id: 1852567
+    sku: Humificador Planeta
+    name: Humificador Planeta
+    sale_price: 45000
+    suggested_price: 90000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 45331
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1852567/1750196120IMG_3955-1-680x907.jpg"
+    variations[0]:
+  - id: 2141647
+    sku: AC79965
+    name: Cauterizador De Verrugas
+    sale_price: 28000
+    suggested_price: 90000
+    simple_price: 28000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 469966
+    categories[3]: Moda,Belleza,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2141647/1777508058caut%201.png"
+    variations[0]:
+  - id: 1836067
+    sku: Conjunto De Ropa Impermeable Para Lluvia Y Motociclista Para
+    name: Conjunto De Ropa Impermeable Para Lluvia
+    sale_price: 39990
+    suggested_price: 69990
+    simple_price: 39990
+    visible_start_sale_price: 39990
+    visible_end_sale_price: 39990
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 37637
+    categories[1]: Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1836067/17486411761.jpg"
+    variations[2]:
+      - id: 1532402
+        sku: Conjunto De Ropa Impermeable Para Lluvia Y Motociclista Para-1
+        stock: 76
+        sale_price: 39990
+        suggested_price: 69990
+        attributes[1]{name,value}:
+          TALLAS,L
+      - id: 1532401
+        sku: Conjunto De Ropa Impermeable Para Lluvia Y Motociclista Para-0
+        stock: 0
+        sale_price: 39990
+        suggested_price: 69990
+        attributes[1]{name,value}:
+          TALLAS,M
+  - id: 862656
+    sku: "006"
+    name: Afeitadora Multifuncional 3 En 1 dorada
+    sale_price: 42000
+    suggested_price: 79900
+    simple_price: 42000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 81
+    supplier_id: 917
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/862656/1715787766maquina%203%20en%201112123121.jpg"
+    variations[0]:
+  - id: 2141730
+    sku: DH
+    name: Muñequera Térmica Eléctrica Usb Agregar
+    sale_price: 28000
+    suggested_price: 45000
+    simple_price: 28000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 36055
+    categories[1]: Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2141730/1777517935D_NQ_NP_2X_662235-MCO108871978122_032026-F.webp"
+    variations[0]:
+  - id: 1894901
+    sku: "123"
+    name: Lampara Aro Led Soporte Pinzas
+    sale_price: 29900
+    suggested_price: 40000
+    simple_price: 29900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 942
+    supplier_id: 34004
+    categories[2]: Tecnologia,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1894901/1754663957D_NQ_NP_683966-MCO89218541960_082025-O%20(1).png"
+    variations[0]:
+  - id: 1646802
+    sku: "91"
+    name: Estufa Eléctrica 2 Puestos 1000w
+    sale_price: 34500
+    suggested_price: 60000
+    simple_price: 34500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1777
+    supplier_id: 67745
+    categories[2]: Cocina,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1646802/1738172135estufas.webp"
+    variations[0]:
+  - id: 2295181
+    sku: "001056"
+    name: Neo Veins X30 Heathy America
+    sale_price: 27700
+    suggested_price: 55400
+    simple_price: 27700
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 833898
+    categories[1]: Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2295181/img_6ac94116432919.15604908_0.jpg"
+    variations[0]:
+  - id: 2340824
+    sku: .
+    name: Lámpara Ventilador de Techo LED
+    sale_price: 45000
+    suggested_price: 70000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 450087
+    categories[2]: Tecnologia,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2340824/04597588-a7f3-428b-b5ee-d3f8577d8f94.jpeg"
+    variations[0]:
+  - id: 1974153
+    sku: A DI +PERF
+    name: ACGUA DI GIO+PERFUMERO
+    sale_price: 60000
+    suggested_price: 100000
+    simple_price: 60000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 576291
+    categories[6]: Moda,Belleza,Hogar,Natural Home,Aseo,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1974153/1761342593Agregar%20un%20título%20(11).png"
+    variations[0]:
+  - id: 2303165
+    sku: null
+    name: Lámpara Solar Portátil Recargable CCLAMP
+    sale_price: 35000
+    suggested_price: 60000
+    simple_price: 35000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 653
+    supplier_id: 226960
+    categories[4]: Tecnologia,Natural Home,Deportes,Camping
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2303165/20db903e-eb41-49d5-b102-6eded22fec6c.png"
+    variations[0]:
+  - id: 1862700
+    sku: RESHIXBJARTAB
+    name: ShilajitSatoomi XBull Jarabe120 XbullTab
+    sale_price: 50000
+    suggested_price: 110000
+    simple_price: 50000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 5995
+    supplier_id: 320651
+    categories[6]: Belleza,Salud,Natural Home,Deportes,Sex Shop,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1862700/1776700074BULL%20CAJA%20TABLETAS%2015%20(1).jpg"
+    variations[0]:
+  - id: 1818465
+    sku: "001"
+    name: combo reloj 5 en 1
+    sale_price: 40000
+    suggested_price: 69990
+    simple_price: 40000
+    visible_start_sale_price: 40000
+    visible_end_sale_price: 40000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 254747
+    categories[1]: Bisutería
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1818465/1747094964He90a8dbf738e41ca92ba19818918b527q.webp"
+    variations[5]:
+      - id: 1552661
+        sku: 001-0
+        stock: 1
+        sale_price: 40000
+        suggested_price: 69990
+        attributes[1]{name,value}:
+          COLOR,ROSA
+      - id: 1552664
+        sku: 001-3
+        stock: 3
+        sale_price: 40000
+        suggested_price: 69990
+        attributes[1]{name,value}:
+          COLOR,NEGRO
+      - id: 1552665
+        sku: 001-4
+        stock: 3
+        sale_price: 40000
+        suggested_price: 69990
+        attributes[1]{name,value}:
+          COLOR,BEIGE
+      - id: 1647863
+        sku: "15"
+        stock: 0
+        sale_price: 40000
+        suggested_price: 69990
+        attributes[1]{name,value}:
+          COLOR,ROJO
+      - id: 1552663
+        sku: 001-2
+        stock: 5
+        sale_price: 40000
+        suggested_price: 69990
+        attributes[1]{name,value}:
+          COLOR,BLANCO
+  - id: 1871004
+    sku: "12345"
+    name: QUILLA BENELLI 180S
+    sale_price: 30800
+    suggested_price: 49500
+    simple_price: 30800
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 218726
+    categories[2]: Otro,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1871004/1752069771D_NQ_NP_711794-MCO82424508624_022025-O.jpg"
+    variations[0]:
+  - id: 2193253
+    sku: ROMA-3045
+    name: LAYTON ROYAL 125 ML
+    sale_price: 55000
+    suggested_price: 65000
+    simple_price: 55000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 97
+    supplier_id: 94839
+    categories[6]: Moda,Belleza,Salud,Aseo,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2193253/1783177639perfume-para-hombre-layton-royal-essence-de-marly-125-ml.webp"
+    variations[0]:
+  - id: 486087
+    sku: HG22
+    name: HG22 FAROLA REDONDA + AZUL COCUYO
+    sale_price: 35000
+    suggested_price: 55000
+    simple_price: 35000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 30
+    supplier_id: 115640
+    categories[1]: Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/486087/1704661227IMG_0544.jpeg"
+    variations[0]:
+  - id: 1573941
+    sku: "2515"
+    name: CARPA INFANTIL PARA NIÑAS Y NIÑOS
+    sale_price: 42000
+    suggested_price: 72000
+    simple_price: 42000
+    visible_start_sale_price: 42000
+    visible_end_sale_price: 42000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 151479
+    categories[6]: Hogar,Natural Home,Bebé,Camping,Jugueteria,Piñateria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1573941/1733519592-2043930826685357638.jpg"
+    variations[3]:
+      - id: 1105147
+        sku: 2515-0
+        stock: 99
+        sale_price: 42000
+        suggested_price: 72000
+        attributes[1]{name,value}:
+          COLOR,ROSADO
+      - id: 1105148
+        sku: 2515-1
+        stock: 299
+        sale_price: 42000
+        suggested_price: 72000
+        attributes[1]{name,value}:
+          COLOR,AZUL
+      - id: 1876095
+        sku: 2515-3
+        stock: 0
+        sale_price: 42000
+        suggested_price: 72000
+        attributes[1]{name,value}:
+          COLOR,LILA
+  - id: 2315664
+    sku: "26155"
+    name: MACA MENS POWER x 3
+    sale_price: 54000
+    suggested_price: 69000
+    simple_price: 54000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 7988
+    supplier_id: 447674
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2315664/a1091d21-1ee2-46c2-bf4e-a63c9f500512.jpeg"
+    variations[0]:
+  - id: 1777420
+    sku: "1"
+    name: 1PERFUME JEAN PAUL GAULTIER PARADISE LAT
+    sale_price: 55000
+    suggested_price: 55000
+    simple_price: 55000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 179
+    supplier_id: 23987
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1777420/1746046018HOKO%20-%202025-04-30T154239.315.png"
+    variations[0]:
+  - id: 1775913
+    sku: SDF
+    name: 3 BLUSONES MES MADRE
+    sale_price: 30000
+    suggested_price: 99900
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 199
+    supplier_id: 103135
+    categories[1]: Ropa Deportiva
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1775913/1745946440538a3e0d-5413-4502-8963-2263d8cac666.jpeg"
+    variations[0]:
+  - id: 2100257
+    sku: null
+    name: PERFUME SCANDAL DAMA EN CILINDRO
+    sale_price: 55000
+    suggested_price: 120000
+    simple_price: 55000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 701300
+    categories[5]: Moda,Belleza,Salud,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2100257/1772725677SCANDAL%20DAMA%20CILINDRO%201.jpeg"
+    variations[0]:
+  - id: 212616
+    sku: BROCHASX24
+    name: "Juego de brochas de maquillaje, conjunt"
+    sale_price: 25000
+    suggested_price: 60000
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 85
+    supplier_id: 39603
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/212616/17023010721702301072SeoV6s30GqD7Gk3fZzz7FglyETrnIG5YHnWO6WRE.jpg"
+    variations[0]:
+  - id: 2088797
+    sku: MAQUINA 3 EN 1 GEEMY
+    name: MAQUINA 3 EN 1 GEEMY
+    sale_price: 25900
+    suggested_price: 35900
+    simple_price: 25900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 498
+    supplier_id: 299971
+    categories[5]: Moda,Tecnologia,Belleza,Salud,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2088797/1771518371WhatsApp%20Image%202026-02-19%20at%2011.23.08%20AM%20(1).jpeg"
+    variations[0]:
+  - id: 2259784
+    sku: REF-IN2-99009-0001
+    name: CARGADOR IRONBAT AAA
+    sale_price: 28000
+    suggested_price: 38000
+    simple_price: 28000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 308761
+    categories[1]: Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2259784/img_6aa363961e8fa0.12887333_0.jpg"
+    variations[0]:
+  - id: 2189482
+    sku: null
+    name: BRILLANTE KAMIPLAS
+    sale_price: 38000
+    suggested_price: null
+    simple_price: 38000
+    visible_start_sale_price: 38000
+    visible_end_sale_price: 38000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 447658
+    categories[1]: Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2189482/1782850123WhatsApp%20Image%202026-06-30%20at%202.06.36%20PM.jpeg"
+    variations[18]:
+      - id: 2233774
+        sku: "-0"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"35"
+      - id: 2233775
+        sku: "-1"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"36"
+      - id: 2233776
+        sku: "-2"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"37"
+      - id: 2233777
+        sku: "-3"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"38"
+      - id: 2233778
+        sku: "-4"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"39"
+      - id: 2233779
+        sku: "-5"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"40"
+      - id: 2233780
+        sku: "-6"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,LILA
+          TALLA,"35"
+      - id: 2233781
+        sku: "-7"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,LILA
+          TALLA,"36"
+      - id: 2233782
+        sku: "-8"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,LILA
+          TALLA,"37"
+      - id: 2233783
+        sku: "-9"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,LILA
+          TALLA,"38"
+      - id: 2233784
+        sku: "-10"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,LILA
+          TALLA,"39"
+      - id: 2233785
+        sku: "-11"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,LILA
+          TALLA,"40"
+      - id: 2233786
+        sku: "-12"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,CAFE
+          TALLA,"35"
+      - id: 2233787
+        sku: "-13"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,CAFE
+          TALLA,"36"
+      - id: 2233788
+        sku: "-14"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,CAFE
+          TALLA,"37"
+      - id: 2233789
+        sku: "-15"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,CAFE
+          TALLA,"38"
+      - id: 2233790
+        sku: "-16"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,CAFE
+          TALLA,"39"
+      - id: 2233791
+        sku: "-17"
+        stock: 300
+        sale_price: 38000
+        suggested_price: 55000
+        attributes[2]{name,value}:
+          COLOR,CAFE
+          TALLA,"40"
+  - id: 76315
+    sku: null
+    name: Vibrador hitachi siliconado Flexi
+    sale_price: 60000
+    suggested_price: 200000
+    simple_price: 60000
+    visible_start_sale_price: 60000
+    visible_end_sale_price: 60000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 10485
+    categories[1]: Sex Shop
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/76315/17030219771703021977H315279255ef54a03a662433dc30c1c95O.png"
+    variations[3]:
+      - id: 44842
+        sku: CM--YC59-NEG
+        stock: 19
+        sale_price: 60000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          Color,Negro
+      - id: 44844
+        sku: CM-B-YC59-MOR
+        stock: 10
+        sale_price: 60000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          Color,Morado oscuro
+      - id: 44843
+        sku: CM--YC59-ROS
+        stock: 11
+        sale_price: 60000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          Color,Rosado
+  - id: 1891334
+    sku: EXTRACTOR LECHE
+    name: Extractor de Leche Electrico x2
+    sale_price: 46000
+    suggested_price: 55000
+    simple_price: 46000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1
+    supplier_id: 109054
+    categories[1]: Bebé
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1891334/1754160878Captura%20de%20pantalla%202025-08-02%20135347.png"
+    variations[0]:
+  - id: 2348822
+    sku: null
+    name: PISTON CPTO MOTOSIERRA MS250
+    sale_price: 32000
+    suggested_price: 102000
+    simple_price: 32000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 1005293
+    categories[1]: Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2348822/bf019881-4c27-484f-8b91-6cd124df8323.jpeg"
+    variations[0]:
+  - id: 1852059
+    sku: TETERA PLEGABLE
+    name: TETERA PLEGABLE
+    sale_price: 25000
+    suggested_price: 50000
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 532474
+    categories[1]: Cocina
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1852059/1750182029D_NQ_NP_720096-MCO49954363096_052022-O.webp"
+    variations[0]:
+  - id: 129363
+    sku: null
+    name: PERFUME GOOD GIRL - MUJER
+    sale_price: 25000
+    suggested_price: 64900
+    simple_price: 25000
+    visible_start_sale_price: 25000
+    visible_end_sale_price: 45000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 22796
+    categories[5]: Moda,Belleza,Salud,Aseo,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/129363/17023454681702345468WhatsApp%20Image%202022-12-28%20at%2012.30.49%20PM%20(2).jpeg"
+    variations[3]:
+      - id: 82420
+        sku: "-2"
+        stock: 60
+        sale_price: 45000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          PRESENTACIÓN,100ML
+      - id: 82419
+        sku: "-1"
+        stock: 60
+        sale_price: 30000
+        suggested_price: 44900
+        attributes[1]{name,value}:
+          PRESENTACIÓN,60ML
+      - id: 82418
+        sku: "-0"
+        stock: 60
+        sale_price: 25000
+        suggested_price: 64900
+        attributes[1]{name,value}:
+          PRESENTACIÓN,30ML
+  - id: 2200456
+    sku: "283"
+    name: "TAPETE DE YOGA,EJERCICIO,PILATES25"
+    sale_price: 28000
+    suggested_price: 48000
+    simple_price: 28000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 162
+    supplier_id: 52350
+    categories[1]: Deportes
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2200456/1783882711WhatsApp%20Image%202026-07-12%20at%201.46.38%20PM%20(3).jpeg"
+    variations[0]:
+  - id: 2211510
+    sku: "1"
+    name: Brasier Corrector de Postura con Manga
+    sale_price: 26000
+    suggested_price: null
+    simple_price: 26000
+    visible_start_sale_price: 26000
+    visible_end_sale_price: 26000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 147804
+    categories[4]: Ropa Deportiva,Moda,Belleza,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2211510/17849213061783749138D_NQ_NP_626743-MLA92190353266_092025-O.webp"
+    variations[15]:
+      - id: 2280693
+        sku: "-0"
+        stock: 726
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,S
+          COLORES,BEIGE
+      - id: 2280694
+        sku: "-1"
+        stock: 724
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,S
+          COLORES,NEGRO
+      - id: 2280695
+        sku: "-2"
+        stock: 726
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,S
+          COLORES,BLANCO
+      - id: 2280696
+        sku: "-3"
+        stock: 723
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,M
+          COLORES,BEIGE
+      - id: 2280697
+        sku: "-4"
+        stock: 724
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,M
+          COLORES,NEGRO
+      - id: 2280698
+        sku: "-5"
+        stock: 725
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,M
+          COLORES,BLANCO
+      - id: 2280699
+        sku: "-6"
+        stock: 725
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,L
+          COLORES,BEIGE
+      - id: 2280700
+        sku: "-7"
+        stock: 724
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,L
+          COLORES,NEGRO
+      - id: 2280701
+        sku: "-8"
+        stock: 724
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,L
+          COLORES,BLANCO
+      - id: 2280702
+        sku: "-9"
+        stock: 722
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,XL
+          COLORES,BEIGE
+      - id: 2280703
+        sku: "-10"
+        stock: 722
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,XL
+          COLORES,NEGRO
+      - id: 2280704
+        sku: "-11"
+        stock: 725
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,XL
+          COLORES,BLANCO
+      - id: 2280705
+        sku: "-12"
+        stock: 726
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,XXL
+          COLORES,BEIGE
+      - id: 2280706
+        sku: "-13"
+        stock: 725
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,XXL
+          COLORES,NEGRO
+      - id: 2280707
+        sku: "-14"
+        stock: 726
+        sale_price: 26000
+        suggested_price: 69900
+        attributes[2]{name,value}:
+          TALLAS,XXL
+          COLORES,BLANCO
+  - id: 1491903
+    sku: Ntria01
+    name: Nutria respiratoria para bebés Y adultos
+    sale_price: 35000
+    suggested_price: 75000
+    simple_price: 35000
+    visible_start_sale_price: 35000
+    visible_end_sale_price: 35000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 145021
+    categories[4]: Jugueteria,Bienestar,Bebé,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1491903/173181350871l-sK7ZuHL._AC_SL1500_.jpg"
+    variations[3]:
+      - id: 1050184
+        sku: Ntria01-0
+        stock: 0
+        sale_price: 35000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          COLOR,GRIS
+      - id: 1050185
+        sku: Ntria01-1
+        stock: 0
+        sale_price: 35000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          COLOR,CAFE
+      - id: 1050186
+        sku: Ntria01-2
+        stock: 39
+        sale_price: 35000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          COLOR,ROSA
+  - id: 2286404
+    sku: "1"
+    name: SET DE AUTOS DE CARRERAS
+    sale_price: 32000
+    suggested_price: 62000
+    simple_price: 32000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 8086
+    categories[1]: Jugueteria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2286404/0f433208-4089-4362-905a-5d3a7d50e935.jpeg"
+    variations[0]:
+  - id: 2184842
+    sku: VA
+    name: VA Tendero Organizador De Ropa 025
+    sale_price: 34800
+    suggested_price: 64800
+    simple_price: 34800
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 73779
+    categories[3]: Moda,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2184842/17823276617.jpg"
+    variations[0]:
+  - id: 2320404
+    sku: OF011
+    name: OF011 Clavo para Remachadora *100 und
+    sale_price: 30000
+    suggested_price: 40000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 4297
+    supplier_id: 49923
+    categories[2]: Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2320404/1fb792fd-bf77-47d0-afca-a6b62036af2a.png"
+    variations[0]:
+  - id: 2340130
+    sku: XT-P7656
+    name: Vibrador Conejo Doble Estimulación
+    sale_price: 31920
+    suggested_price: null
+    simple_price: 31920
+    visible_start_sale_price: 31920
+    visible_end_sale_price: 31920
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 1037164
+    categories[1]: Sex Shop
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2340130/img_6af77d16795364.47326902_0.jpg"
+    variations[4]:
+      - id: 2532563
+        sku: XT-JP-037-RABBIT-N
+        stock: 100
+        sale_price: 31920
+        suggested_price: 59900
+        attributes[1]{name,value}:
+          Color,Negro
+      - id: 2532564
+        sku: XT-JP-037-RABBIT-R
+        stock: 100
+        sale_price: 31920
+        suggested_price: 59900
+        attributes[1]{name,value}:
+          Color,Rosado
+      - id: 2532562
+        sku: XT-JP-037-RABBIT-M
+        stock: 0
+        sale_price: 31920
+        suggested_price: 59900
+        attributes[1]{name,value}:
+          Color,Morado
+      - id: 2532561
+        sku: XT-JP-037-RABBIT-A
+        stock: 100
+        sale_price: 31920
+        suggested_price: 59900
+        attributes[1]{name,value}:
+          Color,Azul
+  - id: 2269361
+    sku: DC-12V
+    name: Aspiradora Portátil de Mano para Auto
+    sale_price: 40000
+    suggested_price: 80000
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 680217
+    categories[2]: Hogar,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2269361/44b00e98-510b-448f-ac60-9f5baf4714e4.jpg"
+    variations[0]:
+  - id: 2242575
+    sku: RELOJ DESPERTADOR DIGITAL
+    name: RELOJ DESPERTADOR DIGITAL
+    sale_price: 30000
+    suggested_price: 40000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 376574
+    categories[3]: Tecnologia,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2242575/f8732f01-83da-47cb-ac8f-33905489a7b4.jpeg"
+    variations[0]:
+  - id: 1905092
+    sku: Set Juego Bolas Mini De Billar Pool X16
+    name: Set Juego Bolas Mini De Billar Pool X16
+    sale_price: 42000
+    suggested_price: 85000
+    simple_price: 42000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 97
+    supplier_id: 17581
+    categories[1]: Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1905092/1755877257Set%20bolas%20billarpool%20mini.jpg"
+    variations[0]:
+  - id: 1559759
+    sku: "110162"
+    name: Mini Consola Retro 400 Juegos Miniso
+    sale_price: 29900
+    suggested_price: 40000
+    simple_price: 29900
+    visible_start_sale_price: 29900
+    visible_end_sale_price: 29900
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 7165
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1559759/173315412201.jpg"
+    variations[5]:
+      - id: 1086693
+        sku: 110162-1
+        stock: 91
+        sale_price: 29900
+        suggested_price: 50000
+        attributes[1]{name,value}:
+          Color,Rosa Pastel
+      - id: 1086694
+        sku: 110162-2
+        stock: 94
+        sale_price: 29900
+        suggested_price: 50000
+        attributes[1]{name,value}:
+          Color,Verde Pastel
+      - id: 1086695
+        sku: 110162-3
+        stock: 88
+        sale_price: 29900
+        suggested_price: 50000
+        attributes[1]{name,value}:
+          Color,Azul Pastel
+      - id: 1086696
+        sku: 110162-4
+        stock: 70
+        sale_price: 29900
+        suggested_price: 50000
+        attributes[1]{name,value}:
+          Color,Gris
+      - id: 1086692
+        sku: 110162-0
+        stock: 91
+        sale_price: 29900
+        suggested_price: 50000
+        attributes[1]{name,value}:
+          Color,Amarillo Pastel
+  - id: 1822747
+    sku: RH01018
+    name: BATIDOR DE MANO EXPRESS ELÉCTRICO
+    sale_price: 52500
+    suggested_price: 70000
+    simple_price: 52500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 297
+    supplier_id: 144205
+    categories[3]: Cocina,Hogar,Natural Home
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1822747/1747352788Joyero%20JOY-2%20(3).png"
+    variations[0]:
+  - id: 1998681
+    sku: "313"
+    name: Gorras | BMW | Mercedes Benz | Ferrari |
+    sale_price: 25000
+    suggested_price: 25000
+    simple_price: 25000
+    visible_start_sale_price: 25000
+    visible_end_sale_price: 25000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 690566
+    categories[2]: Ropa Deportiva,Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1998681/1775319647gorra%20racing.png"
+    variations[15]:
+      - id: 2080746
+        sku: GN27
+        stock: 9
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN27 - Gorra Blanco - BMW
+      - id: 2080748
+        sku: GN25
+        stock: 14
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN25 - Gorra Negro - BMW
+      - id: 2080758
+        sku: GN15
+        stock: 4
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN15 - Gorra Negro - Ferrari
+      - id: 2080741
+        sku: GN32
+        stock: 19
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN32 - Gorra Impermeable Azul Celeste - Mercedes
+      - id: 2080754
+        sku: GN19
+        stock: 7
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN19 - Gorra Azul Oscuro - BMW
+      - id: 2080747
+        sku: GN26
+        stock: 1
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN26 - Gorra Impermeable Agua Marina - BMW
+      - id: 2080753
+        sku: GN20
+        stock: 8
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN20 - Gorra Blanco - BMW
+      - id: 2080749
+        sku: GN24
+        stock: 17
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN24 - Gorra Blanco - Redbull
+      - id: 2080750
+        sku: GN23
+        stock: 15
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN23 - Gorra Negro - Redbull
+      - id: 2080752
+        sku: GN21
+        stock: 25
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN21 - Gorra Negro - Mercedes
+      - id: 2080751
+        sku: GN22
+        stock: 21
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN22 - Gorra Blanco - Mercedes
+      - id: 2080756
+        sku: GN17
+        stock: 6
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN17 - Gorra Negro - BMW
+      - id: 2080757
+        sku: GN16
+        stock: 1
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN16 - Gorra Rojo - Ferrari
+      - id: 2317480
+        sku: GN59
+        stock: 14
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN59 - Gorra Negro - Porsche
+      - id: 2080755
+        sku: GN18
+        stock: 14
+        sale_price: 25000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          REF,GN18 - Gorra Blanco - BMW
+  - id: 2207327
+    sku: CTB-522
+    name: BATERIA PARA TALADRO 21V
+    sale_price: 25000
+    suggested_price: 26000
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 120
+    supplier_id: 428322
+    categories[3]: Hogar,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2207327/17843988951.png"
+    variations[0]:
+  - id: 2155936
+    sku: "3458"
+    name: conjunto deportivo OSO 2
+    sale_price: 52000
+    suggested_price: null
+    simple_price: 52000
+    visible_start_sale_price: 52000
+    visible_end_sale_price: 52000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 85521
+    categories[3]: Ropa Deportiva,Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2155936/1779382850WhatsApp%20Image%202026-05-21%20at%2011.32.36%20AM%20(3).jpeg"
+    variations[7]:
+      - id: 2164649
+        sku: "-2"
+        stock: 15
+        sale_price: 52000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          COLOR,NEGRO
+      - id: 2164650
+        sku: "-3"
+        stock: 15
+        sale_price: 52000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          COLOR,BEIGE
+      - id: 2164651
+        sku: "-4"
+        stock: 15
+        sale_price: 52000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          COLOR,CHOCOLATE
+      - id: 2164652
+        sku: "-5"
+        stock: 15
+        sale_price: 52000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          COLOR,VERDE
+      - id: 2164653
+        sku: "-6"
+        stock: 14
+        sale_price: 52000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          COLOR,LILA
+      - id: 2164647
+        sku: "-0"
+        stock: 15
+        sale_price: 52000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          COLOR,ROSADO
+      - id: 2164648
+        sku: "-1"
+        stock: 15
+        sale_price: 52000
+        suggested_price: 120000
+        attributes[1]{name,value}:
+          COLOR,ROJO
+  - id: 252438
+    sku: null
+    name: CINTURONES TRENZADOS ELASTICOS
+    sale_price: 39999
+    suggested_price: 0
+    simple_price: 39999
+    visible_start_sale_price: 39999
+    visible_end_sale_price: 39999
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 11340
+    categories[1]: Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/252438/17019087481701908748_DSC6487-Editada.jpg"
+    variations[5]:
+      - id: 138941
+        sku: CINTURON TRENZADO ELASTICO COLOR 6636-XS
+        stock: 30
+        sale_price: 39999
+        suggested_price: 79999
+        attributes[1]{name,value}:
+          TALLA,XS
+      - id: 138943
+        sku: CINTURON TRENZADO ELASTICO COLOR 6636-M
+        stock: 30
+        sale_price: 39999
+        suggested_price: 79999
+        attributes[1]{name,value}:
+          TALLA,M
+      - id: 138944
+        sku: CINTURON TRENZADO ELASTICO COLOR 6636-L
+        stock: 30
+        sale_price: 39999
+        suggested_price: 79999
+        attributes[1]{name,value}:
+          TALLA,L
+      - id: 138945
+        sku: CINTURON TRENZADO ELASTICO COLOR 6636-XL
+        stock: 30
+        sale_price: 39999
+        suggested_price: 79999
+        attributes[1]{name,value}:
+          TALLA,XL
+      - id: 138942
+        sku: CINTURON TRENZADO ELASTICO COLOR 6636-S
+        stock: 30
+        sale_price: 39999
+        suggested_price: 79999
+        attributes[1]{name,value}:
+          TALLA,S
+  - id: 2200844
+    sku: A467
+    name: A467 Lápiz de Acupuntura Recargable
+    sale_price: 27710
+    suggested_price: 37000
+    simple_price: 27710
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 2163
+    supplier_id: 49923
+    categories[4]: Belleza,Salud,Hogar,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2200844/17840384624.jpeg"
+    variations[0]:
+  - id: 1767847
+    sku: "540"
+    name: Sandalia en cuero
+    sale_price: 60000
+    suggested_price: 110000
+    simple_price: 60000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 248
+    supplier_id: 515522
+    categories[1]: Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1767847/1745553855WhatsApp%20Image%202025-04-24%20at%209.23.14%20PM.jpeg"
+    variations[0]:
+  - id: 2259936
+    sku: REF-R2-05032-0001
+    name: MEMORIA CARPLAY P/AUTO
+    sale_price: 48000
+    suggested_price: 58000
+    simple_price: 48000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 308761
+    categories[1]: Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2259936/img_6aa36fd83b2b86.85954763_0.jpg"
+    variations[0]:
+  - id: 861006
+    sku: "00"
+    name: Faja Cinturilla de Avispa
+    sale_price: 52200
+    suggested_price: 69150
+    simple_price: 52200
+    visible_start_sale_price: 52200
+    visible_end_sale_price: 52200
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 219034
+    categories[1]: Ropa Deportiva
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/861006/17157131681DEA309E-607F-4E11-B7E0-B0BDB306DB2D_1_105_c.jpeg"
+    variations[18]:
+      - id: 1134054
+        sku: 00-12
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,XS
+      - id: 1134049
+        sku: 00-7
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-FUCSIA
+          TALLA,S
+      - id: 1134050
+        sku: 00-8
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-FUCSIA
+          TALLA,M
+      - id: 1134051
+        sku: 00-9
+        stock: 98
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-FUCSIA
+          TALLA,L
+      - id: 1134052
+        sku: 00-10
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-FUCSIA
+          TALLA,XL
+      - id: 1134053
+        sku: 00-11
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-FUCSIA
+          TALLA,XXL
+      - id: 1134055
+        sku: 00-13
+        stock: 99
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,S
+      - id: 1134056
+        sku: 00-14
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,M
+      - id: 1134057
+        sku: 00-15
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,L
+      - id: 1134058
+        sku: 00-16
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,XL
+      - id: 1134048
+        sku: 00-6
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-FUCSIA
+          TALLA,XS
+      - id: 1134047
+        sku: 00-5
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-AMARILLO
+          TALLA,XXL
+      - id: 1134046
+        sku: 00-4
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-AMARILLO
+          TALLA,XL
+      - id: 1134045
+        sku: 00-3
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-AMARILLO
+          TALLA,L
+      - id: 1134044
+        sku: 00-2
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-AMARILLO
+          TALLA,M
+      - id: 1134043
+        sku: 00-1
+        stock: 99
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-AMARILLO
+          TALLA,S
+      - id: 1134042
+        sku: 00-0
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO-AMARILLO
+          TALLA,XS
+      - id: 1134059
+        sku: 00-17
+        stock: 100
+        sale_price: 52200
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,XXL
+  - id: 2191799
+    sku: "9998111"
+    name: MEGARED
+    sale_price: 33000
+    suggested_price: 80000
+    simple_price: 33000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 4500
+    supplier_id: 473766
+    categories[2]: Belleza,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2191799/1783090954megared.jpeg"
+    variations[0]:
+  - id: 1911671
+    sku: "88282298922"
+    name: Tablero Mágico Lcd Colores Tabla Dibujo
+    sale_price: 35900
+    suggested_price: 43900
+    simple_price: 35900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 12108
+    categories[1]: Jugueteria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1911671/1756508594JTYJYTJYT.jpg"
+    variations[0]:
+  - id: 480129
+    sku: "1232654"
+    name: S109
+    sale_price: 25000
+    suggested_price: 25000
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 13
+    supplier_id: 55394
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/480129/1700409445images.jpeg"
+    variations[0]:
+  - id: 1822936
+    sku: Sudadera Deportiva Niño Naruto Azul rey
+    name: Sudadera Deportiva Niño Naruto Azul Rey
+    sale_price: 45000
+    suggested_price: 63000
+    simple_price: 45000
+    visible_start_sale_price: 45000
+    visible_end_sale_price: 45000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 277112
+    categories[1]: Ropa Deportiva
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1822936/1747406456efb351c3-da03-4159-83d7-eaa548372d12.jpeg"
+    variations[1]:
+      - id: 1502122
+        sku: Sudadera Deportiva Niño Naruto Azul rey-0
+        stock: 199
+        sale_price: 45000
+        suggested_price: 70000
+        attributes[1]{name,value}:
+          Azul Rey,Naruto
+  - id: 1475037
+    sku: CVEBF8S9WW
+    name: Difusor De Aromas 160 Ml Humidificador
+    sale_price: 58369
+    suggested_price: 78798.15
+    simple_price: 58369
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 325736
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1475037/17424135174.jpg"
+    variations[0]:
+  - id: 2313029
+    sku: PM_AVB2TES_GNA
+    name: Set 2 Botellas Vidrio Aceite Vinagre Dos
+    sale_price: 43900
+    suggested_price: 63900
+    simple_price: 43900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 192984
+    categories[3]: Cocina,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2313029/4675a9e7-33bf-407d-a298-a1518694aedb.png"
+    variations[0]:
+  - id: 1976261
+    sku: ITH2YUPFYA
+    name: COMBO RELOJ Z97 MINI 4 EN 1
+    sale_price: 55000
+    suggested_price: 100000
+    simple_price: 55000
+    visible_start_sale_price: 55000
+    visible_end_sale_price: 55000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 241251
+    categories[9]: Ropa Deportiva,Moda,Tecnologia,Belleza,Salud,Hogar,Deportes,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1976261/176238930520250902_134353.jpg"
+    variations[3]:
+      - id: 1831984
+        sku: ITH2YUPFYA-2
+        stock: 21
+        sale_price: 55000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          COLORES,GRIS
+      - id: 1831982
+        sku: ITH2YUPFYA-0
+        stock: 18
+        sale_price: 55000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          COLORES,NEGRO
+      - id: 1831983
+        sku: ITH2YUPFYA-1
+        stock: 19
+        sale_price: 55000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          COLORES,DORADO
+  - id: 2117397
+    sku: "1107"
+    name: Adiós Celulitis Flacidez y Arrugas
+    sale_price: 49900
+    suggested_price: 63500
+    simple_price: 49900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 20
+    supplier_id: 13546
+    categories[1]: Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2117397/img_69c5d2da7b1200.40023436_0.webp"
+    variations[0]:
+  - id: 1898947
+    sku: BR-309
+    name: MALETIN O BOLSO INFANTIL ESTAMPADO
+    sale_price: 39000
+    suggested_price: 79900
+    simple_price: 39000
+    visible_start_sale_price: 39000
+    visible_end_sale_price: 39000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 102652
+    categories[4]: Moda,Hogar,Otro,Jugueteria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1898947/1771624896WhatsApp%20Image%202026-02-20%20at%205.00.53%20PM.jpeg"
+    variations[2]:
+      - id: 1888183
+        sku: BR-309-0
+        stock: 2
+        sale_price: 39000
+        suggested_price: 79900
+        attributes[1]{name,value}:
+          COLOR,NIÑO
+      - id: 1888184
+        sku: BR-309-1
+        stock: 1
+        sale_price: 39000
+        suggested_price: 79900
+        attributes[1]{name,value}:
+          COLOR,NIÑA
+  - id: 1508231
+    sku: bhy6
+    name: Plancha De Ropa Viajera Mini Portatil
+    sale_price: 26000
+    suggested_price: 50000
+    simple_price: 26000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 72
+    supplier_id: 39300
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1508231/1732124700D_NQ_NP_2X_752575-MLU79126622035_092024-F.webp"
+    variations[0]:
+  - id: 734733
+    sku: SI-10
+    name: Kit Exploradoras para moto mini driving
+    sale_price: 40900
+    suggested_price: 70000
+    simple_price: 40900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 15
+    supplier_id: 188359
+    categories[1]: Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/734733/1711494595WhatsApp%20Image%202024-03-26%20at%2018.06.39%20(4).jpeg"
+    variations[0]:
+  - id: 792774
+    sku: p6
+    name: maquina peluquera 6018
+    sale_price: 60000
+    suggested_price: 78000
+    simple_price: 60000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 400
+    supplier_id: 196614
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/792774/17135776586018.png"
+    variations[0]:
+  - id: 563083
+    sku: null
+    name: Pantalón Astrid
+    sale_price: 49000
+    suggested_price: 89000
+    simple_price: 49000
+    visible_start_sale_price: 49000
+    visible_end_sale_price: 49000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 131428
+    categories[1]: Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/563083/1702668382astrid.jpg"
+    variations[4]:
+      - id: 364537
+        sku: "-3"
+        stock: 0
+        sale_price: 49000
+        suggested_price: 89000
+        attributes[2]{name,value}:
+          Talla,XL
+          Color,Negro
+      - id: 364534
+        sku: "-0"
+        stock: 1
+        sale_price: 49000
+        suggested_price: 89000
+        attributes[2]{name,value}:
+          Talla,S
+          Color,Negro
+      - id: 364536
+        sku: "-2"
+        stock: 2
+        sale_price: 49000
+        suggested_price: 89000
+        attributes[2]{name,value}:
+          Talla,L
+          Color,Negro
+      - id: 364535
+        sku: "-1"
+        stock: 0
+        sale_price: 49000
+        suggested_price: 89000
+        attributes[2]{name,value}:
+          Talla,M
+          Color,Negro
+  - id: 1063900
+    sku: "10023"
+    name: CAMISA MC CROP TOP JULIANA
+    sale_price: 49900
+    suggested_price: 65000
+    simple_price: 49900
+    visible_start_sale_price: 49900
+    visible_end_sale_price: 49900
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 288201
+    categories[1]: Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1063900/1723313198alexandra%20blanco.jpg"
+    variations[45]:
+      - id: 802276
+        sku: 10023-39
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Naranja
+          TALLA,XL
+      - id: 802380
+        sku: 10023-43
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,M
+          COLOR,Rojo
+      - id: 802379
+        sku: 10023-42
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,S
+          COLOR,Rojo
+      - id: 802378
+        sku: 10023-41
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,XS
+          COLOR,Rojo
+      - id: 802382
+        sku: 10023-45
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,XL
+          COLOR,Rojo
+      - id: 802381
+        sku: 10023-44
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,L
+          COLOR,Rojo
+      - id: 802267
+        sku: 10023-30
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Amarillo
+          TALLA,XS
+      - id: 802268
+        sku: 10023-31
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Amarillo
+          TALLA,S
+      - id: 802269
+        sku: 10023-32
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Amarillo
+          TALLA,M
+      - id: 802270
+        sku: 10023-33
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Amarillo
+          TALLA,L
+      - id: 802271
+        sku: 10023-34
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Amarillo
+          TALLA,XL
+      - id: 802253
+        sku: 10023-16
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Fucsia
+          TALLA,S
+      - id: 802254
+        sku: 10023-17
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Fucsia
+          TALLA,M
+      - id: 802255
+        sku: 10023-18
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Fucsia
+          TALLA,L
+      - id: 802256
+        sku: 10023-19
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Fucsia
+          TALLA,XL
+      - id: 802237
+        sku: 10023-0
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Blanco
+          TALLA,XS
+      - id: 802238
+        sku: 10023-1
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Blanco
+          TALLA,S
+      - id: 802239
+        sku: 10023-2
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Blanco
+          TALLA,M
+      - id: 802240
+        sku: 10023-3
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Blanco
+          TALLA,L
+      - id: 802241
+        sku: 10023-4
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Blanco
+          TALLA,XL
+      - id: 802242
+        sku: 10023-5
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Negro
+          TALLA,XS
+      - id: 802243
+        sku: 10023-6
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Negro
+          TALLA,S
+      - id: 802244
+        sku: 10023-7
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Negro
+          TALLA,M
+      - id: 802245
+        sku: 10023-8
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Negro
+          TALLA,L
+      - id: 802246
+        sku: 10023-9
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Negro
+          TALLA,XL
+      - id: 802275
+        sku: 10023-38
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Naranja
+          TALLA,L
+      - id: 802274
+        sku: 10023-37
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Naranja
+          TALLA,M
+      - id: 802273
+        sku: 10023-36
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Naranja
+          TALLA,S
+      - id: 802272
+        sku: 10023-35
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Naranja
+          TALLA,XS
+      - id: 802266
+        sku: 10023-29
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Azul Rey
+          TALLA,XL
+      - id: 802265
+        sku: 10023-28
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Azul Rey
+          TALLA,L
+      - id: 802264
+        sku: 10023-27
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Azul Rey
+          TALLA,M
+      - id: 802263
+        sku: 10023-26
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Azul Rey
+          TALLA,S
+      - id: 802262
+        sku: 10023-25
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Azul Rey
+          TALLA,XS
+      - id: 803642
+        sku: 10023-50
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,XL
+          COLOR,Azul Celeste
+      - id: 803641
+        sku: 10023-49
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,L
+          COLOR,Azul Celeste
+      - id: 803640
+        sku: 10023-48
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,M
+          COLOR,Azul Celeste
+      - id: 803639
+        sku: 10023-47
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,S
+          COLOR,Azul Celeste
+      - id: 803638
+        sku: 10023-46
+        stock: 0
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          TALLA,XS
+          COLOR,Azul Celeste
+      - id: 802247
+        sku: 10023-10
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Rosado Claro
+          TALLA,XS
+      - id: 802248
+        sku: 10023-11
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Rosado Claro
+          TALLA,S
+      - id: 802249
+        sku: 10023-12
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Rosado Claro
+          TALLA,M
+      - id: 802250
+        sku: 10023-13
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Rosado Claro
+          TALLA,L
+      - id: 802251
+        sku: 10023-14
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Rosado Claro
+          TALLA,XL
+      - id: 802252
+        sku: 10023-15
+        stock: 50
+        sale_price: 49900
+        suggested_price: 65000
+        attributes[2]{name,value}:
+          COLOR,Fucsia
+          TALLA,XS
+  - id: 2193157
+    sku: ROMA-PUMA
+    name: SUDADERA PUMA
+    sale_price: 43000
+    suggested_price: null
+    simple_price: 43000
+    visible_start_sale_price: 43000
+    visible_end_sale_price: 43000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 840183
+    categories[1]: Ropa Deportiva
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2193157/df4c1c88-27fb-49b2-a700-4f57423d6896.png"
+    variations[34]:
+      - id: 2244119
+        sku: ROMA-PUMA-2
+        stock: 18
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,NEGRA
+          TALLA,L
+      - id: 2332428
+        sku: ROMA-PUMA-28
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,M
+          SUDADERA,AZUL NOCHE
+      - id: 2244128
+        sku: ROMA-PUMA-11
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,AZUL REY
+          TALLA,M
+      - id: 2487436
+        sku: ROMA-PUMA-33
+        stock: 2
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,S
+          SUDADERA,ROJA
+      - id: 2487437
+        sku: ROMA-PUMA-34
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,M
+          SUDADERA,ROJA
+      - id: 2244129
+        sku: ROMA-PUMA-12
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,AZUL REY
+          TALLA,L
+      - id: 2244122
+        sku: ROMA-PUMA-5
+        stock: 3
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,BLANCA
+          TALLA,S
+      - id: 2244137
+        sku: ROMA-PUMA-20
+        stock: 3
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,VERDE BOTELLA
+          TALLA,S
+      - id: 2244139
+        sku: ROMA-PUMA-22
+        stock: 10
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,VERDE BOTELLA
+          TALLA,L
+      - id: 2244140
+        sku: ROMA-PUMA-23
+        stock: 6
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,VERDE BOTELLA
+          TALLA,XL
+      - id: 2244131
+        sku: ROMA-PUMA-14
+        stock: 1
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,AZUL REY
+          TALLA,2XL
+      - id: 2324071
+        sku: ROMA-PUMA23
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,L
+          SUDADERA,GRIS
+      - id: 2244127
+        sku: ROMA-PUMA-10
+        stock: 17
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,AZUL REY
+          TALLA,S
+      - id: 2332426
+        sku: ROMA-PUMA-26
+        stock: 5
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,S
+          SUDADERA,GRIS
+      - id: 2244121
+        sku: ROMA-PUMA-4
+        stock: 4
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,NEGRA
+          TALLA,2XL
+      - id: 2244117
+        sku: ROMA-PUMA-0
+        stock: 11
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,NEGRA
+          TALLA,S
+      - id: 2337080
+        sku: ROMA-PUMA-29
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,2XL
+          SUDADERA,ROJA
+      - id: 2345710
+        sku: ROMA-PUMA-30
+        stock: 8
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,XL
+          SUDADERA,ROJA
+      - id: 2244126
+        sku: ROMA-PUMA-9
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,BLANCA
+          TALLA,2XL
+      - id: 2244123
+        sku: ROMA-PUMA-6
+        stock: 8
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,BLANCA
+          TALLA,M
+      - id: 2244124
+        sku: ROMA-PUMA-7
+        stock: 24
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,BLANCA
+          TALLA,L
+      - id: 2244138
+        sku: ROMA-PUMA-21
+        stock: 3
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,VERDE BOTELLA
+          TALLA,M
+      - id: 2244120
+        sku: ROMA-PUMA-3
+        stock: 14
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,NEGRA
+          TALLA,XL
+      - id: 2349552
+        sku: ROMA-PUMA-31
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,2XL
+          SUDADERA,GRIS
+      - id: 2244125
+        sku: ROMA-PUMA-8
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,BLANCA
+          TALLA,XL
+      - id: 2332427
+        sku: ROMA-PUMA-27
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,M
+          SUDADERA,GRIS
+      - id: 2355425
+        sku: ROMA-PUMA-32
+        stock: 2
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,S
+          SUDADERA,AZUL NOCHE
+      - id: 2324073
+        sku: ROMA-PUM24
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,2XL
+          SUDADERA,AZUL NOCHE
+      - id: 2244141
+        sku: ROMA-PUMA-24
+        stock: 1
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,VERDE BOTELLA
+          TALLA,2XL
+      - id: 2244130
+        sku: ROMA-PUMA-13
+        stock: 0
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,AZUL REY
+          TALLA,XL
+      - id: 2327404
+        sku: ROMA-PUMA-25
+        stock: 5
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,L
+          SUDADERA,AZUL NOCHE
+      - id: 2320566
+        sku: PUMA-01
+        stock: 5
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,XL
+          SUDADERA,GRIS
+      - id: 2320567
+        sku: PUMA-02
+        stock: 10
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          TALLA,XL
+          SUDADERA,AZUL NOCHE
+      - id: 2244118
+        sku: ROMA-PUMA-1
+        stock: 7
+        sale_price: 43000
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          SUDADERA,NEGRA
+          TALLA,M
+  - id: 1900568
+    sku: BXA-557
+    name: BLACK XS APHRODISIQUE
+    sale_price: 45000
+    suggested_price: 45000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 300
+    supplier_id: 622983
+    categories[7]: Bisutería,Moda,Belleza,Salud,Aseo,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1900568/1758750115White%20Natural%20Organic%20Cosmetic%20Instagram%20Post%20-%202025-09-24T164142.198.png"
+    variations[0]:
+  - id: 2040950
+    sku: "864568743"
+    name: PRE ENTRENO PRE-W N4
+    sale_price: 45000
+    suggested_price: 120000
+    simple_price: 47000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 120
+    supplier_id: 768955
+    categories[1]: Otro
+    gallery[0]:
+    variations[0]:
+  - id: 922581
+    sku: esdd6526595
+    name: Dragon Chino Rojo Feng Shui Sabiduria Fi
+    sale_price: 34900
+    suggested_price: 42900
+    simple_price: 34900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 12108
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/922581/171909627720240622_082509.jpg"
+    variations[0]:
+count: 82
+currency: COP
