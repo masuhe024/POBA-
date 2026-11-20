@@ -1,0 +1,2734 @@
+items[91]:
+  - id: 2271253
+    sku: MAQUINA PROFESIONAL 9 PIEZAS
+    name: MAQUINA PROFESIONAL 9 PIEZAS
+    sale_price: 25000
+    suggested_price: 40000
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1163
+    supplier_id: 78900
+    categories[30]: Aseo,Bienestar,Camping,Pesca,Moda,Tecnologia,Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería,Cyber days
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2271253/7fa2a101-c27d-49af-8a2c-e325536a51cc.webp"
+    variations[0]:
+  - id: 304672
+    sku: 15383-78
+    name: Carpa impermeable para mascota L
+    sale_price: 12000
+    suggested_price: 18000
+    simple_price: 12000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 66
+    supplier_id: 53474
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/304672/17018910621701891062a9cdb76c-a3e5-4fba-88ad-8781b5c44b6f-p1110170.jpg"
+    variations[0]:
+  - id: 2312167
+    sku: null
+    name: CAMA ANTIESTRES GRIS PERROS GATOS 70CM
+    sale_price: 45400
+    suggested_price: 90000
+    simple_price: 45400
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 99
+    supplier_id: 691660
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2312167/90b2a267-dd9f-417a-b2bd-45a5007021cf.JPG"
+    variations[0]:
+  - id: 1957282
+    sku: "2789"
+    name: Equi-gan (Tornel) (solución inyectable)
+    sale_price: 88000
+    suggested_price: 129900
+    simple_price: 88000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 2000
+    supplier_id: 581789
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1957282/1759977645WhatsApp%20Image%202025-10-08%20at%206.33.43%20AM%20(1).jpeg"
+    variations[0]:
+  - id: 2348919
+    sku: ANG_GUNCPMC_MP
+    name: Guante Cepillo Quita Pelo Mascotas Perro
+    sale_price: 10900
+    suggested_price: 40900
+    simple_price: 10900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 192984
+    categories[3]: Mascotas,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2348919/abae312f-cce2-44a9-8710-bfaf3733207f.png"
+    variations[0]:
+  - id: 2306178
+    sku: A-144
+    name: Protector de Colchón 1.20 M Color Negro
+    sale_price: 38000
+    suggested_price: 45000
+    simple_price: 38000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1138
+    supplier_id: 1029738
+    categories[17]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Mad,Aseo,Defensa personal,Otro,Navidad,Cyber days
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2306178/26607074-9e54-4fef-85fb-376da21cec16.jpeg"
+    variations[0]:
+  - id: 2146618
+    sku: RH01561
+    name: BLOQUEADOR ANTIRROBO DE VOLANTE EN ACERO
+    sale_price: 29000
+    suggested_price: 52000
+    simple_price: 29000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 293
+    supplier_id: 144205
+    categories[2]: Mascotas,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2146618/1778179272WhatsApp%20Image%202026-05-07%20at%201.25.06%20PM.jpeg"
+    variations[0]:
+  - id: 2131504
+    sku: TCC0007
+    name: combo X 3 unidades Pala arena de gato
+    sale_price: 30000
+    suggested_price: 85900
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 706030
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2131504/1776445373IMG_20250801_174543818.jpg"
+    variations[0]:
+  - id: 2288783
+    sku: null
+    name: Protector Colchón y 2 almohadas 50x70 cm
+    sale_price: 56350
+    suggested_price: null
+    simple_price: 56350
+    visible_start_sale_price: 56350
+    visible_end_sale_price: 73000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 496749
+    categories[3]: Mascotas,Belleza,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2288783/b921ac80-211e-43bc-b621-ee7c76f78c52.jpg"
+    variations[50]:
+      - id: 2404767
+        sku: "-0"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Vino tinto
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404768
+        sku: "-1"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Vino tinto
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404769
+        sku: "-2"
+        stock: 7999
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Vino tinto
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404770
+        sku: "-3"
+        stock: 7999
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Vino tinto
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404771
+        sku: "-4"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Vino tinto
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404772
+        sku: "-5"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Beige
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404773
+        sku: "-6"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Beige
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404774
+        sku: "-7"
+        stock: 7998
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Beige
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404775
+        sku: "-8"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Beige
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404776
+        sku: "-9"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Beige
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404777
+        sku: "-10"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Azul
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404778
+        sku: "-11"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Azul
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404779
+        sku: "-12"
+        stock: 8000
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Azul
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404780
+        sku: "-13"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Azul
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404781
+        sku: "-14"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Azul
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404782
+        sku: "-15"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Rosa
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404783
+        sku: "-16"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Rosa
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404784
+        sku: "-17"
+        stock: 8000
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Rosa
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404785
+        sku: "-18"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Rosa
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404786
+        sku: "-19"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Rosa
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404787
+        sku: "-20"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404788
+        sku: "-21"
+        stock: 7999
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404789
+        sku: "-22"
+        stock: 8000
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404790
+        sku: "-23"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404791
+        sku: "-24"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404792
+        sku: "-25"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Negro
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404793
+        sku: "-26"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Negro
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404794
+        sku: "-27"
+        stock: 7997
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Negro
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404795
+        sku: "-28"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Negro
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404796
+        sku: "-29"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Negro
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404797
+        sku: "-30"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Agua marina
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404798
+        sku: "-31"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Agua marina
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404799
+        sku: "-32"
+        stock: 8000
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Agua marina
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404800
+        sku: "-33"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Agua marina
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404801
+        sku: "-34"
+        stock: 7999
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Agua marina
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404802
+        sku: "-35"
+        stock: 7999
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Gris
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404803
+        sku: "-36"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Gris
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404804
+        sku: "-37"
+        stock: 7999
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Gris
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404805
+        sku: "-38"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Gris
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404806
+        sku: "-39"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Gris
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404807
+        sku: "-40"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Lila
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404808
+        sku: "-41"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Lila
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404809
+        sku: "-42"
+        stock: 8000
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Lila
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404810
+        sku: "-43"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Lila
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404811
+        sku: "-44"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Lila
+          Medida,King ( 2.00 x 2.00 )
+      - id: 2404812
+        sku: "-45"
+        stock: 8000
+        sale_price: 56350
+        suggested_price: 130000
+        attributes[2]{name,value}:
+          Color,Verde
+          Medida,Sencillo ( 1.00 x 1.90 )
+      - id: 2404813
+        sku: "-46"
+        stock: 8000
+        sale_price: 59000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Verde
+          Medida,Semi Doble ( 1.20 x 1.90 )
+      - id: 2404814
+        sku: "-47"
+        stock: 8000
+        sale_price: 62000
+        suggested_price: 140000
+        attributes[2]{name,value}:
+          Color,Verde
+          Medida,Doble ( 1.40 x 1.90 )
+      - id: 2404815
+        sku: "-48"
+        stock: 8000
+        sale_price: 65000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Verde
+          Medida,Queen ( 1.60 x 1.90 )
+      - id: 2404816
+        sku: "-49"
+        stock: 8000
+        sale_price: 73000
+        suggested_price: 160000
+        attributes[2]{name,value}:
+          Color,Verde
+          Medida,King ( 2.00 x 2.00 )
+  - id: 1811917
+    sku: Bebedero grande
+    name: Bebedero Automático Grande Mascotas Perr
+    sale_price: 21000
+    suggested_price: 50000
+    simple_price: 21000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 195
+    supplier_id: 538567
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1811917/1746546484Captura%20de%20Pantalla%202025-05-06%20a%20la(s)%2010.41.03%20a. m..png"
+    variations[0]:
+  - id: 193012
+    sku: "1000"
+    name: SazonBIGO (Suplemento alimenticio)
+    sale_price: 19653
+    suggested_price: 33000
+    simple_price: 19653
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 35066
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/193012/17023039531702303953Sazonbigo%20250g.jpg"
+    variations[0]:
+  - id: 257096
+    sku: "20"
+    name: Pulidor de uñas para mascotas
+    sale_price: 11900
+    suggested_price: 16000
+    simple_price: 11900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 12
+    supplier_id: 31894
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/257096/17018993501701899350D_NQ_NP_2X_885766-MCO51026820586_082022-F.jpeg"
+    variations[0]:
+  - id: 1721544
+    sku: SOM-2025
+    name: HERMOSAS SOMBRILLAS DE TELA PARA NIÑOS
+    sale_price: 16000
+    suggested_price: 17000
+    simple_price: 16000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 2000
+    supplier_id: 23873
+    categories[28]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1721544/1742145745WhatsApp%20Image%202025-03-14%20at%2015.46.58%20copia.jpeg"
+    variations[0]:
+  - id: 764083
+    sku: OOO361
+    name: Morral Astro Maleta Para Mascotas
+    sale_price: 43000
+    suggested_price: 45000
+    simple_price: 43000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 105
+    supplier_id: 61333
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/764083/1776984855WhatsApp%20Image%202026-04-23%20at%2017.53.06.jpeg"
+    variations[0]:
+  - id: 304832
+    sku: JL-072
+    name: Juguete para mascota bola mate sonajero
+    sale_price: 1650
+    suggested_price: 2475
+    simple_price: 1650
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 21
+    supplier_id: 53474
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/304832/1701891012170189101224252ab4-1c3c-4447-8706-49f8a0d7ab56-img_9120.jpg"
+    variations[0]:
+  - id: 891497
+    sku: M. TC
+    name: Cepillo a vapor para mascotas 3 en 1
+    sale_price: 6700
+    suggested_price: 20000
+    simple_price: 6700
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 288
+    supplier_id: 22343
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/891497/1716836821Captura%20de%20pantalla%202024-05-27%20140101.png"
+    variations[0]:
+  - id: 1866598
+    sku: "18006"
+    name: Comedero mascotas
+    sale_price: 26000
+    suggested_price: 69000
+    simple_price: 26000
+    visible_start_sale_price: 26000
+    visible_end_sale_price: 26000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 152882
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1866598/1751569638170187692717018769273%20(1).jpeg"
+    variations[2]:
+      - id: 1595889
+        sku: 18006-5
+        stock: 53
+        sale_price: 26000
+        suggested_price: 49900
+        attributes[1]{name,value}:
+          Color,Gris
+      - id: 1595888
+        sku: 18006-4
+        stock: 47
+        sale_price: 26000
+        suggested_price: 49900
+        attributes[1]{name,value}:
+          Color,AZul
+  - id: 241467
+    sku: Pet Comb Cepillo Para Mascotas
+    name: Pet Comb Cepillo Para Mascotas
+    sale_price: 18000
+    suggested_price: 49000
+    simple_price: 18000
+    visible_start_sale_price: 18000
+    visible_end_sale_price: 18000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 4454
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/241467/17019756301701975630D_NQ_NP_2X_751885-CBT52644193236_112022-F%20(1).jpeg"
+    variations[2]:
+      - id: 133334
+        sku: Pet Comb Cepillo Para Mascotas-0
+        stock: 76
+        sale_price: 18000
+        suggested_price: 49000
+        attributes[1]{name,value}:
+          COLOR,AMARILLO
+      - id: 133335
+        sku: Pet Comb Cepillo Para Mascotas-1
+        stock: 22
+        sale_price: 18000
+        suggested_price: 49000
+        attributes[1]{name,value}:
+          COLOR,ROSADO
+  - id: 1045963
+    sku: Peine Removedor de Pelo Mascotas
+    name: Peine Removedor de Pelo Mascotas
+    sale_price: 21900
+    suggested_price: 42900
+    simple_price: 21900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 219101
+    categories[4]: Mascotas,Hogar,Natural Home,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1045963/1722905707Perfil.jpg"
+    variations[0]:
+  - id: 1158876
+    sku: SP21051500044
+    name: CORRAL MASCOTAS PERROS GATOS PLEGABLE M
+    sale_price: 41000
+    suggested_price: 80000
+    simple_price: 41000
+    visible_start_sale_price: 41000
+    visible_end_sale_price: 41000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 204867
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1158876/1749254863IMG_9980%203.jpg"
+    variations[5]:
+      - id: 1656450
+        sku: SP21051500044-5
+        stock: 78
+        sale_price: 41000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          COLOR,ROJO
+      - id: 869987
+        sku: SP21051500044-2
+        stock: 11
+        sale_price: 41000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          COLOR,GRIS
+      - id: 869986
+        sku: SP21051500044-1
+        stock: 0
+        sale_price: 41000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          COLOR,ROSA
+      - id: 869988
+        sku: SP21051500044-3
+        stock: 69
+        sale_price: 41000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          COLOR,CAFE
+      - id: 869985
+        sku: SP21051500044-0
+        stock: 65
+        sale_price: 41000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          COLOR,AZUL
+  - id: 1881903
+    sku: skumcp
+    name: Cepillo Shampoo Masajeador para Mascotas
+    sale_price: 10000
+    suggested_price: 25600
+    simple_price: 10000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 294
+    supplier_id: 5935
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1881903/1753194210descarga%20(85).jpg"
+    variations[0]:
+  - id: 2338361
+    sku: null
+    name: CORRAL MASCOTA
+    sale_price: 36000
+    suggested_price: null
+    simple_price: 36000
+    visible_start_sale_price: 36000
+    visible_end_sale_price: 36000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 67745
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2338361/f0d8f660-3523-43be-a155-04f7ea1d09b5.jpg"
+    variations[3]:
+      - id: 2530235
+        sku: "-0"
+        stock: 191
+        sale_price: 36000
+        suggested_price: 36000
+        attributes[1]{name,value}:
+          COLOR,NEGRO BEIGE
+      - id: 2530236
+        sku: "-1"
+        stock: 198
+        sale_price: 36000
+        suggested_price: 36000
+        attributes[1]{name,value}:
+          COLOR,NEGRO ROJO
+      - id: 2530237
+        sku: "-2"
+        stock: 199
+        sale_price: 36000
+        suggested_price: 36000
+        attributes[1]{name,value}:
+          COLOR,NEGRO ROSA
+  - id: 2135718
+    sku: null
+    name: Tapete De Perro Pequeño
+    sale_price: 45000
+    suggested_price: 60000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 667801
+    categories[5]: Mascotas,Tecnologia,Hogar,Aseo,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2135718/1776895023WhatsApp%20Image%202026-04-22%20at%202.42.20%20PM.jpeg"
+    variations[0]:
+  - id: 1474993
+    sku: WNURACMHP6
+    name: Cepillo Dientes Perros Juguete Goma Med
+    sale_price: 25090
+    suggested_price: 33871.5
+    simple_price: 25090
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 325736
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1474993/17416286121.jpg"
+    variations[0]:
+  - id: 2172013
+    sku: null
+    name: Diesel Plus Plus Gold Mujer
+    sale_price: 45000
+    suggested_price: 50000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 101
+    supplier_id: 142287
+    categories[29]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2172013/1780932177Diesel%20-%20Plus%20Plus%20Gold%20Mujer.jpg"
+    variations[0]:
+  - id: 2172259
+    sku: PRO8215
+    name: DIURIVET NF
+    sale_price: 32750
+    suggested_price: null
+    simple_price: 32750
+    visible_start_sale_price: 32750
+    visible_end_sale_price: 64000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 276952
+    categories[10]: Mascotas,Hogar,Natural Home,Mad,Aseo,Bienestar,Camping,Pesca,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2172259/1780971255WhatsApp%20Image%202026-06-08%20at%209.04.44%20PM.jpeg"
+    variations[2]:
+      - id: 2201459
+        sku: "-1"
+        stock: 1038
+        sale_price: 64000
+        suggested_price: 74000
+        attributes[1]{name,value}:
+          PRESENTACION,50ML
+      - id: 2201458
+        sku: "-0"
+        stock: 1036
+        sale_price: 32750
+        suggested_price: 41000
+        attributes[1]{name,value}:
+          PRESENTACION,10ML
+  - id: 2204710
+    sku: Combox2Guantes
+    name: Combox2 Guante Quita Pelos Mascotas Cepi
+    sale_price: 17000
+    suggested_price: 23000
+    simple_price: 17000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 117
+    supplier_id: 36082
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2204710/1784234706guantes%20electrostaticos%20de%20malla%20para%20eliminar%20pelo%20de%20mascotas2.jpg"
+    variations[0]:
+  - id: 1860655
+    sku: "https://kameliashop.co/"
+    name: K4730 SKINNY NEGRO 1 BOTON CLASICO
+    sale_price: 65000
+    suggested_price: 135000
+    simple_price: 66000
+    visible_start_sale_price: 66000
+    visible_end_sale_price: 66000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 348182
+    categories[22]: Electronica,Tecnologia,Salud,Deportes,Aseo,Fitness,Juguetes,Mascotas,Calzado,Bienestar,Vehiculos,Belleza,Novedades,Gadgets,Moda,Bebé,Hogar,Accesorios,Bolsos,Cocina,Ropa,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1860655/1772830121WhatsApp%20Image%202026-03-06%20at%2010.14.44%20AM%20(6).jpeg"
+    variations[5]:
+      - id: 2226409
+        sku: "https://kameliashop.co/-1"
+        stock: 11
+        sale_price: 66000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          NEGRO,TALLA 16
+      - id: 2226410
+        sku: "https://kameliashop.co/-2"
+        stock: 44
+        sale_price: 66000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          NEGRO,TALLA 14
+      - id: 2226413
+        sku: "https://kameliashop.co/-5"
+        stock: 25
+        sale_price: 66000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          NEGRO,TALLA 8
+      - id: 2226411
+        sku: "https://kameliashop.co/-3"
+        stock: 43
+        sale_price: 66000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          NEGRO,TALLA 12
+      - id: 2226412
+        sku: "https://kameliashop.co/-4"
+        stock: 44
+        sale_price: 66000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          NEGRO,TALLA 10
+  - id: 2110205
+    sku: Y3131
+    name: Brillo Labial Mágico Mariposas X 2
+    sale_price: 15600
+    suggested_price: 16000
+    simple_price: 15600
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 5400
+    supplier_id: 23873
+    categories[29]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2110205/1773877314image_Pippit_202603181835%20copia.png"
+    variations[0]:
+  - id: 1611181
+    sku: TE
+    name: TE Recogedor De Heces De Mascotas
+    sale_price: 25200
+    suggested_price: 55200
+    simple_price: 25200
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 73779
+    categories[4]: Mascotas,Hogar,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1611181/1738089551Recogedor%20Heces%20Mascotas.JPG"
+    variations[0]:
+  - id: 2275084
+    sku: "https://www.tiendakameliajeans.com/"
+    name: K4694 BIKER TENDENCIA PRETINA ENCAUCHADA
+    sale_price: 70000
+    suggested_price: 135000
+    simple_price: 71000
+    visible_start_sale_price: 71000
+    visible_end_sale_price: 71000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 348182
+    categories[22]: Electronica,Tecnologia,Vehiculos,Belleza,Novedades,Gadgets,Moda,Bebé,Hogar,Accesorios,Bolsos,Cocina,Ropa,Otro,Salud,Deportes,Aseo,Fitness,Juguetes,Mascotas,Calzado,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2275084/191319a9-4ef0-4c98-a971-6354bcb2c0ab.jpeg"
+    variations[5]:
+      - id: 2380652
+        sku: "https://www.tiendakameliajeans.com/-4"
+        stock: 9
+        sale_price: 71000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          GRIS TENDENCIA,TALLA 16
+      - id: 2380648
+        sku: "https://www.tiendakameliajeans.com/-0"
+        stock: 24
+        sale_price: 71000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          GRIS TENDENCIA,TALLA 8
+      - id: 2380649
+        sku: "https://www.tiendakameliajeans.com/-1"
+        stock: 33
+        sale_price: 71000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          GRIS TENDENCIA,TALLA 10
+      - id: 2380650
+        sku: "https://www.tiendakameliajeans.com/-2"
+        stock: 33
+        sale_price: 71000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          GRIS TENDENCIA,TALLA 12
+      - id: 2380651
+        sku: "https://www.tiendakameliajeans.com/-3"
+        stock: 34
+        sale_price: 71000
+        suggested_price: 135000
+        attributes[1]{name,value}:
+          GRIS TENDENCIA,TALLA 14
+  - id: 2105913
+    sku: null
+    name: Cama Ortopedica para mascotas
+    sale_price: 50000
+    suggested_price: 60000
+    simple_price: 50000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 972
+    supplier_id: 32016
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2105913/1773339301images%20(30).jpg"
+    variations[0]:
+  - id: 1619438
+    sku: aspin2024
+    name: aspiradora inalambrica 4 en 1
+    sale_price: 42000
+    suggested_price: 42900
+    simple_price: 42000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 23873
+    categories[27]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1619438/1736459552descarga%20(1).jpeg"
+    variations[0]:
+  - id: 648376
+    sku: "149"
+    name: Cepillo Quita Pelo Para Mascotas Con Luz
+    sale_price: 25000
+    suggested_price: 89900
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 97
+    supplier_id: 143599
+    categories[4]: Otro,Bienestar,Aseo,Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/648376/1707768058D_NQ_NP_653564-MCO54725915266_032023-O.jpg"
+    variations[0]:
+  - id: 1905090
+    sku: null
+    name: sazonador para perro
+    sale_price: 3500
+    suggested_price: 0
+    simple_price: 3500
+    visible_start_sale_price: 3500
+    visible_end_sale_price: 4000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 629695
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1905090/1755877126WhatsApp%20Image%202025-08-22%20at%2010.29.48%20AM.jpeg"
+    variations[2]:
+      - id: 1684864
+        sku: "-0"
+        stock: 1934
+        sale_price: 3500
+        suggested_price: 12000
+        attributes[1]{name,value}:
+          sazonador,pollo
+      - id: 1684865
+        sku: "-1"
+        stock: 1000
+        sale_price: 4000
+        suggested_price: 12000
+        attributes[1]{name,value}:
+          sazonador,carne
+  - id: 2334542
+    sku: A-184
+    name: Set x4 Almohadas 50*70
+    sale_price: 50000
+    suggested_price: 60000
+    simple_price: 50000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 2957
+    supplier_id: 1029738
+    categories[24]: Cyber days,Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Otro,Jugueteria,Navidad,Libros
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2334542/d28d62c6-c8fa-4ac9-87c2-6d2008effbfc.jpeg"
+    variations[0]:
+  - id: 307399
+    sku: SA-101KG-Rec
+    name: Recarga Snack Apetit pollo y zanahoria
+    sale_price: 33600
+    suggested_price: 48000
+    simple_price: 33600
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 300
+    supplier_id: 18766
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/307399/17018907981701890798Apetit-PolloZanahoria_Recarga-310x310.png"
+    variations[0]:
+  - id: 197540
+    sku: GE063PE0CNIN7LCO
+    name: Corral Plegable Para Perro Y Gato
+    sale_price: 59900
+    suggested_price: 79900
+    simple_price: 59900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 50
+    supplier_id: 30954
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/197540/17023035481702303548Diseño%20sin%20título%20-%202023-03-10T142927.267.png"
+    variations[0]:
+  - id: 1776355
+    sku: Easy Cut 10 piezas Negra
+    name: Maquina Cortadora Easy Cut 10 piezas
+    sale_price: 58900
+    suggested_price: 84000
+    simple_price: 58900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 186
+    supplier_id: 55384
+    categories[27]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1776355/1745966896Easy%20cut%20negra2.png"
+    variations[0]:
+  - id: 2328403
+    sku: MPPNA1
+    name: Comedor con Bebedero para Mascotas
+    sale_price: 20000
+    suggested_price: 50000
+    simple_price: 20000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 250265
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2328403/09c6c560-2583-43ef-aee2-b2d614e005b3.png"
+    variations[0]:
+  - id: 1917117
+    sku: SOFA REDONDO GATO
+    name: Cama Para Gato Tip Sofá antiestres
+    sale_price: 44900
+    suggested_price: 79900
+    simple_price: 44900
+    visible_start_sale_price: 44900
+    visible_end_sale_price: 44900
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 307945
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1917117/177971908801%20CAFE.png"
+    variations[3]:
+      - id: 2169615
+        sku: SOFA REDONDO GATO-0
+        stock: 19
+        sale_price: 44900
+        suggested_price: 79900
+        attributes[1]{name,value}:
+          COLOR,CAFE
+      - id: 2169616
+        sku: SOFA REDONDO GATO-1
+        stock: 20
+        sale_price: 44900
+        suggested_price: 79900
+        attributes[1]{name,value}:
+          COLOR,BEIGE
+      - id: 2169617
+        sku: SOFA REDONDO GATO-2
+        stock: 20
+        sale_price: 44900
+        suggested_price: 79900
+        attributes[1]{name,value}:
+          COLOR,GRIS
+  - id: 2093857
+    sku: RODILLO QUITA PELO
+    name: RODILLO QUITA PELO
+    sale_price: 9900
+    suggested_price: 19900
+    simple_price: 9900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 376574
+    categories[3]: Mascotas,Salud,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2093857/1772033558D_NQ_NP_2X_920297-MLA51949231496_102022-F.webp"
+    variations[0]:
+  - id: 2051002
+    sku: null
+    name: Cepillo De Mascotas Con Toallitas Humeda
+    sale_price: 16000
+    suggested_price: null
+    simple_price: 16000
+    visible_start_sale_price: 16000
+    visible_end_sale_price: 16000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 36082
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2051002/1769280319cepillo%20de%20aseo%20y%20masajeador%20para%20mascotas%20con%20toallitas2.jpg"
+    variations[2]:
+      - id: 1952062
+        sku: "-0"
+        stock: 450
+        sale_price: 16000
+        suggested_price: 18000
+        attributes[1]{name,value}:
+          Color,Azul
+      - id: 1952063
+        sku: "-1"
+        stock: 450
+        sale_price: 16000
+        suggested_price: 18000
+        attributes[1]{name,value}:
+          Color,Rosa
+  - id: 2175376
+    sku: VTCOMPLE
+    name: COMPLELAND ORAL B12 VETERLAND
+    sale_price: 18000
+    suggested_price: null
+    simple_price: 18000
+    visible_start_sale_price: 18000
+    visible_end_sale_price: 177000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 276952
+    categories[10]: Mascotas,Hogar,Natural Home,Mad,Aseo,Bienestar,Camping,Pesca,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2175376/1781233937WhatsApp%20Image%202026-06-11%20at%2010.09.38%20PM.jpeg"
+    variations[3]:
+      - id: 2206494
+        sku: "-0"
+        stock: 31
+        sale_price: 18000
+        suggested_price: 28000
+        attributes[1]{name,value}:
+          PRESENTACION,100ML
+      - id: 2206495
+        sku: "-1"
+        stock: 77
+        sale_price: 60000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          PRESENTACION,LITRO
+      - id: 2206496
+        sku: "-2"
+        stock: 5
+        sale_price: 177000
+        suggested_price: 190000
+        attributes[1]{name,value}:
+          PRESENTACION,GALON
+  - id: 2346112
+    sku: A-194
+    name: Combo 2 Cojines 50*50+2 Almohadas 45*65
+    sale_price: 35000
+    suggested_price: 45000
+    simple_price: 35000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1056
+    supplier_id: 1029738
+    categories[28]: Bisutería,Ropa Deportiva,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería,Cyber days
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2346112/8fcd6b46-54ca-4bd5-acab-0331cdfda6b8.jpeg"
+    variations[0]:
+  - id: 1456090
+    sku: RH00373
+    name: MALLA DE SEGURIDAD PARA MASCOTAS Y BEBES
+    sale_price: 16000
+    suggested_price: 30000
+    simple_price: 16000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 304
+    supplier_id: 144205
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1456090/1731177590images.jpeg"
+    variations[0]:
+  - id: 1637203
+    sku: PESA TOBILLERA 5KG
+    name: PESA TOBILLOS 5Kg
+    sale_price: 65000
+    suggested_price: 85000
+    simple_price: 65000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 250
+    supplier_id: 290666
+    categories[8]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Belleza,Hogar,Natural Home,Deportes
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1637203/1737568714IMG_7774.webp"
+    variations[0]:
+  - id: 2149948
+    sku: bapax1
+    name: Bañera Automatica de Aves
+    sale_price: 40470
+    suggested_price: 40470
+    simple_price: 40470
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 537
+    supplier_id: 49799
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2149948/17833759603_11zon_4_480x480.webp"
+    variations[0]:
+  - id: 243104
+    sku: HA-10
+    name: 🔝HAPPY PETS → CUIDADO BUCAL MASCOTAS
+    sale_price: 11000
+    suggested_price: 49900
+    simple_price: 13000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 771
+    supplier_id: 44586
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/243104/1779295510Produco-2-_2_.gif"
+    variations[0]:
+  - id: 1867156
+    sku: DUCHA-4M-NEG-KIT3F.
+    name: Cabezal de ducha autolimpiable con cepil
+    sale_price: 33900
+    suggested_price: 99900
+    simple_price: 33900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 4997
+    supplier_id: 571696
+    categories[4]: Mascotas,Hogar,Aseo,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1867156/9c7abcb7-7e0f-4d41-bced-2173a5963262.png"
+    variations[0]:
+  - id: 1906635
+    sku: Tapete entrenamiento Perro mas Cepillo Redondo
+    name: Tapete entrenamiento Perro mas Cepillo
+    sale_price: 63000
+    suggested_price: 63000
+    simple_price: 63000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 297
+    supplier_id: 10929
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1906635/b4fc1312-0a4d-428c-bf1d-1940fb574f44.png"
+    variations[0]:
+  - id: 1942754
+    sku: CUBRE SOFAS TRES PUESTOS
+    name: CUBRE SOFAS TRES PUESTOS
+    sale_price: 20000
+    suggested_price: 70000
+    simple_price: 20000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 23
+    supplier_id: 575149
+    categories[2]: Mascotas,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1942754/1759173127107.webp"
+    variations[0]:
+  - id: 2188447
+    sku: null
+    name: "MALETA MASCOTA TA SKU:"
+    sale_price: 37000
+    suggested_price: 70000
+    simple_price: 37000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 32580
+    categories[6]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2188447/17826794981001509211.jpg"
+    variations[0]:
+  - id: 257513
+    sku: "1346789730999"
+    name: Removedor De Pelo De Mascotas Rodillo
+    sale_price: 45000
+    suggested_price: 45000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 198
+    supplier_id: 42478
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/257513/17018993261701899326Diseño%20sin%20título%20(74).jpg"
+    variations[0]:
+  - id: 2109366
+    sku: DESTORNILLADOR ELECTRICO INALAMBRICO
+    name: DESTORNILLADOR ELECTRICO INALAMBRICO
+    sale_price: 28000
+    suggested_price: 35000
+    simple_price: 28000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1004
+    supplier_id: 78900
+    categories[28]: Natural Home,Mad,Sex Shop,Bebé,Aseo,Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2109366/1773783205Captura%20de%20pantalla%202026-03-17%20162303.jpg"
+    variations[0]:
+  - id: 1872777
+    sku: BTLV-220
+    name: MALETA TRANSPORTADORA PARA GATO
+    sale_price: 55000
+    suggested_price: 79900
+    simple_price: 55000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 102652
+    categories[2]: Mascotas,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1872777/1752177073Imagen%20de%20WhatsApp%202025-07-09%20a%20las%2015.05.37_d0b0cf08.jpg"
+    variations[0]:
+  - id: 2240461
+    sku: PROD-1787166884149
+    name: pecera sobo m-b06
+    sale_price: 200000
+    suggested_price: 50000
+    simple_price: 200000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 965595
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2240461/1c69ef0c-0aa5-40b6-96da-1381a5623489.jpeg"
+    variations[0]:
+  - id: 1309624
+    sku: Cepillo de Mascotas con Vapor 3 en 1
+    name: Cepillo de Mascotas con Vapor 3 en 1
+    sale_price: 8000
+    suggested_price: 35000
+    simple_price: 8000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 283
+    supplier_id: 121731
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1309624/1728080820D_NQ_NP_639650-CBT73379716003_122023-O.webp"
+    variations[0]:
+  - id: 1811574
+    sku: CEPILLO PELO
+    name: Rodillo eliminador quita pelos lavable
+    sale_price: 10000
+    suggested_price: 25000
+    simple_price: 10000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 538567
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1811574/1746497130Captura%20de%20Pantalla%202025-04-29%20a%20la(s)%203.57.23%20p. m..png"
+    variations[0]:
+  - id: 1292741
+    sku: Panda
+    name: BOLSA PANDA
+    sale_price: 0.1
+    suggested_price: 500
+    simple_price: 0.1
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 139745
+    categories[6]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1292741/1727930350Screenshot_20241002-233457~2.png"
+    variations[0]:
+  - id: 657472
+    sku: cepillo secador mascota
+    name: Cepillo Secador para Mascotas Eléctrico
+    sale_price: 29900
+    suggested_price: 35000
+    simple_price: 29900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 156156
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/657472/1708105545cepillo%20secador.jpg"
+    variations[0]:
+  - id: 1914420
+    sku: RCO003
+    name: GOTAS OCULARES PARA MASCOTAS 10ML
+    sale_price: 40000
+    suggested_price: 89900
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 512
+    supplier_id: 640009
+    categories[2]: Mascotas,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1914420/1762313135IMG-20251104-WA0031.jpg"
+    variations[0]:
+  - id: 772071
+    sku: 450-02252
+    name: Kit Comedero+Bebedero
+    sale_price: 27000
+    suggested_price: 39900
+    simple_price: 27000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 50
+    supplier_id: 3195
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/772071/171295059681287276-9287-439c-b5cb-09e1ed106aba.jpg"
+    variations[0]:
+  - id: 1634943
+    sku: lkjhgfd34567
+    name: Mascota Cepillo Secador Para Mascotas Pe
+    sale_price: 30000
+    suggested_price: 59000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 398
+    supplier_id: 179249
+    categories[4]: Mascotas,Tecnologia,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1634943/1737422207Captura%20de%20pantalla%202025-01-20%20201208.png"
+    variations[0]:
+  - id: 1645167
+    sku: "100"
+    name: ARNES PARA PERROS MK012 TALLA XL
+    sale_price: 12857
+    suggested_price: 55000
+    simple_price: 12857
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 3
+    supplier_id: 104021
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1645167/1738077298WhatsApp%20Image%202025-01-28%20at%2010.06.13%20AM.jpeg"
+    variations[0]:
+  - id: 1899204
+    sku: "000"
+    name: RASCADOR INTERACTIVO GATOS
+    sale_price: 32000
+    suggested_price: 59900
+    simple_price: 32000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 79
+    supplier_id: 102612
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1899204/1755118121RASCADOR%20.jpg"
+    variations[0]:
+  - id: 2028755
+    sku: Rascador Esquinero Para Gatos
+    name: Rascador Esquinero Para Gatos
+    sale_price: 9900
+    suggested_price: 19900
+    simple_price: 9900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 376574
+    categories[3]: Mascotas,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2028755/1766855388rascador-esquinero-1.webp"
+    variations[0]:
+  - id: 2214315
+    sku: DJP
+    name: Cepillo Lavaloza con Dispensador de Jabó
+    sale_price: 10000
+    suggested_price: 56900
+    simple_price: 10000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 485
+    supplier_id: 47659
+    categories[21]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2214315/17852226811000379173.jpg"
+    variations[0]:
+  - id: 484902
+    sku: Kkl
+    name: Pulidor Limador Cortauñas Mascotas
+    sale_price: 15000
+    suggested_price: 30000
+    simple_price: 15000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 608
+    supplier_id: 32318
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/484902/169923778596c1cf2e0496a0e6726b40cf3cc97647-product.webp"
+    variations[0]:
+  - id: 2107680
+    sku: null
+    name: Plancha Pinza De Cabello Ondas De Sirena
+    sale_price: 33500
+    suggested_price: 46500
+    simple_price: 33500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 75231
+    categories[29]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2107680/17735191572345YUJHGFDS.PNG"
+    variations[0]:
+  - id: 1895852
+    sku: puertarec700
+    name: Puerta retráctil para mascotas o bebés
+    sale_price: 180000
+    suggested_price: 210000
+    simple_price: 180000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 547
+    supplier_id: 159749
+    categories[2]: Mascotas,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1895852/17546933281.jpg"
+    variations[0]:
+  - id: 802284
+    sku: Mini Licuadora Portatil Recargable
+    name: Mini Licuadora Portatil Recargable
+    sale_price: 19900
+    suggested_price: 34900
+    simple_price: 19900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 530
+    supplier_id: 55384
+    categories[28]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/802284/1713977412licuadora%205.jpg"
+    variations[0]:
+  - id: 1113517
+    sku: PX7000193
+    name: ✅ CONT PLEGABLE AGUA RADIADOR 5LTS 🚗 🚙
+    sale_price: 12750
+    suggested_price: 25500
+    simple_price: 12750
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 28
+    supplier_id: 155682
+    categories[16]: Ropa Deportiva,Mascotas,Belleza,Salud,Hogar,Natural Home,Deportes,Bebé,Aseo,Bienestar,Camping,Pesca,Otro,Vehículos,Piñateria,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1113517/172454016721e1BErSFKS._AC_%20(1)%20(1).jpg"
+    variations[0]:
+  - id: 2329890
+    sku: "6519816"
+    name: Guantes Moto AXE Impermeables Térmicos
+    sale_price: 70000
+    suggested_price: 105000
+    simple_price: 70000
+    visible_start_sale_price: 70000
+    visible_end_sale_price: 70000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 245830
+    categories[11]: Ropa Deportiva,Vaporizadores,Mascotas,Cocina,Belleza,Salud,Natural Home,Sex Shop,Bienestar,Otro,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2329890/b91f659e-ec7e-45bf-8e39-80f268b2e388.jpg"
+    variations[3]:
+      - id: 2514254
+        sku: 6519816-0
+        stock: 800
+        sale_price: 70000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          TALLA,M
+      - id: 2514255
+        sku: 6519816-1
+        stock: 800
+        sale_price: 70000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          TALLA,L
+      - id: 2514256
+        sku: 6519816-2
+        stock: 800
+        sale_price: 70000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          TALLA,XL
+  - id: 2210342
+    sku: null
+    name: CAMA REDONDA  PARA PERROS Y GATOS
+    sale_price: 42000
+    suggested_price: null
+    simple_price: 42000
+    visible_start_sale_price: 42000
+    visible_end_sale_price: 53000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 5076
+    categories[7]: Bisutería,Mascotas,Hogar,Natural Home,Bienestar,Otro,Navidad
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2210342/1784830529WhatsApp%20Image%202026-07-10%20at%201.03.46%20PM%20(2).jpeg"
+    variations[9]:
+      - id: 2276740
+        sku: "-0"
+        stock: 130
+        sale_price: 42000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,NEGRO 60 CM
+      - id: 2276741
+        sku: "-1"
+        stock: 112
+        sale_price: 45000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,NEGRO 70 CM
+      - id: 2276744
+        sku: "-4"
+        stock: 0
+        sale_price: 45000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,GRIS 70 CM
+      - id: 2276745
+        sku: "-5"
+        stock: 0
+        sale_price: 53000
+        suggested_price: 112000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,GRIS 80 CM
+      - id: 2276746
+        sku: "-6"
+        stock: 98
+        sale_price: 42000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,ROSA 60 CM
+      - id: 2276747
+        sku: "-7"
+        stock: 92
+        sale_price: 45000
+        suggested_price: 105000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,ROSA 70 CM
+      - id: 2276742
+        sku: "-2"
+        stock: 0
+        sale_price: 53000
+        suggested_price: 112000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,NEGRO 80 CM
+      - id: 2276743
+        sku: "-3"
+        stock: 130
+        sale_price: 42000
+        suggested_price: 90000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,GRIS 60 CM
+      - id: 2276748
+        sku: "-8"
+        stock: 94
+        sale_price: 53000
+        suggested_price: 112000
+        attributes[1]{name,value}:
+          COLOR Y TALLA,ROSA 80 CM
+  - id: 2299779
+    sku: SP210515649
+    name: SILLA PARA MASCOTAS TRANSPORTE AUTOS ANI
+    sale_price: 33000
+    suggested_price: 60000
+    simple_price: 33000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 92800
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2299779/4503c2da-24d0-4fc3-b7a8-011d4c9119f6.png"
+    variations[0]:
+  - id: 2315169
+    sku: A-158
+    name: Protector Multifunción 1 Metro Gris
+    sale_price: 49000
+    suggested_price: 59000
+    simple_price: 49000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 186
+    supplier_id: 1029738
+    categories[16]: Ropa Deportiva,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Deportes,Bebé,Aseo,Bienestar,Camping,Otro,Navidad,Cyber days
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2315169/390705b2-3686-4b4e-b07a-27a46aa590be.jpeg"
+    variations[0]:
+  - id: 2128895
+    sku: OVPROSTAL
+    name: PROSTAL (OVER)
+    sale_price: 23000
+    suggested_price: null
+    simple_price: 23000
+    visible_start_sale_price: 23000
+    visible_end_sale_price: 96000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 276952
+    categories[10]: Mascotas,Hogar,Natural Home,Mad,Aseo,Bienestar,Camping,Pesca,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2128895/1776136998WhatsApp%20Image%202026-04-13%20at%2010.19.51%20PM.jpeg"
+    variations[2]:
+      - id: 2097679
+        sku: "-0"
+        stock: 27
+        sale_price: 23000
+        suggested_price: 34000
+        attributes[1]{name,value}:
+          PRESENTACION,2ML
+      - id: 2097680
+        sku: "-1"
+        stock: 16
+        sale_price: 96000
+        suggested_price: 109000
+        attributes[1]{name,value}:
+          PRESENTACION,20ML
+  - id: 1949689
+    sku: Juguete Inteligente Para Gatos Interactiva Recargable
+    name: Juguete Interactivo Pelota Bola Gatos
+    sale_price: 9899
+    suggested_price: 14899
+    simple_price: 9899
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 196
+    supplier_id: 78620
+    categories[3]: Mascotas,Tecnologia,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1949689/1759529455PELOTA%20MASCOTA%202.0.webp"
+    variations[0]:
+  - id: 1909299
+    sku: mtd-0001
+    name: Gel Insecticida Mata Cucarachas – Efecti
+    sale_price: 11500
+    suggested_price: 12000
+    simple_price: 11500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 39985
+    supplier_id: 23873
+    categories[29]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1909299/1769033575image_Pippit_202601211706.png"
+    variations[0]:
+  - id: 2207065
+    sku: null
+    name: Montblanc Explorer
+    sale_price: 45000
+    suggested_price: 50000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 194
+    supplier_id: 142287
+    categories[29]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2207065/1784380126montblanc%20explorer%20(2).jpg"
+    variations[0]:
+  - id: 1474718
+    sku: 5DSZQQ02WF
+    name: Cepillo Mascotas Rastrillo Desenredar
+    sale_price: 34827
+    suggested_price: 47016.45
+    simple_price: 34827
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 325736
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1474718/17417041851.jpg"
+    variations[0]:
+  - id: 1771660
+    sku: Micrófono Inalámbrico Solapa Profesional F11-2 X2
+    name: Micrófono Inalámbrico Solapa F11-2 X2
+    sale_price: 44900
+    suggested_price: 74900
+    simple_price: 44900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 572
+    supplier_id: 55384
+    categories[28]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1771660/1745610111F11-2.png"
+    variations[0]:
+  - id: 1092420
+    sku: "213"
+    name: PEZ JUGUETE PARA GATOS
+    sale_price: 18000
+    suggested_price: 45000
+    simple_price: 18000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 292
+    supplier_id: 52350
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1092420/1724121588WhatsApp%20Image%202024-08-19%20at%209.36.05%20PM.jpeg"
+    variations[0]:
+  - id: 2015366
+    sku: X02053
+    name: BAÑO GATO NETTA MAXI CLOSE
+    sale_price: 139500
+    suggested_price: 180000
+    simple_price: 139500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 120
+    supplier_id: 659550
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2015366/1764872394BAÑO%20GATO%20NETTA%20MAXI%20CLOSE.png"
+    variations[0]:
+  - id: 2164600
+    sku: "73473"
+    name: Pedal palanca cambios lujo retractil mot
+    sale_price: 30000
+    suggested_price: 70000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 600
+    supplier_id: 245830
+    categories[11]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Salud,Mad,Aseo,Pesca,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2164600/17803355341.jpg"
+    variations[0]:
+  - id: 2138439
+    sku: null
+    name: Botin CAT Hombre SINT 04
+    sale_price: 110000
+    suggested_price: null
+    simple_price: 110000
+    visible_start_sale_price: 110000
+    visible_end_sale_price: 110000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 248897
+    categories[11]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2138439/1777155378WhatsApp%20Image%202026-04-25%20at%205.06.18%20PM%20(3).jpeg"
+    variations[56]:
+      - id: 2126441
+        sku: "-10"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Todo Negro
+          Talla,"39"
+      - id: 2126442
+        sku: "-11"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Todo Negro
+          Talla,"40"
+      - id: 2126443
+        sku: "-12"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Todo Negro
+          Talla,"41"
+      - id: 2126444
+        sku: "-13"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Todo Negro
+          Talla,"42"
+      - id: 2126445
+        sku: "-14"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Todo Negro
+          Talla,"43"
+      - id: 2126446
+        sku: "-15"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Todo Negro
+          Talla,"44"
+      - id: 2126447
+        sku: "-16"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Cafe
+          Talla,"37"
+      - id: 2126448
+        sku: "-17"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Cafe
+          Talla,"38"
+      - id: 2126449
+        sku: "-18"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Cafe
+          Talla,"39"
+      - id: 2126450
+        sku: "-19"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Cafe
+          Talla,"40"
+      - id: 2126451
+        sku: "-20"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Cafe
+          Talla,"41"
+      - id: 2126452
+        sku: "-21"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Cafe
+          Talla,"42"
+      - id: 2126453
+        sku: "-22"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Cafe
+          Talla,"43"
+      - id: 2126454
+        sku: "-23"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Cafe
+          Talla,"44"
+      - id: 2126455
+        sku: "-24"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Amarillas
+          Talla,"37"
+      - id: 2126456
+        sku: "-25"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Amarillas
+          Talla,"38"
+      - id: 2126457
+        sku: "-26"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Amarillas
+          Talla,"39"
+      - id: 2126458
+        sku: "-27"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Amarillas
+          Talla,"40"
+      - id: 2126459
+        sku: "-28"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Amarillas
+          Talla,"41"
+      - id: 2126460
+        sku: "-29"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Amarillas
+          Talla,"42"
+      - id: 2126461
+        sku: "-30"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Amarillas
+          Talla,"43"
+      - id: 2126462
+        sku: "-31"
+        stock: 30
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Amarillas
+          Talla,"44"
+      - id: 2126463
+        sku: "-32"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Gris
+          Talla,"37"
+      - id: 2126464
+        sku: "-33"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Gris
+          Talla,"38"
+      - id: 2126465
+        sku: "-34"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Gris
+          Talla,"39"
+      - id: 2126466
+        sku: "-35"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Gris
+          Talla,"40"
+      - id: 2126467
+        sku: "-36"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Gris
+          Talla,"41"
+      - id: 2126468
+        sku: "-37"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Gris
+          Talla,"42"
+      - id: 2126469
+        sku: "-38"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Gris
+          Talla,"43"
+      - id: 2126470
+        sku: "-39"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Negro/ Letras Gris
+          Talla,"44"
+      - id: 2126471
+        sku: "-40"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Beis
+          Talla,"37"
+      - id: 2126472
+        sku: "-41"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Beis
+          Talla,"38"
+      - id: 2126473
+        sku: "-42"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Beis
+          Talla,"39"
+      - id: 2126474
+        sku: "-43"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Beis
+          Talla,"40"
+      - id: 2126475
+        sku: "-44"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Beis
+          Talla,"41"
+      - id: 2126476
+        sku: "-45"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Beis
+          Talla,"42"
+      - id: 2126477
+        sku: "-46"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Beis
+          Talla,"43"
+      - id: 2126478
+        sku: "-47"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Beis
+          Talla,"44"
+      - id: 2126479
+        sku: "-48"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Azul
+          Talla,"37"
+      - id: 2126480
+        sku: "-49"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Azul
+          Talla,"38"
+      - id: 2126481
+        sku: "-50"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Azul
+          Talla,"39"
+      - id: 2126482
+        sku: "-51"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Azul
+          Talla,"40"
+      - id: 2126483
+        sku: "-52"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Azul
+          Talla,"41"
+      - id: 2126484
+        sku: "-53"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Azul
+          Talla,"42"
+      - id: 2126486
+        sku: "-55"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Azul
+          Talla,"44"
+      - id: 2126485
+        sku: "-54"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Azul
+          Talla,"43"
+      - id: 2126431
+        sku: "-0"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,MIEL
+          Talla,"37"
+      - id: 2126432
+        sku: "-1"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,MIEL
+          Talla,"38"
+      - id: 2126433
+        sku: "-2"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,MIEL
+          Talla,"39"
+      - id: 2126434
+        sku: "-3"
+        stock: 19
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,MIEL
+          Talla,"40"
+      - id: 2126435
+        sku: "-4"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,MIEL
+          Talla,"41"
+      - id: 2126436
+        sku: "-5"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,MIEL
+          Talla,"42"
+      - id: 2126437
+        sku: "-6"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,MIEL
+          Talla,"43"
+      - id: 2126438
+        sku: "-7"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,MIEL
+          Talla,"44"
+      - id: 2126439
+        sku: "-8"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Todo Negro
+          Talla,"37"
+      - id: 2126440
+        sku: "-9"
+        stock: 20
+        sale_price: 110000
+        suggested_price: 180000
+        attributes[2]{name,value}:
+          COLOR,Todo Negro
+          Talla,"38"
+  - id: 304960
+    sku: M65X54
+    name: Cama para mascota mediana
+    sale_price: 13500
+    suggested_price: 20250
+    simple_price: 13500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 3
+    supplier_id: 53474
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/304960/1701890969170189096936990b06-5db1-465e-a0dc-92324c4b0d8d-whatsapp_image_2023-02-15_at_12.39.08_pm-removebg-preview.png"
+    variations[0]:
+  - id: 2173431
+    sku: null
+    name: Corral de perros-HBJL-S rosado - rojo
+    sale_price: 45000
+    suggested_price: 65000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 163379
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2173431/1781104813corral%20perros.jpg"
+    variations[0]:
+  - id: 2141230
+    sku: JUGUETE NB330 DRAKO TECH
+    name: JUGUETE NB330
+    sale_price: 17000
+    suggested_price: 25000
+    simple_price: 17000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1
+    supplier_id: 17053
+    categories[1]: Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2141230/1777485318Copia%20de%20Copia%20de%20BGZ%20ONLINE%20%20-%202026-04-29T125205.987.png"
+    variations[0]:
+  - id: 2133632
+    sku: null
+    name: Gorra Yeison Jimenez Visera Version 3
+    sale_price: 5000
+    suggested_price: null
+    simple_price: 5000
+    visible_start_sale_price: 5000
+    visible_end_sale_price: 30000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 248897
+    categories[29]: Pesca,Belleza,Salud,Hogar,Natural Home,Herramientas,Navidad,Halloween,Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Libros,papelería,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Camping
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2133632/1776721986WhatsApp%20Image%202026-04-16%20at%208.34.37%20AM%20(1).jpeg"
+    variations[13]:
+      - id: 2158083
+        sku: null-5
+        stock: 0
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Todo Rosa
+      - id: 2170365
+        sku: null-9
+        stock: 0
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Mostaza/ visera Negro
+      - id: 2158086
+        sku: null-8
+        stock: 16
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Beis/ visera Negro
+      - id: 2114592
+        sku: "-2"
+        stock: 0
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Negro / Visera Cafe
+      - id: 2114591
+        sku: "-1"
+        stock: 0
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Gris/ Visera Negro
+      - id: 2158084
+        sku: null-6
+        stock: 0
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Verde Menta
+      - id: 2158085
+        sku: null-7
+        stock: 8
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Café/ Visera Beis
+      - id: 2206534
+        sku: null-12
+        stock: 76
+        sale_price: 5000
+        suggested_price: 6000
+        attributes[1]{name,value}:
+          COLOR,CAJA
+      - id: 2202961
+        sku: null-11
+        stock: 24
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Negro
+      - id: 2170748
+        sku: null-10
+        stock: 21
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Rosa/ visera Beis
+      - id: 2300089
+        sku: null-13
+        stock: 24
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Negro/ visera Beis
+      - id: 2158082
+        sku: null-4
+        stock: 18
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Rosado/ Blanco
+      - id: 2114590
+        sku: "-0"
+        stock: 19
+        sale_price: 30000
+        suggested_price: 30000
+        attributes[1]{name,value}:
+          COLOR,Negro/ Visera Blanco
+count: 91
+currency: COP

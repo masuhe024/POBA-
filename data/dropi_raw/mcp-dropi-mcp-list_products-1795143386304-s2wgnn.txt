@@ -1,0 +1,1842 @@
+items[75]:
+  - id: 488398
+    sku: "11111"
+    name: Cepillo Inodoro en silicona
+    sale_price: 24900
+    suggested_price: 32900
+    simple_price: 24900
+    visible_start_sale_price: 24900
+    visible_end_sale_price: 24900
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 103984
+    categories[3]: Hogar,Tecnologia,Bisutería
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/488398/1699403453IMG_8827.jpeg"
+    variations[2]:
+      - id: 598561
+        sku: 11111-1
+        stock: 34
+        sale_price: 24900
+        suggested_price: 32900
+        attributes[1]{name,value}:
+          color,gris
+      - id: 598560
+        sku: 11111-0
+        stock: 33
+        sale_price: 24900
+        suggested_price: 32900
+        attributes[1]{name,value}:
+          color,negro
+  - id: 1592445
+    sku: "9512"
+    name: Z Maria Farina 100ML
+    sale_price: 39000
+    suggested_price: 44000
+    simple_price: 39000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 207
+    supplier_id: 142287
+    categories[30]: Mad,Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros,papelería,Cyber days
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1592445/12afbefb-43e4-4d88-886f-d4d50f22a8cb.jpeg"
+    variations[0]:
+  - id: 1876565
+    sku: "005"
+    name: Base Masajeadora para Pies H&B
+    sale_price: 340000
+    suggested_price: 390000
+    simple_price: 340000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 96
+    supplier_id: 317294
+    categories[11]: Ropa Deportiva,Moda,Tecnologia,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1876565/1752614890IMG_E3836[1].JPG"
+    variations[0]:
+  - id: 1993936
+    sku: TW925
+    name: AUDIFONOS BLUETOOTH HAVIT TW925 SMART TO
+    sale_price: 72750
+    suggested_price: 72750
+    simple_price: 72750
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 115
+    supplier_id: 442277
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1993936/1762972607[TW925]%20AUDIFONOS%20BLUETOOTH%20HAVIT%20TW925%20SMART%20TOUCH%20AIRPODS.jpg"
+    variations[0]:
+  - id: 1867074
+    sku: T
+    name: S-Mart Watch SK3
+    sale_price: 100000
+    suggested_price: 115000
+    simple_price: 100000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 520717
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1867074/1751585895IMG_6078.jpeg"
+    variations[0]:
+  - id: 2272113
+    sku: GAMESTICKM68
+    name: CONSOLA GAME STICK M68 PSP
+    sale_price: 99000
+    suggested_price: 145000
+    simple_price: 99000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 216010
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2272113/a3f92eda-85fb-4841-9e52-96449ee688ed.png"
+    variations[0]:
+  - id: 2210413
+    sku: Limpiador de Oídos con Cámara HD
+    name: Limpiador de Oídos con Cámara HD
+    sale_price: 13500
+    suggested_price: 22500
+    simple_price: 13500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 401
+    supplier_id: 100837
+    categories[2]: Tecnologia,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2210413/1784835521Captura%20de%20pantalla%202026-07-23%20124518.png"
+    variations[0]:
+  - id: 1994181
+    sku: TRIPODE PARA PARLANTE O CABINA
+    name: TRIPODE PARA PARLANTE O CABINA PARA 8PUL
+    sale_price: 35000
+    suggested_price: 36000
+    simple_price: 35000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 9
+    supplier_id: 14018
+    categories[2]: Tecnologia,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1994181/1762979500TRIPODE.png"
+    variations[0]:
+  - id: 1400471
+    sku: UV-5R
+    name: Radio Teléfono Profesional Baofeng UV-5R
+    sale_price: 84000
+    suggested_price: 150000
+    simple_price: 84000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 102
+    supplier_id: 265732
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1400471/1729894610radio-telefono-profesional-baofeng-uv5r-version-2020-60km-kidshoptiendavirtual-759819514.png"
+    variations[0]:
+  - id: 1610059
+    sku: "175506"
+    name: Gafas Con Bluetooth Y Audifonos
+    sale_price: 30000
+    suggested_price: 45000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 174332
+    categories[6]: Tecnologia,Deportes,Camping,Pesca,Vehículos,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1610059/1735586523GAFAS%20CON%20BLUETOOTH2.jpeg"
+    variations[0]:
+  - id: 2321042
+    sku: null
+    name: Cinta Led Neón 5 Metros App y Control
+    sale_price: 27000
+    suggested_price: 50000
+    simple_price: 27000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 400
+    supplier_id: 805933
+    categories[4]: Tecnologia,Hogar,Sex Shop,Navidad
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2321042/472f5bc7-09ff-449d-8e13-436d53832657.webp"
+    variations[0]:
+  - id: 1375422
+    sku: G-493
+    name: Almohada de Pierna Inflable
+    sale_price: 46000
+    suggested_price: 66000
+    simple_price: 46000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 158
+    supplier_id: 97530
+    categories[12]: Ropa Deportiva,Mascotas,Moda,Tecnologia,Belleza,Salud,Hogar,Natural Home,Aseo,Bienestar,Camping,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1375422/1729534378WhatsApp%20Image%202024-10-21%20at%202.30.18%20AM%20(3).jpeg"
+    variations[0]:
+  - id: 2023860
+    sku: Q16
+    name: Selfie Cuatripode Con IA
+    sale_price: 115000
+    suggested_price: 180000
+    simple_price: 115000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 190672
+    categories[4]: Tecnologia,Belleza,Deportes,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2023860/1765900757w=240,h=240,fit=pad.webp"
+    variations[0]:
+  - id: 1884403
+    sku: sdc
+    name: soplador de Turbina Bateria
+    sale_price: 42900
+    suggested_price: 52000
+    simple_price: 42900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 983
+    supplier_id: 13352
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1884403/1753392033imagen_2025-07-24_162006790.png"
+    variations[0]:
+  - id: 2130692
+    sku: DM-14
+    name: Pulidor de Uñas Mercedes 2000 DM-14
+    sale_price: 50000
+    suggested_price: 89900
+    simple_price: 50000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 33159
+    categories[2]: Tecnologia,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2130692/177635708517023012411702301241C716E384-DCE4-4EC3-9426-5CBBD34154BF%20(1).jpeg"
+    variations[0]:
+  - id: 1821298
+    sku: 5SOLVGJP8H
+    name: CAMARA RELOJ ESPIA IP
+    sale_price: 115000
+    suggested_price: 161000
+    simple_price: 115000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 216010
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1821298/1747278288Image_2025-05-14_22-04-22.png"
+    variations[0]:
+  - id: 2248081
+    sku: HT+CH
+    name: Combo picadora 3 lts + selladora
+    sale_price: 60000
+    suggested_price: 115000
+    simple_price: 60000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 199
+    supplier_id: 911649
+    categories[5]: Tecnologia,Cocina,Hogar,Natural Home,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2248081/7fbcb5a7-620e-4654-a4de-385568d5589c.jpg"
+    variations[0]:
+  - id: 2054894
+    sku: jhontan
+    name: Set Cubiertos 6 Puestos 24 Piezas Huevo
+    sale_price: 85000
+    suggested_price: 155000
+    simple_price: 85000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 298
+    supplier_id: 671741
+    categories[5]: Tecnologia,Cocina,Hogar,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2054894/1769540027WhatsApp%20Image%202026-01-27%20at%201.49.14%20PM.jpeg"
+    variations[0]:
+  - id: 358811
+    sku: corrector
+    name: Corrector Postura Inteligente
+    sale_price: 20000
+    suggested_price: 30000
+    simple_price: 20000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 33552
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/358811/170187591717018759171(18).png"
+    variations[0]:
+  - id: 1924734
+    sku: Espejo-13
+    name: Espejo Retrovisor Doble Cámara
+    sale_price: 46000
+    suggested_price: 66000
+    simple_price: 46000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 95
+    supplier_id: 13657
+    categories[2]: Tecnologia,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1924734/175777719124.png"
+    variations[0]:
+  - id: 1634297
+    sku: HV-MP838
+    name: PAD MOUSE GAMER 21 X 25CM X 3MM GOMA
+    sale_price: 7000
+    suggested_price: 7000
+    simple_price: 7000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 6
+    supplier_id: 442277
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1634297/1737401033WhatsApp%20Image%202025-01-20%20at%202.23.04%20PM.jpeg"
+    variations[0]:
+  - id: 651816
+    sku: "0"
+    name: LAMPARA PARLANTE G DE CARGA BT2301
+    sale_price: 36000
+    suggested_price: 45000
+    simple_price: 36000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 6
+    supplier_id: 6338
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/651816/1707930055G1.PNG"
+    variations[0]:
+  - id: 1862957
+    sku: Zoky
+    name: Quita Pelusa Eléctrico
+    sale_price: 22000
+    suggested_price: 42000
+    simple_price: 22000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 302862
+    categories[2]: Mascotas,Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1862957/1751057909D_NQ_NP_797228-MCO82945261531_032025-O.webp"
+    variations[0]:
+  - id: 2217758
+    sku: Picatodo Electrico 5 En 1
+    name: Picatodo Electrico 5 En 1
+    sale_price: 68000
+    suggested_price: 100000
+    simple_price: 68000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 99
+    supplier_id: 948991
+    categories[4]: Tecnologia,Cocina,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2217758/bad1dee3-ef76-43f9-bf59-a49950a7cb50.webp"
+    variations[0]:
+  - id: 2172445
+    sku: null
+    name: Power Bank con luz Blanca
+    sale_price: 115000
+    suggested_price: 125000
+    simple_price: 115000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 640540
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2172445/1781021819Power%20Bnak%20Blanca%20.png"
+    variations[0]:
+  - id: 223407
+    sku: IP11MK
+    name: IPHONE 11  FUNDA ESTUCHE FORRO DISNEY
+    sale_price: 18000
+    suggested_price: 45000
+    simple_price: 18000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 8
+    supplier_id: 38886
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/223407/170198471517019847150SS9ggLUa9Cs2rUwlPa9wYa255uHegU0cybOa8Ky.png"
+    variations[0]:
+  - id: 674208
+    sku: CHAL1
+    name: Chaleco con Luces Led
+    sale_price: 71500
+    suggested_price: 115000
+    simple_price: 71500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 115
+    supplier_id: 153692
+    categories[2]: Tecnologia,Ropa Deportiva
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/674208/1708957035chaleco3.webp"
+    variations[0]:
+  - id: 2338415
+    sku: ZOM-50
+    name: Muñequera ajustable
+    sale_price: 10000
+    suggested_price: 25000
+    simple_price: 10000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 265
+    supplier_id: 775799
+    categories[11]: Ropa Deportiva,Moda,Tecnologia,Belleza,Salud,Hogar,Natural Home,Deportes,Aseo,Bienestar,Defensa personal
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2338415/c802c154-5003-4bfd-af9b-ea47c1b1be14.webp"
+    variations[0]:
+  - id: 2300870
+    sku: Nebulizador Portátil Recargable
+    name: Nebulizador Portátil Recargable
+    sale_price: 17900
+    suggested_price: 22900
+    simple_price: 17900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 125258
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2300870/620cf04d-2f80-4ded-a666-55988aa5e039.webp"
+    variations[0]:
+  - id: 1963964
+    sku: ew
+    name: Luz De Escenario RGB 18 LED
+    sale_price: 55000
+    suggested_price: 100000
+    simple_price: 55000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 8705
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1963964/17605655941eaf7939-c126-458f-a1c4-b53adeb6ad09.jpg"
+    variations[0]:
+  - id: 1945445
+    sku: 3d
+    name: "Trípode Ultra Long De 1,75 Metros"
+    sale_price: 75000
+    suggested_price: 130000
+    simple_price: 75000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 8705
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1945445/17592716323cf36e2b-f403-4a78-b005-509c635c444f.jpg"
+    variations[0]:
+  - id: 24783
+    sku: CO-084
+    name: SOPORTE PARA CELULAR DE CARRO 360° DASH
+    sale_price: 16900
+    suggested_price: 39900
+    simple_price: 16900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 112
+    supplier_id: 2521
+    categories[3]: Moda,Tecnologia,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/24783/17030843381703084338Teléfono-para-coche-de-Montaje-de-la-Rotación-de_148301.jpeg"
+    variations[0]:
+  - id: 2290813
+    sku: Cinturón de embarazada
+    name: Cinturón de embarazada
+    sale_price: 19000
+    suggested_price: 29000
+    simple_price: 19000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 133
+    supplier_id: 96165
+    categories[2]: Tecnologia,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2290813/24a958b5-d61c-4b2f-9963-ee3afd8c1be5.png"
+    variations[0]:
+  - id: 1706151
+    sku: Intercomunicador Bluetooth Para Moto V10
+    name: intercomunicador v10 bluetooth
+    sale_price: 38990
+    suggested_price: 45000
+    simple_price: 38990
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 79
+    supplier_id: 40749
+    categories[2]: Tecnologia,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1706151/1741281822intercomunicador%20v10%201.1.png"
+    variations[0]:
+  - id: 2076102
+    sku: drrt76
+    name: Cargador Power Bank Panel Solar 12000...
+    sale_price: 30000
+    suggested_price: 65000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 78
+    supplier_id: 39300
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2076102/1770317044D_NQ_NP_2X_761427-MCO53565196407_022023-F.webp"
+    variations[0]:
+  - id: 924787
+    sku: Jv38
+    name: Combo audífonos f9 bt+ reloj d18 smart
+    sale_price: 40000
+    suggested_price: 80000
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 102869
+    categories[5]: Otro,Hogar,Tecnologia,Moda,Ropa Deportiva
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/924787/1719333768D_NQ_NP_622599-MCO73433604996_122023-O.webp"
+    variations[0]:
+  - id: 1276260
+    sku: "123579"
+    name: EXPLORADORA LED IMPERMEABLE LINEAL CARRO
+    sale_price: 18000
+    suggested_price: 35000
+    simple_price: 18000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 619
+    supplier_id: 245830
+    categories[7]: Moda,Tecnologia,Hogar,Camping,Otro,Vehículos,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1276260/1727715222D_NQ_NP_762699-MCO69456026444_052023-O.webp"
+    variations[0]:
+  - id: 1938337
+    sku: "100"
+    name: Diadema D-40 / sonido estéreo potente
+    sale_price: 36272
+    suggested_price: 89900
+    simple_price: 36272
+    visible_start_sale_price: 36272
+    visible_end_sale_price: 36272
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 596817
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1938337/175882778853.jpg"
+    variations[5]:
+      - id: 1750214
+        sku: "1224"
+        stock: 274
+        sale_price: 36272
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,BEIGE
+      - id: 1750210
+        sku: "1000"
+        stock: 274
+        sale_price: 36272
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,NEGRO
+      - id: 1750211
+        sku: "1221"
+        stock: 274
+        sale_price: 36272
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,BLANCO
+      - id: 1750212
+        sku: "74"
+        stock: 274
+        sale_price: 36272
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,AZUL CLARO
+      - id: 1750213
+        sku: "78"
+        stock: 274
+        sale_price: 36272
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,ROSADO CLARO
+  - id: 2147291
+    sku: null
+    name: CAMARA MOTO HD SPORTS
+    sale_price: 41000
+    suggested_price: 61000
+    simple_price: 41000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 42
+    supplier_id: 553114
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2147291/1778262220Image_2026-05-08_12-41-59.png"
+    variations[0]:
+  - id: 1734932
+    sku: Cable USB original
+    name: Cable Apple  Usb a lighting
+    sale_price: 10000
+    suggested_price: 40000
+    simple_price: 10000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 239628
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1734932/1743114664WhatsApp%20Image%202025-03-27%20at%205.26.35%20PM%20(1).jpeg"
+    variations[0]:
+  - id: 1914240
+    sku: RH01189
+    name: "COMBO RELOJ, CONSOLA, AUDIFONOS"
+    sale_price: 71250
+    suggested_price: 81000
+    simple_price: 71250
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 300
+    supplier_id: 43728
+    categories[2]: Tecnologia,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1914240/17568313561.png"
+    variations[0]:
+  - id: 1418528
+    sku: ESTUCHE DE MARCADORES DOBLE PUNTA 80UND
+    name: ESTUCHE DE MARCADORES DOBLE PUNTA
+    sale_price: 33000
+    suggested_price: 69900
+    simple_price: 33000
+    visible_start_sale_price: 33000
+    visible_end_sale_price: 70000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 299971
+    categories[6]: Tecnologia,Hogar,Otro,Jugueteria,Piñateria,Navidad
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1418528/1730338353WhatsApp%20Image%202024-10-30%20at%205.23.02%20PM.jpeg"
+    variations[2]:
+      - id: 1114820
+        sku: ESTUCHE DE MARCADORES DOBLE PUNTA 80UND-2
+        stock: 50
+        sale_price: 70000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          Cantidad,X120
+      - id: 1114819
+        sku: ESTUCHE DE MARCADORES DOBLE PUNTA 80UND-1
+        stock: 11
+        sale_price: 33000
+        suggested_price: 69900
+        attributes[1]{name,value}:
+          Cantidad,X80
+  - id: 2076764
+    sku: MINIWAFFRNDX
+    name: Wafflera mini redonda
+    sale_price: 30000
+    suggested_price: 55000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 553114
+    categories[4]: Tecnologia,Cocina,Hogar,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2076764/1770685276Image_2026-02-09_20-00-01.png"
+    variations[0]:
+  - id: 2113264
+    sku: 4fc897
+    name: LUZ LED SELFIE RECARGABLE PORTATIL M-88
+    sale_price: 16500
+    suggested_price: 25000
+    simple_price: 16500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 147195
+    categories[4]: moda,Hogar,Tecnologia,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2113264/1774041491eyJidWNrZXQiOiJ3YTEweC52MiIsImtleSI6IjEwY2QzMWRmLTY5NTktNDNiNC1iMWQwLTdmZTA3ZGNmYmQwMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiaGVpZ2h0IjoxMDgwLCJmaXQiOiJjb250YWluIn0sInJvdGF0ZSI6bnVsbH19.webp"
+    variations[0]:
+  - id: 436759
+    sku: G-024
+    name: Soporte Celular para Moto
+    sale_price: 22000
+    suggested_price: 39900
+    simple_price: 22000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 215
+    supplier_id: 97530
+    categories[7]: Herramientas,Vehículos,Otro,Deportes,Hogar,Tecnologia,Moda
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/436759/1697056458WhatsApp%20Image%202023-10-07%20at%206.07.06%20PM%20(1).jpeg"
+    variations[0]:
+  - id: 2272137
+    sku: CAMDINOPP4
+    name: CAMARA NIÑOS INSTANTENA DINOSAURIO PP4
+    sale_price: 110000
+    suggested_price: 150000
+    simple_price: 110000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 553114
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2272137/88bf6c18-4e29-4bb3-bec2-f7126fd01703.png"
+    variations[0]:
+  - id: 642625
+    sku: TECL87
+    name: MINI CAMARA A9
+    sale_price: 14000
+    suggested_price: 23000
+    simple_price: 14000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 21
+    supplier_id: 93931
+    categories[11]: Otro,Herramientas,Mascotas,Tecnologia,Cocina,Salud,Hogar,Natural Home,Bebé,Bienestar,Defensa personal
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/642625/1707447928camara%20a9.webp"
+    variations[0]:
+  - id: 2209462
+    sku: G303
+    name: Mini linterna llavero G303
+    sale_price: 12000
+    suggested_price: 20000
+    simple_price: 12000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 651557
+    categories[4]: Tecnologia,Hogar,Bienestar,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2209462/1784751267G303-2.png"
+    variations[0]:
+  - id: 2280668
+    sku: null
+    name: Adidas Galaxy 7
+    sale_price: 66000
+    suggested_price: null
+    simple_price: 66000
+    visible_start_sale_price: 66000
+    visible_end_sale_price: 66000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 248897
+    categories[23]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Vehículos,Jugueteria,Herramientas,Navidad,Cyber days
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2280668/a9e3b984-135d-4e73-9771-710dd5a6433a.jpg"
+    variations[72]:
+      - id: 2387701
+        sku: "-69"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"41"
+      - id: 2387702
+        sku: "-70"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"42"
+      - id: 2387703
+        sku: "-71"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"43"
+      - id: 2387699
+        sku: "-67"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"39"
+      - id: 2387700
+        sku: "-68"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"40"
+      - id: 2387632
+        sku: "-0"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"35"
+      - id: 2387633
+        sku: "-1"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"36"
+      - id: 2387634
+        sku: "-2"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"37"
+      - id: 2387635
+        sku: "-3"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"38"
+      - id: 2387636
+        sku: "-4"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"39"
+      - id: 2387637
+        sku: "-5"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"40"
+      - id: 2387638
+        sku: "-6"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"41"
+      - id: 2387639
+        sku: "-7"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"42"
+      - id: 2387640
+        sku: "-8"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo negro
+          Talla,"43"
+      - id: 2387641
+        sku: "-9"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"35"
+      - id: 2387642
+        sku: "-10"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"36"
+      - id: 2387643
+        sku: "-11"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"37"
+      - id: 2387644
+        sku: "-12"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"38"
+      - id: 2387645
+        sku: "-13"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"39"
+      - id: 2387646
+        sku: "-14"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"40"
+      - id: 2387647
+        sku: "-15"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"41"
+      - id: 2387648
+        sku: "-16"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"42"
+      - id: 2387649
+        sku: "-17"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Negro/Rojo
+          Talla,"43"
+      - id: 2387650
+        sku: "-18"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"35"
+      - id: 2387651
+        sku: "-19"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"36"
+      - id: 2387652
+        sku: "-20"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"37"
+      - id: 2387653
+        sku: "-21"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"38"
+      - id: 2387654
+        sku: "-22"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"39"
+      - id: 2387655
+        sku: "-23"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"40"
+      - id: 2387656
+        sku: "-24"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"41"
+      - id: 2387657
+        sku: "-25"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"42"
+      - id: 2387658
+        sku: "-26"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"43"
+      - id: 2387659
+        sku: "-27"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"35"
+      - id: 2387660
+        sku: "-28"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"36"
+      - id: 2387661
+        sku: "-29"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"37"
+      - id: 2387662
+        sku: "-30"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"38"
+      - id: 2387663
+        sku: "-31"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"39"
+      - id: 2387664
+        sku: "-32"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"40"
+      - id: 2387665
+        sku: "-33"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"41"
+      - id: 2387666
+        sku: "-34"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"42"
+      - id: 2387667
+        sku: "-35"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/azúl
+          Talla,"43"
+      - id: 2387668
+        sku: "-36"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"35"
+      - id: 2387669
+        sku: "-37"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"36"
+      - id: 2387670
+        sku: "-38"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"37"
+      - id: 2387671
+        sku: "-39"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"38"
+      - id: 2387672
+        sku: "-40"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"39"
+      - id: 2387673
+        sku: "-41"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"40"
+      - id: 2387674
+        sku: "-42"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"41"
+      - id: 2387675
+        sku: "-43"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"42"
+      - id: 2387676
+        sku: "-44"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rojo
+          Talla,"43"
+      - id: 2387677
+        sku: "-45"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"35"
+      - id: 2387678
+        sku: "-46"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"36"
+      - id: 2387679
+        sku: "-47"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"37"
+      - id: 2387680
+        sku: "-48"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"38"
+      - id: 2387681
+        sku: "-49"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"39"
+      - id: 2387682
+        sku: "-50"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"40"
+      - id: 2387683
+        sku: "-51"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"41"
+      - id: 2387684
+        sku: "-52"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"42"
+      - id: 2387685
+        sku: "-53"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Blanco/Rosado
+          Talla,"43"
+      - id: 2387686
+        sku: "-54"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"35"
+      - id: 2387687
+        sku: "-55"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"36"
+      - id: 2387688
+        sku: "-56"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"37"
+      - id: 2387689
+        sku: "-57"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"38"
+      - id: 2387690
+        sku: "-58"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"39"
+      - id: 2387691
+        sku: "-59"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"40"
+      - id: 2387692
+        sku: "-60"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"41"
+      - id: 2387693
+        sku: "-61"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"42"
+      - id: 2387694
+        sku: "-62"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Verde Neón
+          Talla,"43"
+      - id: 2387695
+        sku: "-63"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"35"
+      - id: 2387696
+        sku: "-64"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"36"
+      - id: 2387697
+        sku: "-65"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"37"
+      - id: 2387698
+        sku: "-66"
+        stock: 20
+        sale_price: 66000
+        suggested_price: 66000
+        attributes[2]{name,value}:
+          Color,Todo Negro
+          Talla,"38"
+  - id: 2280662
+    sku: DI
+    name: DI Cepillo Alisador kit recargable
+    sale_price: 37200
+    suggested_price: 67200
+    simple_price: 37200
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 215864
+    categories[4]: Moda,Tecnologia,Belleza,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2280662/e3a8edad-99de-4cc4-bd79-84cc4da47c96.jpg"
+    variations[0]:
+  - id: 1032040
+    sku: 4RF232
+    name: HOLDER CON PORTAVASOS A2403-529
+    sale_price: 40000
+    suggested_price: 45000
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1
+    supplier_id: 6338
+    categories[4]: Moda,Tecnologia,Vehículos,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1032040/1744756998WhatsApp%20Image%202025-04-15%20at%205.37.28%20PM%20(1).jpeg"
+    variations[0]:
+  - id: 107195
+    sku: "2"
+    name: Seguidor facial inteligente 360/tripode
+    sale_price: 100000
+    suggested_price: 157000
+    simple_price: 100000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1
+    supplier_id: 19102
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/107195/1702390895170239089580a32aa1-84fd-46ed-b1c9-60c92045d0ec.JPG"
+    variations[0]:
+  - id: 2328038
+    sku: DFR-456
+    name: MASAJEADOR 8 ELECTRODOS RECARGABLE
+    sale_price: 23900
+    suggested_price: 39900
+    simple_price: 23900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 179
+    supplier_id: 36442
+    categories[4]: Tecnologia,Belleza,Salud,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2328038/36165aba-035b-496d-807f-4ebb29adb012.jpg"
+    variations[0]:
+  - id: 2076172
+    sku: HTRT
+    name: Holder Soporte Magnetico Celular T28
+    sale_price: 11500
+    suggested_price: 42000
+    simple_price: 11500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 50
+    supplier_id: 106656
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2076172/17703213695174873552719645637.jpg"
+    variations[0]:
+  - id: 2182034
+    sku: Masajeador para Manos
+    name: Masajeador para Manos
+    sale_price: 78000
+    suggested_price: 85000
+    simple_price: 78000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 235
+    supplier_id: 100837
+    categories[2]: Tecnologia,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2182034/1781971088Captura%20de%20pantalla%202026-06-20%20102911.png"
+    variations[0]:
+  - id: 2144184
+    sku: TB-112RGB OJO DE DIABLO RGB POR UNIDAD
+    name: OJO DE DIABLO RGB POR UNIDAD
+    sale_price: 40000
+    suggested_price: 78500
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 137
+    supplier_id: 86395
+    categories[3]: Tecnologia,Otro,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2144184/1777994927WhatsApp%20Image%202026-05-05%20at%2010.12.27%20(1).jpeg"
+    variations[0]:
+  - id: 2086113
+    sku: T0129
+    name: CÁMARA DE FOTOGRAFÍA DIGITAL MINI SLR DE
+    sale_price: 110000
+    suggested_price: 150000
+    simple_price: 110000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 400
+    supplier_id: 488584
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2086113/1771296265PRIVADO%203.webp"
+    variations[0]:
+  - id: 2292692
+    sku: RC
+    name: RC luces led navideñas solares
+    sale_price: 37200
+    suggested_price: 67200
+    simple_price: 37200
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 50
+    supplier_id: 73779
+    categories[5]: Moda,Tecnologia,Hogar,Otro,Navidad
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2292692/dc977026-4f77-47e1-8e90-eef11f99dd14.jpg"
+    variations[0]:
+  - id: 1354663
+    sku: LAMPARA STAR MASTER
+    name: Lampara Niños Proyeccion De Estrellas
+    sale_price: 13900
+    suggested_price: 18900
+    simple_price: 13900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 150
+    supplier_id: 125258
+    categories[2]: Tecnologia,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1354663/1729112214STAR%20MASTER%201.jpg"
+    variations[0]:
+  - id: 2034437
+    sku: ACS-EC602
+    name: Pesa de mesa de 40kg
+    sale_price: 80000
+    suggested_price: 150000
+    simple_price: 80000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1
+    supplier_id: 650866
+    categories[4]: Tecnologia,Cocina,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2034437/1768049883602460618_799113766518973_5710253557683484182_n.jpg"
+    variations[0]:
+  - id: 1476317
+    sku: HFDR0QX51I
+    name: Tarjeta Adaptador Convertidor Lan Red R
+    sale_price: 34900
+    suggested_price: 47115
+    simple_price: 34900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 325736
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1476317/1749237163Untitled%20design%20(25).png"
+    variations[0]:
+  - id: 1640337
+    sku: "150"
+    name: Cable Hdmi 4k 5 Metros Hdtv Cable Hdmi 2
+    sale_price: 26500
+    suggested_price: 59000
+    simple_price: 26500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 150
+    supplier_id: 106656
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1640337/1737749067WhatsApp%20Image%202025-01-22%20at%2012.20.45.jpeg"
+    variations[0]:
+  - id: 748777
+    sku: MRADA
+    name: Bafle de hello kitty
+    sale_price: 700000
+    suggested_price: 820000
+    simple_price: 700000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 194867
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/748777/1712244006Captura%20de%20pantalla%202024-04-04%20014032.png"
+    variations[0]:
+  - id: 2216708
+    sku: GDV-023
+    name: Audífono Amplificador De Sonido Recargab
+    sale_price: 34900
+    suggested_price: 49900
+    simple_price: 34900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 120
+    supplier_id: 34202
+    categories[4]: Tecnologia,Salud,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2216708/20df2711-6c7b-4cf1-b60c-63bc155c79b1.jpg"
+    variations[0]:
+  - id: 1549742
+    sku: "6313615485"
+    name: Cable Hdmi 2.0 1.5mts 4K
+    sale_price: 12500
+    suggested_price: 17800
+    simple_price: 12500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 9878
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1549742/17329070751.png"
+    variations[0]:
+  - id: 1771280
+    sku: BEBEDERO MASCOTAS
+    name: BEBEDERO INTELIGENTE PARA MASCOTAS  🐈
+    sale_price: 39900
+    suggested_price: 88000
+    simple_price: 39900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 48
+    supplier_id: 5076
+    categories[4]: Mascotas,Tecnologia,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1771280/17456019151.png"
+    variations[0]:
+  - id: 627604
+    sku: "4454"
+    name: Masajeador Eléctrico De Cabeza Relajante
+    sale_price: 50990
+    suggested_price: 63990
+    simple_price: 50990
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 39300
+    categories[3]: Tecnologia,Salud,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/627604/1706789118F69%20(77).png"
+    variations[0]:
+  - id: 1864482
+    sku: BASE SOPORTE PORTATIL LAPTOP PLEGABLE
+    name: BASE SOPORTE PORTATIL LAPTOP PLEGABLE
+    sale_price: 14500
+    suggested_price: 30000
+    simple_price: 14500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 158
+    supplier_id: 17053
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1864482/1751389121BGZ%20ONLINE%20%20-%202025-07-01T115423.312.png"
+    variations[0]:
+  - id: 1961363
+    sku: ANC CON PANTALLA
+    name: AIRPODS ANC CON PANTALLA
+    sale_price: 58000
+    suggested_price: 68000
+    simple_price: 58000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 22
+    supplier_id: 200954
+    categories[3]: Tecnologia,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1961363/17603097591726766063163_1726766052680_1726765701360.png"
+    variations[0]:
+  - id: 2328346
+    sku: "0042"
+    name: termómetro digital de cocina
+    sale_price: 9000
+    suggested_price: 39000
+    simple_price: 9000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 400
+    supplier_id: 75361
+    categories[8]: Moda,Tecnologia,Cocina,Salud,Hogar,Bebé,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2328346/1f69c0ed-e27e-4ec9-9d40-21c83ed8456d.jpg"
+    variations[0]:
+  - id: 1474402
+    sku: WUETNLSPOP
+    name: Aro De Luz Led Flash 53 Cm Fotografía S
+    sale_price: 242900
+    suggested_price: 463495.5
+    simple_price: 242900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 325736
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1474402/1767036277D_NQ_NP_2X_734495-MCO80592373220_112024-F.webp"
+    variations[0]:
+  - id: 2178201
+    sku: PROD-072
+    name: Humidificador Ultrasónico
+    sale_price: 52000
+    suggested_price: 62000
+    simple_price: 52000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 179249
+    categories[8]: Tecnologia,Salud,Hogar,Natural Home,Bienestar,Otro,Vehículos,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2178201/1781745288H1406827138f941cca1542a20a21fc03ca.jpg"
+    variations[0]:
+  - id: 1881137
+    sku: Smartwatch TK-600
+    name: Smartwatch TK-600 Aj
+    sale_price: 78000
+    suggested_price: 100000
+    simple_price: 79000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 299
+    supplier_id: 166172
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1881137/1753118857Captura%20de%20pantalla%202025-07-21%20120542.png"
+    variations[0]:
+  - id: 1474743
+    sku: TD45CUGRCR
+    name: Audífonos Inalámbricos On Ear Pro Comfo
+    sale_price: 183170
+    suggested_price: 247279.5
+    simple_price: 183170
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 325736
+    categories[1]: Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1474743/1732566897D_981300-MCO70514319962_072023-F.jpg"
+    variations[0]:
+  - id: 2161319
+    sku: DT
+    name: DT Cepillo secador 6 en 1
+    sale_price: 49200
+    suggested_price: 79200
+    simple_price: 49200
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 215864
+    categories[4]: Moda,Tecnologia,Belleza,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2161319/177991353572.jpg"
+    variations[0]:
+count: 75
+currency: COP

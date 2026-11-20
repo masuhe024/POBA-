@@ -1,0 +1,2030 @@
+items[90]:
+  - id: 377347
+    sku: null
+    name: Pesquero cinturilla Osmotex
+    sale_price: 35000
+    suggested_price: 90000
+    simple_price: 38000
+    visible_start_sale_price: 38000
+    visible_end_sale_price: 38000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 87570
+    categories[9]: Belleza,Novedades,Moda,Accesorios,Ropa,Otro,Salud,Deportes,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/377347/1718731039pesquero%20en%20osmotex.jpg"
+    variations[6]:
+      - id: 227081
+        sku: "-5"
+        stock: 100
+        sale_price: 38000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          TALLAS,2XL
+      - id: 227080
+        sku: "-4"
+        stock: 100
+        sale_price: 38000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          TALLAS,XL
+      - id: 227079
+        sku: "-3"
+        stock: 100
+        sale_price: 38000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          TALLAS,L
+      - id: 227078
+        sku: "-2"
+        stock: 100
+        sale_price: 38000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          TALLAS,M
+      - id: 227077
+        sku: "-1"
+        stock: 100
+        sale_price: 38000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          TALLAS,S
+      - id: 227076
+        sku: "-0"
+        stock: 100
+        sale_price: 38000
+        suggested_price: 75000
+        attributes[1]{name,value}:
+          TALLAS,XS
+  - id: 2056140
+    sku: null
+    name: masajeador ultra sonido 3 en 1
+    sale_price: 57000
+    suggested_price: 110000
+    simple_price: 57000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 128025
+    categories[3]: Belleza,Salud,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2056140/17696261391768594491Captura%20de%20pantalla%202026-01-16%20150809.jpg"
+    variations[0]:
+  - id: 1990729
+    sku: REF0774
+    name: ATENEA TINTA DE MAQUILLAJE 09 EBOKY 30M
+    sale_price: 43000
+    suggested_price: 66000
+    simple_price: 43000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 6
+    supplier_id: 668240
+    categories[1]: Belleza
+    gallery[0]:
+    variations[0]:
+  - id: 2322669
+    sku: null
+    name: Forgebody
+    sale_price: 22000
+    suggested_price: 35000
+    simple_price: 22000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1100
+    supplier_id: 5326
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2322669/42eda2b5-4079-467f-9b82-12e57a05f7a5.webp"
+    variations[0]:
+  - id: 2198310
+    sku: null
+    name: CLOUD PINK PERFUME
+    sale_price: 75000
+    suggested_price: 100000
+    simple_price: 75000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 893051
+    categories[2]: Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2198310/1783648102WhatsApp%20Image%202026-07-09%20at%207.30.37%20PM%20(3).jpeg"
+    variations[0]:
+  - id: 1833027
+    sku: DAM-SET-ELEGANT-01
+    name: LENCERIA - Set Elegant
+    sale_price: 80000
+    suggested_price: 150000
+    simple_price: 80000
+    visible_start_sale_price: 80000
+    visible_end_sale_price: 80000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 563409
+    categories[3]: Moda,Belleza,Sex Shop
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1833027/1748374736WhatsApp%20Image%202025-05-27%20at%201.56.01%20PM.jpeg"
+    variations[3]:
+      - id: 1524596
+        sku: DAM-SET-ELEGANT-01-0
+        stock: 40
+        sale_price: 80000
+        suggested_price: 150000
+        attributes[1]{name,value}:
+          TALLA,S
+      - id: 1524597
+        sku: DAM-SET-ELEGANT-01-1
+        stock: 30
+        sale_price: 80000
+        suggested_price: 150000
+        attributes[1]{name,value}:
+          TALLA,M
+      - id: 1524598
+        sku: DAM-SET-ELEGANT-01-2
+        stock: 30
+        sale_price: 80000
+        suggested_price: 150000
+        attributes[1]{name,value}:
+          TALLA,L
+  - id: 1990474
+    sku: REF0580
+    name: BRESCIA ESMALTE DECORACION BLANCO
+    sale_price: 4100
+    suggested_price: 5000
+    simple_price: 4100
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 6
+    supplier_id: 668240
+    categories[1]: Belleza
+    gallery[0]:
+    variations[0]:
+  - id: 1973322
+    sku: BT228
+    name: combo secador y plancha aguacate
+    sale_price: 51900
+    suggested_price: 89900
+    simple_price: 51900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 677046
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1973322/63a11248-e25c-4222-840a-3b12f0224571.png"
+    variations[0]:
+  - id: 1678690
+    sku: I07
+    name: Shilajit Original Retardante x2
+    sale_price: 65000
+    suggested_price: 130000
+    simple_price: 65000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 999
+    supplier_id: 322336
+    categories[6]: Belleza,Salud,Natural Home,Deportes,Sex Shop,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1678690/17440555431000206302.png"
+    variations[0]:
+  - id: 2107835
+    sku: null
+    name: Dropi cup magnétic original
+    sale_price: 17500
+    suggested_price: 19000
+    simple_price: 17500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 17773
+    supplier_id: 151037
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2107835/17791369501773599398Imagen%2042-dropicup.png"
+    variations[0]:
+  - id: 1309900
+    sku: Cdnur
+    name: Armaf Club De Nuit Urban Man  x 105 ml O
+    sale_price: 135000
+    suggested_price: 190000
+    simple_price: 135000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 116
+    supplier_id: 168060
+    categories[7]: Moda,Belleza,Salud,Hogar,Aseo,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1309900/17280839926294015102642_580x.jpeg"
+    variations[0]:
+  - id: 1678269
+    sku: "0793969412068"
+    name: Sex Love Potion Electrizante 37 mL Frio
+    sale_price: 30000
+    suggested_price: 60000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1002
+    supplier_id: 472000
+    categories[5]: Belleza,Salud,Natural Home,Deportes,Sex Shop
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1678269/1739983823electrizante%20botella%20Frio%2004-Photoroom.png"
+    variations[0]:
+  - id: 59477
+    sku: LIPTIN-02V1
+    name: LIPTIN- CRECIMIENTO
+    sale_price: 9990
+    suggested_price: 18000
+    simple_price: 9990
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 2090
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/59477/17030721001703072100CRECIMIENTO.jpeg"
+    variations[0]:
+  - id: 2334574
+    sku: REF 9131413
+    name: DIJE SAN BENITO REDONDO
+    sale_price: 35000
+    suggested_price: 60000
+    simple_price: 35000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 900383
+    categories[4]: Bisutería,Moda,Belleza,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2334574/17ef7efa-40f1-4e62-8a99-05c7c17c7430.jpeg"
+    variations[0]:
+  - id: 630577
+    sku: MASAJEADOR_MARTILLO_PISTOLA_FASCIAL_GUN_MUSCULAR_RELAJANTE_PEQUEÑO
+    name: Masajeador Martillo Pistola Fascial Gun
+    sale_price: 44900
+    suggested_price: 89900
+    simple_price: 44900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 7
+    supplier_id: 31053
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/630577/1706908337diseño%20de%20productos%20%20-%202023-09-01T130443.948.png"
+    variations[0]:
+  - id: 2305311
+    sku: "306118"
+    name: MAQUINA PARA BARBERIA KEMEI KM-1862
+    sale_price: 128000
+    suggested_price: 166400
+    simple_price: 128000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 92
+    supplier_id: 539491
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2305311/09abc392-21a8-4482-ad3d-e14d791bf0c1.webp"
+    variations[0]:
+  - id: 2156795
+    sku: null
+    name: Zapato para dama lona
+    sale_price: 45000
+    suggested_price: null
+    simple_price: 45000
+    visible_start_sale_price: 45000
+    visible_end_sale_price: 45000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 857813
+    categories[4]: Ropa Deportiva,Moda,Belleza,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2156795/1779468212ChatGPT%20Image%2022%20may%202026,%2011_36_18%20a.m.%20(1).png"
+    variations[5]:
+      - id: 2166750
+        sku: "-2"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          Talla,"36"
+      - id: 2166753
+        sku: "-5"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          Talla,"39"
+      - id: 2166749
+        sku: "-1"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          Talla,"35"
+      - id: 2166751
+        sku: "-3"
+        stock: 2
+        sale_price: 45000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          Talla,"37"
+      - id: 2166748
+        sku: "-0"
+        stock: 5
+        sale_price: 45000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          Talla,"34"
+  - id: 236473
+    sku: "103025"
+    name: KIT DE PESTAÑAS
+    sale_price: 39900
+    suggested_price: 39900
+    simple_price: 39900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 30
+    supplier_id: 44135
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/236473/17019760891701976089WhatsApp%20Image%202023-04-10%20at%209.23.05%20AM.jpeg"
+    variations[0]:
+  - id: 428695
+    sku: "1949267862"
+    name: Kit de Limas para Pulidor manucula
+    sale_price: 25900
+    suggested_price: 60000
+    simple_price: 26900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 600
+    supplier_id: 88099
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/428695/1696611686Kit%20de%20Limas%20para%20Pulidor%201.jpg"
+    variations[0]:
+  - id: 362281
+    sku: "00000030"
+    name: COACH NEW YORK DAMA
+    sale_price: 339900
+    suggested_price: 409900
+    simple_price: 339900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 6
+    supplier_id: 78626
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/362281/1713811553WhatsApp%20Image%202024-04-22%20at%201.45.40%20PM.jpeg"
+    variations[0]:
+  - id: 1220308
+    sku: PR177X4P-10
+    name: PROMO - 177 X4
+    sale_price: 150000
+    suggested_price: 150000
+    simple_price: 150000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1998
+    supplier_id: 118707
+    categories[2]: Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1220308/1743698597WhatsApp%20Image%202025-04-03%20at%2010.24.25%20AM%20(3).jpeg"
+    variations[0]:
+  - id: 2146272
+    sku: null
+    name: Perfume Diamantado Dama La Bella Diva 25
+    sale_price: 20000
+    suggested_price: 45000
+    simple_price: 20000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 199
+    supplier_id: 233898
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2146272/17781583027858_PERFUDIAMANLABELLADIVA11122025%20(1).webp"
+    variations[0]:
+  - id: 144318
+    sku: null
+    name: Faja Invisible Piel de Mujer
+    sale_price: 181900
+    suggested_price: 206900
+    simple_price: 181900
+    visible_start_sale_price: 181900
+    visible_end_sale_price: 181900
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 30577
+    categories[4]: Moda,Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/144318/17023219501702321950ol7kPn0V0K7clDwJl8GHIHtukyReiQSML6V8cfoJ.png"
+    variations[4]:
+      - id: 91921
+        sku: "-0"
+        stock: 19
+        sale_price: 181900
+        suggested_price: 226900
+        attributes[1]{name,value}:
+          Tallas,S
+      - id: 91923
+        sku: "-2"
+        stock: 10
+        sale_price: 181900
+        suggested_price: 226900
+        attributes[1]{name,value}:
+          Tallas,L
+      - id: 91922
+        sku: "-1"
+        stock: 14
+        sale_price: 181900
+        suggested_price: 226900
+        attributes[1]{name,value}:
+          Tallas,M
+      - id: 91924
+        sku: "-3"
+        stock: 12
+        sale_price: 181900
+        suggested_price: 226900
+        attributes[1]{name,value}:
+          Tallas,XL
+  - id: 333827
+    sku: "2659565784"
+    name: MAQUINA PATILLERA BUDA
+    sale_price: 18000
+    suggested_price: 45000
+    simple_price: 18000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 41
+    supplier_id: 67453
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/333827/17018765471701876547XGZzPirfM29tq2JyWfnF5Im2FFmzBVk5Ep1X9OTA.jpg"
+    variations[0]:
+  - id: 2086877
+    sku: null
+    name: Removedor Eléctrico Quita Callos
+    sale_price: 60000
+    suggested_price: 80000
+    simple_price: 60000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 226960
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2086877/17713617751.png"
+    variations[0]:
+  - id: 2152437
+    sku: EH
+    name: Mascarillas facial + Reductor Papada
+    sale_price: 45900
+    suggested_price: 79900
+    simple_price: 45900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 75231
+    categories[4]: Tecnologia,Belleza,Salud,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2152437/1778899617192d928a0ee-electrohogarcyc-0ra5k8695jlh-mgx0b3c120p%20(1).jpeg"
+    variations[0]:
+  - id: 1706447
+    sku: 21MUL170
+    name: MULTIMAXX MANGO 1000ML
+    sale_price: 24900
+    suggested_price: 24900
+    simple_price: 24900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 950
+    supplier_id: 405636
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1706447/1777413538Captura%20de%20pantalla%202026-04-28%20165719.png"
+    variations[0]:
+  - id: 2336833
+    sku: MQ-5047
+    name: Kit Tijeras EOLAND MQ-5047
+    sale_price: 80900
+    suggested_price: 95000
+    simple_price: 80900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 602246
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2336833/b50d5759-690a-4481-8d16-ec0c9aa36149.webp"
+    variations[0]:
+  - id: 1883743
+    sku: "0000003"
+    name: Probioticos X3
+    sale_price: 86000
+    suggested_price: 199900
+    simple_price: 87000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 353696
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1883743/1753321045WhatsApp%20Image%202025-07-23%20at%2011.54.10%20AM.jpeg"
+    variations[0]:
+  - id: 1844017
+    sku: "3215"
+    name: DEOS x 1 und
+    sale_price: 25000
+    suggested_price: 59900
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 593
+    supplier_id: 289273
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1844017/1749502587Imagen%20de%20WhatsApp%202025-06-09%20a%20las%2015.54.06_6c0853d8.jpg"
+    variations[0]:
+  - id: 2086704
+    sku: VA
+    name: VA Masajeador reductor de papada
+    sale_price: 43200
+    suggested_price: 73200
+    simple_price: 43200
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 73779
+    categories[5]: Moda,Tecnologia,Belleza,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2086704/17713555526.JPG"
+    variations[0]:
+  - id: 2077862
+    sku: on+a+bc+perfumero
+    name: OMBRE NOMADE + ASAD + BLEU
+    sale_price: 125000
+    suggested_price: 125000
+    simple_price: 125000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 622983
+    categories[7]: Moda,Belleza,Salud,Hogar,Natural Home,Aseo,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2077862/1770439430COMBOS%20AUREO%20(8).png"
+    variations[0]:
+  - id: 2302878
+    sku: null
+    name: PROMO - 1488 X13
+    sale_price: 680000
+    suggested_price: 680000
+    simple_price: 680000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 118707
+    categories[2]: Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2302878/b8adae60-0888-46fb-87b8-2b260ab7a6e9.jpeg"
+    variations[0]:
+  - id: 1903738
+    sku: BQY00775
+    name: SERUM NICOTINAMIDA BIOAQUA
+    sale_price: 9000
+    suggested_price: 29900
+    simple_price: 9000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 198
+    supplier_id: 23739
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1903738/17557102541597d8_02023f2c43d444fe926068560a58e58cmv2.png"
+    variations[0]:
+  - id: 2168917
+    sku: null
+    name: SHAMPOO EXCALVO
+    sale_price: 14900
+    suggested_price: 14900
+    simple_price: 14900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 8900
+    supplier_id: 345873
+    categories[2]: Belleza,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2168917/1780546785istockphoto-2205832277-612x612.jpg"
+    variations[0]:
+  - id: 2190823
+    sku: null
+    name: 11. Sandalia Alta Lolita Remake
+    sale_price: 48000
+    suggested_price: null
+    simple_price: 48000
+    visible_start_sale_price: 48000
+    visible_end_sale_price: 48000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 784734
+    categories[2]: Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2190823/178301165811.%20Sandalia%20Alta%20Lolita%20Remake%20Blanco.jpg"
+    variations[21]:
+      - id: 2239396
+        sku: "-0"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Café
+          Talla,"34"
+      - id: 2239397
+        sku: "-1"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Café
+          Talla,"35"
+      - id: 2239398
+        sku: "-2"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Café
+          Talla,"36"
+      - id: 2239399
+        sku: "-3"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Café
+          Talla,"37"
+      - id: 2239400
+        sku: "-4"
+        stock: 19
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Café
+          Talla,"38"
+      - id: 2239401
+        sku: "-5"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Café
+          Talla,"39"
+      - id: 2239402
+        sku: "-6"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Café
+          Talla,"40"
+      - id: 2239403
+        sku: "-7"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Negro
+          Talla,"34"
+      - id: 2239404
+        sku: "-8"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Negro
+          Talla,"35"
+      - id: 2239405
+        sku: "-9"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Negro
+          Talla,"36"
+      - id: 2239406
+        sku: "-10"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Negro
+          Talla,"37"
+      - id: 2239407
+        sku: "-11"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Negro
+          Talla,"38"
+      - id: 2239408
+        sku: "-12"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Negro
+          Talla,"39"
+      - id: 2239409
+        sku: "-13"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Negro
+          Talla,"40"
+      - id: 2239410
+        sku: "-14"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"34"
+      - id: 2239411
+        sku: "-15"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"35"
+      - id: 2239412
+        sku: "-16"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"36"
+      - id: 2239413
+        sku: "-17"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"37"
+      - id: 2239414
+        sku: "-18"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"38"
+      - id: 2239415
+        sku: "-19"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"39"
+      - id: 2239416
+        sku: "-20"
+        stock: 20
+        sale_price: 48000
+        suggested_price: 48000
+        attributes[2]{name,value}:
+          Color,Blanco
+          Talla,"40"
+  - id: 1958876
+    sku: "56456"
+    name: PERFUME SCUDERIA FERRARI RED
+    sale_price: 55000
+    suggested_price: 80000
+    simple_price: 55000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 199
+    supplier_id: 6385
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1958876/1760052569Captura%20de%20pantalla%202025-10-09%20170317.png"
+    variations[0]:
+  - id: 2040194
+    sku: null
+    name: Masajeador Facial Pro Efecto Lifting
+    sale_price: 63000
+    suggested_price: 109900
+    simple_price: 63000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 668029
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2040194/1771370705WhatsApp%20Image%202026-02-17%20at%206.05.05%20PM%20(2).jpeg"
+    variations[0]:
+  - id: 2284788
+    sku: null
+    name: Lattafa Eclaire & Haya Eau de Parfum
+    sale_price: 155000
+    suggested_price: 200000
+    simple_price: 155000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 108
+    supplier_id: 777541
+    categories[4]: Moda,Belleza,Salud,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2284788/27756e67-91ca-48c6-bd56-cc40e6f790fd.jpg"
+    variations[0]:
+  - id: 2214384
+    sku: RAINBOW LIGHT WOMENS
+    name: RAINBOW LIGHT WOMENS ONE + MULTIVITAMIN
+    sale_price: 24000
+    suggested_price: 69900
+    simple_price: 24000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1227
+    supplier_id: 844431
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2214384/6f9b1934-c48e-4c44-971a-6ecfc999995e.png"
+    variations[0]:
+  - id: 2269739
+    sku: OXY POWDER COLON CLEANSE
+    name: OXY POWDER COLON CLEANSE
+    sale_price: 24000
+    suggested_price: 33900
+    simple_price: 24000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 2858
+    supplier_id: 844431
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2269739/db1a9613-1e09-424f-b55a-de651a66b265.png"
+    variations[0]:
+  - id: 1147434
+    sku: "150"
+    name: Depilador Facial Electrico Recargable
+    sale_price: 13000
+    suggested_price: 45000
+    simple_price: 13000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 50
+    supplier_id: 106656
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1147434/2c52de3c-5909-4fc4-9f58-81a1900b4e40.png"
+    variations[0]:
+  - id: 1628693
+    sku: SKUMM1
+    name: Comb Balaca Maquillaje+Mascarilla Facial
+    sale_price: 21000
+    suggested_price: 45000
+    simple_price: 21000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 300
+    supplier_id: 333643
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1628693/1737046555172469468017023028681702302868balaca2%20(1).jpg"
+    variations[0]:
+  - id: 1937452
+    sku: LATTAFA NOBLE BLUSH
+    name: LATTAFA NOBLE BLUSH
+    sale_price: 90000
+    suggested_price: 150000
+    simple_price: 90000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 20
+    supplier_id: 656792
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1937452/1758755483lattafa-noble-blush_1_.jpeg"
+    variations[0]:
+  - id: 1748806
+    sku: "8690131782610"
+    name: Voluminizador Labios Fiery 01
+    sale_price: 52000
+    suggested_price: 72000
+    simple_price: 52000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 156
+    supplier_id: 440677
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1748806/1744134176WhatsApp%20Image%202025-03-20%20at%205.30.27%20PM.jpeg"
+    variations[0]:
+  - id: 1867325
+    sku: ROMA-1929
+    name: LIVE JENIFER LOPEZ PERFUME
+    sale_price: 55000
+    suggested_price: 65000
+    simple_price: 55000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 99
+    supplier_id: 94839
+    categories[7]: Moda,Belleza,Salud,Sex Shop,Aseo,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1867325/1751642527491.jpg"
+    variations[0]:
+  - id: 2206048
+    sku: "001625"
+    name: crema argan +10 lifegarden x1000ml. bo
+    sale_price: 27000
+    suggested_price: 54000
+    simple_price: 27000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 833898
+    categories[2]: Belleza,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2206048/img_6a5a707e968642.99810598_0.jpg"
+    variations[0]:
+  - id: 2296698
+    sku: Irrigador Oral Portátil VLZ
+    name: Irrigador Oral Portátil VLZ
+    sale_price: 16000
+    suggested_price: 21000
+    simple_price: 16000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 365543
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2296698/img_6acada35622686.79990025_0.jpg"
+    variations[0]:
+  - id: 2074101
+    sku: null
+    name: VENTILADOR DE MANO  CON HUMIDIFICADOR  •
+    sale_price: 16000
+    suggested_price: 40000
+    simple_price: 16000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 90713
+    categories[3]: Bisutería,Belleza,Natural Home
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2074101/1770146204Screenshot_2026-02-03-14-04-54-300_com.google.android.apps.docs.png"
+    variations[0]:
+  - id: 2169538
+    sku: null
+    name: Locion Palmers Karite Piel Seca 1Lt
+    sale_price: 78000
+    suggested_price: 140000
+    simple_price: 78000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 980
+    supplier_id: 37945
+    categories[2]: Belleza,Salud
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2169538/1780602525Palmers%2001.jpg"
+    variations[0]:
+  - id: 2320718
+    sku: BET_Coee_EO
+    name: Peine  Masaje Cepillo Capilar Flexible
+    sale_price: 18900
+    suggested_price: null
+    simple_price: 18900
+    visible_start_sale_price: 18900
+    visible_end_sale_price: 18900
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 192984
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2320718/61e3a3e3-6f75-4bdc-826b-500cad91a675.png"
+    variations[5]:
+      - id: 2493544
+        sku: BET_Nigadsle_EO
+        stock: 50
+        sale_price: 18900
+        suggested_price: 44900
+        attributes[1]{name,value}:
+          COLOR,NEGRO
+      - id: 2493545
+        sku: BET_Coele_EO
+        stock: 50
+        sale_price: 18900
+        suggested_price: 44900
+        attributes[1]{name,value}:
+          COLOR,ROSADA
+      - id: 2493546
+        sku: BET_Cmorad_EO
+        stock: 50
+        sale_price: 18900
+        suggested_price: 44900
+        attributes[1]{name,value}:
+          COLOR,MORADO
+      - id: 2493542
+        sku: BET_Axzukkrc_EO
+        stock: 50
+        sale_price: 18900
+        suggested_price: 44900
+        attributes[1]{name,value}:
+          COLOR,AZUL
+      - id: 2493543
+        sku: Rizador Cepillo Flexible Verde Jade Definición Profesional Antifrizz Pelo Rizado
+        stock: 50
+        sale_price: 18900
+        suggested_price: 44900
+        attributes[1]{name,value}:
+          COLOR,VERDE
+  - id: 1941189
+    sku: B717
+    name: B717 TOPO PERLA B
+    sale_price: 7000
+    suggested_price: 14000
+    simple_price: 7000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 50
+    supplier_id: 644905
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1941189/1759007267B717%20TOPO%20PERLA%20B.jpg"
+    variations[0]:
+  - id: 310211
+    sku: EMBLEM MONT BLANC
+    name: EMBLEM MONT BLANC
+    sale_price: 89900
+    suggested_price: 111900
+    simple_price: 89900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 50
+    supplier_id: 65024
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/310211/17018830801701883080emblem-mont%20blanc.jpg"
+    variations[0]:
+  - id: 651184
+    sku: DEPILOLL
+    name: Olla para cera depilatoria electrica
+    sale_price: 30000
+    suggested_price: 65900
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 238
+    supplier_id: 159096
+    categories[4]: Moda,Belleza,Aseo,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/651184/1707873614calentador%20de%20cera.webp"
+    variations[0]:
+  - id: 377564
+    sku: "024578"
+    name: PERFECTX DOLORES MUSCULARES  x 2 UND
+    sale_price: 11000
+    suggested_price: 40000
+    simple_price: 11000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 711
+    supplier_id: 62086
+    categories[19]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Natural Home,Sex Shop,Bebé,Bienestar,Camping,Pesca,Otro,Vehículos,Jugueteria,Piñateria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/377564/17579513354f67eede-6405-4e1d-b122-2e5d28166b03.png"
+    variations[0]:
+  - id: 2312699
+    sku: Turbante De Baño Microfibra VLZ
+    name: Turbante De Baño Microfibra VLZ
+    sale_price: 6000
+    suggested_price: 11000
+    simple_price: 6000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 365543
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2312699/img_6adc733f305420.28185190_0.jpg"
+    variations[0]:
+  - id: 362414
+    sku: "00000041"
+    name: VERSACE POUR HOMME
+    sale_price: 349900
+    suggested_price: 349900
+    simple_price: 349900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 6
+    supplier_id: 78626
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/362414/17018756181701875618WhatsApp%20Image%202023-08-19%20at%2012.16.20%20PM.jpeg"
+    variations[0]:
+  - id: 1903048
+    sku: "123"
+    name: Calentador De Cera Roll On
+    sale_price: 25000
+    suggested_price: 59900
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 700
+    supplier_id: 394103
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1903048/17556339321742560032D_NQ_NP_846820-MCO52296155900_112022-O.png"
+    variations[0]:
+  - id: 2305897
+    sku: "307091"
+    name: DERMA PEN C/CROMOTERAPIA AS-7C
+    sale_price: 275000
+    suggested_price: 357500
+    simple_price: 275000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 539491
+    categories[1]: Belleza
+    gallery[0]:
+    variations[0]:
+  - id: 1902033
+    sku: null
+    name: TACON CRISTAL MACK PIRAMIDES
+    sale_price: 63000
+    suggested_price: 90000
+    simple_price: 63000
+    visible_start_sale_price: 63000
+    visible_end_sale_price: 63000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 206013
+    categories[3]: Moda,Belleza,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1902033/1755462441WhatsApp%20Image%202025-07-04%20at%202.17.24%20PM%20(2).jpeg"
+    variations[12]:
+      - id: 1677612
+        sku: "-11"
+        stock: 12
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"40"
+      - id: 1677611
+        sku: "-10"
+        stock: 11
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"39"
+      - id: 1677610
+        sku: "-9"
+        stock: 12
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"38"
+      - id: 1677609
+        sku: "-8"
+        stock: 11
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"37"
+      - id: 1677608
+        sku: "-7"
+        stock: 11
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"36"
+      - id: 1677607
+        sku: "-6"
+        stock: 12
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLA,"35"
+      - id: 1677606
+        sku: "-5"
+        stock: 12
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,AMARETTO
+          TALLA,"40"
+      - id: 1677605
+        sku: "-4"
+        stock: 12
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,AMARETTO
+          TALLA,"39"
+      - id: 1677604
+        sku: "-3"
+        stock: 12
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,AMARETTO
+          TALLA,"38"
+      - id: 1677603
+        sku: "-2"
+        stock: 12
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,AMARETTO
+          TALLA,"37"
+      - id: 1677602
+        sku: "-1"
+        stock: 11
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,AMARETTO
+          TALLA,"36"
+      - id: 1677601
+        sku: "-0"
+        stock: 12
+        sale_price: 63000
+        suggested_price: 90000
+        attributes[2]{name,value}:
+          COLOR,AMARETTO
+          TALLA,"35"
+  - id: 1720637
+    sku: complex
+    name: Magnesium Complex - Toplux
+    sale_price: 30000
+    suggested_price: 50000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 300
+    supplier_id: 439626
+    categories[7]: Belleza,Salud,Natural Home,Deportes,Sex Shop,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1720637/1778208839ChatGPT%20Complex.png"
+    variations[0]:
+  - id: 2290202
+    sku: null
+    name: DÚO DESPIGMENTANTE  DR.MELAXIN+ CAROTONE
+    sale_price: 45000
+    suggested_price: 55000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 198
+    supplier_id: 452698
+    categories[4]: Moda,Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2290202/57fe1c4c-3a54-4e19-b8b0-6afea7fdf4c4.jpeg"
+    variations[0]:
+  - id: 377616
+    sku: null
+    name: panty levanta cola
+    sale_price: 29990
+    suggested_price: 80000
+    simple_price: 32990
+    visible_start_sale_price: 32990
+    visible_end_sale_price: 32990
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 87570
+    categories[9]: Belleza,Novedades,Moda,Accesorios,Ropa,Otro,Salud,Deportes,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/377616/1710939047pantypiel.webp"
+    variations[18]:
+      - id: 227273
+        sku: "-0"
+        stock: 207
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,PIEL
+          TALLAS,XS
+      - id: 227274
+        sku: "-1"
+        stock: 181
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,PIEL
+          TALLAS,S
+      - id: 227283
+        sku: "-10"
+        stock: 0
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,COCOA
+          TALLAS,XL
+      - id: 227290
+        sku: "-17"
+        stock: 197
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,2XL
+      - id: 227286
+        sku: "-13"
+        stock: 185
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,S
+      - id: 227281
+        sku: "-8"
+        stock: 199
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,COCOA
+          TALLAS,M
+      - id: 227278
+        sku: "-5"
+        stock: 198
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,PIEL
+          TALLAS,2XL
+      - id: 227276
+        sku: "-3"
+        stock: 179
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,PIEL
+          TALLAS,L
+      - id: 227289
+        sku: "-16"
+        stock: 187
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,XL
+      - id: 227284
+        sku: "-11"
+        stock: 100
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,COCOA
+          TALLAS,2XL
+      - id: 227285
+        sku: "-12"
+        stock: 189
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,XS
+      - id: 227279
+        sku: "-6"
+        stock: 0
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,COCOA
+          TALLAS,XS
+      - id: 227287
+        sku: "-14"
+        stock: 199
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,M
+      - id: 227288
+        sku: "-15"
+        stock: 184
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,NEGRO
+          TALLAS,L
+      - id: 227275
+        sku: "-2"
+        stock: 200
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,PIEL
+          TALLAS,M
+      - id: 227282
+        sku: "-9"
+        stock: 0
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,COCOA
+          TALLAS,L
+      - id: 227280
+        sku: "-7"
+        stock: 0
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,COCOA
+          TALLAS,S
+      - id: 227277
+        sku: "-4"
+        stock: 192
+        sale_price: 32990
+        suggested_price: 80000
+        attributes[2]{name,value}:
+          COLOR,PIEL
+          TALLAS,XL
+  - id: 1876697
+    sku: PEEL36RE20
+    name: Perry Ellis 360 RED HM x 200 ML ORIGINAL
+    sale_price: 190000
+    suggested_price: 265000
+    simple_price: 190000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 120
+    supplier_id: 168060
+    categories[7]: Moda,Belleza,Salud,Hogar,Aseo,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1876697/17526206781000003886.jpg"
+    variations[0]:
+  - id: 2097197
+    sku: "1"
+    name: Magnesium 12 In 1
+    sale_price: 16000
+    suggested_price: 30000
+    simple_price: 16000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 19537
+    supplier_id: 205895
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2097197/1772314465Captura%20de%20pantalla%202026-02-28%20162957.png"
+    variations[0]:
+  - id: 2093322
+    sku: Dr.Melaxin peel shot 250 ml
+    name: Dr. Melaxin peel shot 250 ml
+    sale_price: 22000
+    suggested_price: 40000
+    simple_price: 22000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1995
+    supplier_id: 44666
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2093322/178fc82b-7e2b-4d00-bd4a-6b528dbcfea5.png"
+    variations[0]:
+  - id: 1564427
+    sku: Combo Mini Plancha Viajera + Rizador
+    name: Combo Mini Plancha Viajera + Rizador
+    sale_price: 24900
+    suggested_price: 34900
+    simple_price: 24900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 196
+    supplier_id: 13704
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1564427/1733225675portada.jpg"
+    variations[0]:
+  - id: 1308062
+    sku: "115"
+    name: Papel Tapiz Vinilos
+    sale_price: 14900
+    suggested_price: 40000
+    simple_price: 14900
+    visible_start_sale_price: 14900
+    visible_end_sale_price: 14900
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 233103
+    categories[5]: Bisutería,Belleza,Hogar,Natural Home,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1308062/1728072711PRODUCTOS.png"
+    variations[3]:
+      - id: 1293603
+        sku: 115-3
+        stock: 0
+        sale_price: 14900
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          COLOR,BLANCO
+      - id: 938983
+        sku: 109-2
+        stock: 84
+        sale_price: 14900
+        suggested_price: 25000
+        attributes[1]{name,value}:
+          COLOR,MADERA
+      - id: 1293566
+        sku: 115-2
+        stock: 0
+        sale_price: 14900
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          COLOR,NEGRO
+  - id: 1853132
+    sku: PIEDRA DEPILADORA
+    name: PIEDRA DEPILADORA
+    sale_price: 6000
+    suggested_price: 15000
+    simple_price: 6000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 105
+    supplier_id: 17053
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1853132/1750260808BGZ%20ONLINE%20%20-%202025-06-18T103140.686.png"
+    variations[0]:
+  - id: 2318823
+    sku: "325689"
+    name: CAJA CLORURO DE MAGNESIO x15 sachet x 1
+    sale_price: 22500
+    suggested_price: 29900
+    simple_price: 22500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 34221
+    supplier_id: 350805
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2318823/ea6eac34-af0b-4e11-8ac5-632d0db33590.png"
+    variations[0]:
+  - id: 2245080
+    sku: null
+    name: GEL REDUCTOR
+    sale_price: 5000
+    suggested_price: 5000
+    simple_price: 5000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 916
+    supplier_id: 29756
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2245080/22d41cf5-4cbf-43a3-b723-2fa7a4f89f20.png"
+    variations[0]:
+  - id: 1829102
+    sku: "53801"
+    name: ACONDICIONADOR HERBAL X 500 ATOMY
+    sale_price: 65000
+    suggested_price: 85000
+    simple_price: 65000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 457568
+    categories[2]: Belleza,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1829102/1747945407Acondicionador%20Herbal%20para%20cabello.jpg"
+    variations[0]:
+  - id: 2017860
+    sku: "5874"
+    name: KIT BATANA SHAMPOO Y ACEITE
+    sale_price: 24000
+    suggested_price: 34998
+    simple_price: 24000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 4909
+    supplier_id: 151037
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2017860/1765224176ChatGPT%20Image%208%20de%20dic.%20de%202025%2014_52_41.png"
+    variations[0]:
+  - id: 13061
+    sku: CAT228
+    name: SET X 2 CORTAUÑAS TRIM
+    sale_price: 2380
+    suggested_price: 4760
+    simple_price: 2380
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 57
+    supplier_id: 2857
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/13061/17023900851702390085Zg1n6bBtrNaN7kphhXCEevqQcxmJJmUmYhGltJdX.jpeg"
+    variations[0]:
+  - id: 2041730
+    sku: ep+swy+om+perfumero
+    name: Erba Pura + SWY + one million + P
+    sale_price: 130000
+    suggested_price: 130000
+    simple_price: 130000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 622983
+    categories[7]: Moda,Belleza,Salud,Hogar,Natural Home,Aseo,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2041730/1768862433COMBOS%20AUREO%20(10).png"
+    variations[0]:
+  - id: 439651
+    sku: Organizador Maquillaje Cosméticos Y Accesorios Giratorio 360
+    name: Organizador Maquillaje Cosméticos
+    sale_price: 45900
+    suggested_price: 89900
+    simple_price: 45900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 30
+    supplier_id: 30954
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/439651/1697213334Diseño%20sin%20título%20(22).png"
+    variations[0]:
+  - id: 1848788
+    sku: "3155"
+    name: MELATONIN x 3 und
+    sale_price: 86000
+    suggested_price: 199900
+    simple_price: 87000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 398
+    supplier_id: 355798
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1848788/1749839263Imagen%20de%20WhatsApp%202025-05-16%20a%20las%2014.13.52_a6099b89.jpg"
+    variations[0]:
+  - id: 995981
+    sku: AA
+    name: Perfume CH 212 Heroes Forever Young
+    sale_price: 70000
+    suggested_price: 150000
+    simple_price: 70000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 38537
+    categories[2]: Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/995981/172141904123.png"
+    variations[0]:
+  - id: 1838758
+    sku: "10020"
+    name: Deos
+    sale_price: 29900
+    suggested_price: 65000
+    simple_price: 29900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 820
+    supplier_id: 372025
+    categories[3]: Belleza,Salud,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1838758/17489997351000180279.png"
+    variations[0]:
+  - id: 2242559
+    sku: MAQUINA PATILLADORA Y RECORTADORA
+    name: MAQUINA PATILLADORA Y RECORTADORA
+    sale_price: 49900
+    suggested_price: 59900
+    simple_price: 49900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 99
+    supplier_id: 376574
+    categories[3]: Tecnologia,Belleza,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2242559/3901f6b8-66f9-4bd7-89bc-2267185e63b2.jpeg"
+    variations[0]:
+  - id: 2232132
+    sku: null
+    name: PROM 3 PERF MUJER |TOY2+ CH WOM+MOSCHI
+    sale_price: 130000
+    suggested_price: 149900
+    simple_price: 130000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 800
+    supplier_id: 933378
+    categories[2]: Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2232132/f94759b9-dfd2-4c0d-83d4-c317c88d7b07.jpeg"
+    variations[0]:
+  - id: 1502458
+    sku: "0007"
+    name: CEPILLO SECADOR DE AGUACATE
+    sale_price: 30000
+    suggested_price: 55000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 120
+    supplier_id: 379668
+    categories[2]: Salud,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1502458/1732035588CEPILLO%20SECADOR.webp"
+    variations[0]:
+  - id: 2242628
+    sku: SPI-01
+    name: Montblanc Legend Spirit
+    sale_price: 36000
+    suggested_price: 68000
+    simple_price: 36000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 762866
+    categories[5]: Bisutería,Moda,Belleza,Hogar,Aseo
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2242628/22cee979-7b00-48d1-a9c7-504e13da1cfa.png"
+    variations[0]:
+  - id: 1914423
+    sku: BLE-10
+    name: BLEU CHANEL +PERFUMERO
+    sale_price: 40000
+    suggested_price: 40000
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 596
+    supplier_id: 632711
+    categories[3]: Bisutería,Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1914423/1756836555ROYAL%20AROMA%20146.png.PNG"
+    variations[0]:
+  - id: 683221
+    sku: P06D-10
+    name: PROMO - 06 DAMA X3
+    sale_price: 106000
+    suggested_price: 106000
+    simple_price: 106000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1997
+    supplier_id: 118707
+    categories[2]: Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/683221/1776694820Diseño%20sin%20título%205.png"
+    variations[0]:
+  - id: 498061
+    sku: AC-10
+    name: ACQUA DI GIO PROFONDO
+    sale_price: 45000
+    suggested_price: 45000
+    simple_price: 45000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 950
+    supplier_id: 118707
+    categories[2]: Moda,Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/498061/17791186725988.png"
+    variations[0]:
+  - id: 311079
+    sku: black xs-paco rabanne
+    name: black xs-paco rabanne
+    sale_price: 89900
+    suggested_price: 111000
+    simple_price: 89900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 65102
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/311079/17018829891701882989black%20xs-paco%20rabanne.jpg"
+    variations[0]:
+  - id: 1740720
+    sku: VGR282
+    name: MAQUINA VGR 282
+    sale_price: 50000
+    suggested_price: 70000
+    simple_price: 50000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 213
+    supplier_id: 29689
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1740720/1743629277IMG_5204%201.png"
+    variations[0]:
+  - id: 2054600
+    sku: CCDP01
+    name: CREMA CANDEL PRO 300gr
+    sale_price: 24000
+    suggested_price: 24000
+    simple_price: 24000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1740
+    supplier_id: 525739
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2054600/1781902147WhatsApp%20Image%202026-06-19%20at%203.14.36%20PM%20(3).jpeg"
+    variations[0]:
+  - id: 1842767
+    sku: PR416X4C-10
+    name: PROMO - 416 X 4 (CABALLERO )
+    sale_price: 165000
+    suggested_price: 165000
+    simple_price: 165000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 199
+    supplier_id: 118707
+    categories[1]: Belleza
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1842767/174932541244ab2b1a-b8eb-499c-b4a7-9165666fd8f9.jpeg"
+    variations[0]:
+count: 90
+currency: COP

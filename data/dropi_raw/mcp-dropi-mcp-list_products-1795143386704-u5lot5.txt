@@ -1,0 +1,1899 @@
+items[78]:
+  - id: 2092226
+    sku: JL18030
+    name: Cuadernos Mágicos Reutilizables Aprender
+    sale_price: 13000
+    suggested_price: 26000
+    simple_price: 13000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 147066
+    categories[3]: Hogar,Jugueteria,Libros
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2092226/1771881461Captura%20de%20pantalla%202026-02-23%20161533.png"
+    variations[0]:
+  - id: 831303
+    sku: univer1
+    name: CEPILLO PARA MASCOTAS
+    sale_price: 18000
+    suggested_price: 36000
+    simple_price: 18000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 50
+    supplier_id: 93931
+    categories[5]: Otro,Aseo,Natural Home,Hogar,Mascotas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/831303/1714855212cepillo%20mascotas.jpg"
+    variations[0]:
+  - id: 1841821
+    sku: IRRI0671
+    name: Irrigador dental limpieza bucal carg USB
+    sale_price: 32000
+    suggested_price: 52000
+    simple_price: 32000
+    visible_start_sale_price: 32000
+    visible_end_sale_price: 32000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 370953
+    categories[6]: Tecnologia,Belleza,Salud,Hogar,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1841821/1749241390D_626365-MLM84951654505_052025-O%20(1).jpg"
+    variations[2]:
+      - id: 1544664
+        sku: IRRI0671-0
+        stock: 99
+        sale_price: 32000
+        suggested_price: 52000
+        attributes[1]{name,value}:
+          Color,Blanco
+      - id: 1544665
+        sku: IRRI0671-1
+        stock: 100
+        sale_price: 32000
+        suggested_price: 52000
+        attributes[1]{name,value}:
+          Color,Verde
+  - id: 1623206
+    sku: "2002"
+    name: camara tres antenas
+    sale_price: 49500
+    suggested_price: 79500
+    simple_price: 49500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 194
+    supplier_id: 17053
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1623206/1739890627CAMARA%203%20ANTES.png"
+    variations[0]:
+  - id: 2046630
+    sku: DABRILLANTE
+    name: La Botella De Agua brillante
+    sale_price: 24000
+    suggested_price: 40000
+    simple_price: 24000
+    visible_start_sale_price: 24000
+    visible_end_sale_price: 24000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 641459
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2046630/176914125481994601_0_1_20241129124755.webp"
+    variations[4]:
+      - id: 1953289
+        sku: DABRILLANTE-0
+        stock: 100
+        sale_price: 24000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          COLOR,PLATEADO
+      - id: 1953290
+        sku: DABRILLANTE-1
+        stock: 100
+        sale_price: 24000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          COLOR,DORADO
+      - id: 1953291
+        sku: DABRILLANTE-2
+        stock: 100
+        sale_price: 24000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          COLOR,AZUL
+      - id: 1953292
+        sku: DABRILLANTE-3
+        stock: 100
+        sale_price: 24000
+        suggested_price: 40000
+        attributes[1]{name,value}:
+          COLOR,BLANCO
+  - id: 1970977
+    sku: MTM098
+    name: Lampara solar para exteriores recargable
+    sale_price: 21000
+    suggested_price: 41000
+    simple_price: 21000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 396
+    supplier_id: 112177
+    categories[8]: Moda,Tecnologia,Hogar,Natural Home,Bienestar,Camping,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1970977/1761231653WhatsApp%20Image%202025-10-21%20at%2010.17.00.jpeg"
+    variations[0]:
+  - id: 1488983
+    sku: "77"
+    name: Batidor Espumador Doble Cabezal Recargab
+    sale_price: 15500
+    suggested_price: 17000
+    simple_price: 15500
+    visible_start_sale_price: 15500
+    visible_end_sale_price: 15500
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 3598
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1488983/1731766861Batidor%20Portátil%20Eléctrico%20Mezclador%20Espuma%20Café%20Leche%20Huevo%208.jpg"
+    variations[2]:
+      - id: 1101453
+        sku: 77-1
+        stock: 147
+        sale_price: 15500
+        suggested_price: 15500
+        attributes[1]{name,value}:
+          Color,Blanco
+      - id: 1101454
+        sku: 77-2
+        stock: 150
+        sale_price: 15500
+        suggested_price: 15500
+        attributes[1]{name,value}:
+          Color,Negro
+  - id: 955008
+    sku: Juego Tapetes Absorbentes Antideslizante
+    name: Juego Tapetes Absorbentes Antideslizante
+    sale_price: 30000
+    suggested_price: 60000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 155
+    supplier_id: 33552
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/955008/17204915955(38)%20-%20copia.png"
+    variations[0]:
+  - id: 2181173
+    sku: SP210515564
+    name: TERMO OWALA FREESIP ACERO 1LT
+    sale_price: 34000
+    suggested_price: null
+    simple_price: 34000
+    visible_start_sale_price: 34000
+    visible_end_sale_price: 34000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 204867
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2181173/1781882663Captura%20de%20pantalla%202026-06-19%20100210.png"
+    variations[5]:
+      - id: 2217640
+        sku: "-3"
+        stock: 0
+        sale_price: 34000
+        suggested_price: 70000
+        attributes[1]{name,value}:
+          COLOR,AZUL
+      - id: 2217637
+        sku: "-0"
+        stock: 98
+        sale_price: 34000
+        suggested_price: 70000
+        attributes[1]{name,value}:
+          COLOR,LILA
+      - id: 2217638
+        sku: "-1"
+        stock: 0
+        sale_price: 34000
+        suggested_price: 70000
+        attributes[1]{name,value}:
+          COLOR,ROSA
+      - id: 2219335
+        sku: SP210515564-6
+        stock: 100
+        sale_price: 34000
+        suggested_price: 70000
+        attributes[1]{name,value}:
+          COLOR,AMARILLO
+      - id: 2217639
+        sku: "-2"
+        stock: 98
+        sale_price: 34000
+        suggested_price: 70000
+        attributes[1]{name,value}:
+          COLOR,NEGRO
+  - id: 1938807
+    sku: na790
+    name: Valvula Actuador Danfoss Icad 1200b 24v
+    sale_price: 13500000
+    suggested_price: 15525000
+    simple_price: 13500000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 257112
+    categories[3]: Hogar,Natural Home,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1938807/1758841929Captura%20de%20pantalla%202025-09-25%20181018.png"
+    variations[0]:
+  - id: 2090216
+    sku: null
+    name: ACQUA DI GIOIA
+    sale_price: 40000
+    suggested_price: 60000
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 747646
+    categories[7]: Moda,Belleza,Salud,Hogar,Aseo,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2090216/1771612933AGUA%20DI%20GIOIA.jpg"
+    variations[0]:
+  - id: 1639562
+    sku: PURIFICADOR DE AGUA LLAVE
+    name: PURIFICADOR DE AGUA LLAVE
+    sale_price: 25000
+    suggested_price: 45000
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 530
+    supplier_id: 290666
+    categories[9]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Belleza,Hogar,Natural Home
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1639562/1737694335IMG_7820.jpeg"
+    variations[0]:
+  - id: 2310686
+    sku: AV-5017
+    name: AV-5017 PORTA GLOBO DELGADO METALIZADO
+    sale_price: 2176
+    suggested_price: 5900
+    simple_price: 2176
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 37472
+    supplier_id: 825649
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2310686/img_6ada7d101c8dc1.17607890_0.jpg"
+    variations[0]:
+  - id: 2183015
+    sku: "48564684"
+    name: TALADRO INALAMBRICO DEWALT 48 V
+    sale_price: 79000
+    suggested_price: 110000
+    simple_price: 79000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 5213
+    supplier_id: 503034
+    categories[3]: Hogar,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2183015/c635ca28-5227-47f9-b5f3-87296f4bb976.png"
+    variations[0]:
+  - id: 2310611
+    sku: AV-760
+    name: AV-760 PELOTA ESTAMPADA CON MALLA
+    sale_price: 3920
+    suggested_price: 9900
+    simple_price: 3920
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 2751
+    supplier_id: 825649
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2310611/img_6ada7c62eba936.10387848_0.jpg"
+    variations[0]:
+  - id: 1934725
+    sku: DUCHA PORTATIL 1.80 MTS
+    name: DUCHA PORTATIL 1.80 MTS
+    sale_price: 38000
+    suggested_price: 60000
+    simple_price: 38000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 250
+    supplier_id: 624246
+    categories[3]: Tecnologia,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1934725/1758583022DUCHA.jpg"
+    variations[0]:
+  - id: 2301315
+    sku: "https://tienda-kamelia-jeans.myshopify.com/"
+    name: K4717 SKINNY 3B PRETINA ANCHA CONTROL A
+    sale_price: 70000
+    suggested_price: 140000
+    simple_price: 71000
+    visible_start_sale_price: 71000
+    visible_end_sale_price: 71000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 348182
+    categories[22]: Vehiculos,Belleza,Novedades,Gadgets,Moda,Bebé,Hogar,Accesorios,Bolsos,Cocina,Ropa,Otro,Electronica,Tecnologia,Salud,Deportes,Aseo,Fitness,Juguetes,Mascotas,Calzado,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2301315/42ed8bf2-452c-4255-bae1-67cc35a62fe0.jpeg"
+    variations[5]:
+      - id: 2426628
+        sku: "https://tienda-kamelia-jeans.myshopify.com/-0"
+        stock: 25
+        sale_price: 71000
+        suggested_price: 140000
+        attributes[1]{name,value}:
+          AZUL VERDOSO,TALLA 8
+      - id: 2426629
+        sku: "https://tienda-kamelia-jeans.myshopify.com/-1"
+        stock: 36
+        sale_price: 71000
+        suggested_price: 140000
+        attributes[1]{name,value}:
+          AZUL VERDOSO,TALLA 10
+      - id: 2426630
+        sku: "https://tienda-kamelia-jeans.myshopify.com/-2"
+        stock: 37
+        sale_price: 71000
+        suggested_price: 140000
+        attributes[1]{name,value}:
+          AZUL VERDOSO,TALLA 12
+      - id: 2426631
+        sku: "https://tienda-kamelia-jeans.myshopify.com/-3"
+        stock: 37
+        sale_price: 71000
+        suggested_price: 140000
+        attributes[1]{name,value}:
+          AZUL VERDOSO,TALLA 14
+      - id: 2426632
+        sku: "https://tienda-kamelia-jeans.myshopify.com/-4"
+        stock: 14
+        sale_price: 71000
+        suggested_price: 140000
+        attributes[1]{name,value}:
+          AZUL VERDOSO,TALLA 16
+  - id: 1925230
+    sku: NA615
+    name: Tubería Flexible De Cobre Diametro De 1/
+    sale_price: 328500
+    suggested_price: 377700
+    simple_price: 328500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 999
+    supplier_id: 257112
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1925230/1757870993Captura%20de%20pantalla%202025-09-14%20122819.png"
+    variations[0]:
+  - id: 214578
+    sku: "550648"
+    name: 📢NOVEDOSO AFILADOR DE BROCAS🔝
+    sale_price: 11000
+    suggested_price: 15000
+    simple_price: 11000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 971
+    supplier_id: 37714
+    categories[2]: Hogar,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/214578/1705643939sg-11134201-23010-jnj5m3u0v5lv90.JPG"
+    variations[0]:
+  - id: 2092188
+    sku: TERC
+    name: Masajeador Brazo Largo *
+    sale_price: 61200
+    suggested_price: 91200
+    simple_price: 61200
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 150
+    supplier_id: 215864
+    categories[5]: Tecnologia,Salud,Hogar,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2092188/1771880021BRAZ.webp"
+    variations[0]:
+  - id: 2292113
+    sku: ROYAL AMBER + CLUB DE NUIT ELIXIR + ASAD
+    name: ROYAL AMBER + CLUB DE NUIT ELIXIR + ASAD
+    sale_price: 150000
+    suggested_price: 150000
+    simple_price: 150000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 500
+    supplier_id: 622983
+    categories[8]: Moda,Belleza,Salud,Hogar,Natural Home,Aseo,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2292113/d75180e2-cbb8-4b76-8a86-9b604c88c797.jpg"
+    variations[0]:
+  - id: 396154
+    sku: "041"
+    name: Polichadora Intop 1400W Con Pomo-
+    sale_price: 270000
+    suggested_price: 310000
+    simple_price: 270000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 14
+    supplier_id: 93931
+    categories[3]: Hogar,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/396154/17018713231701871323polichadora%20intop%201400w.jpg"
+    variations[0]:
+  - id: 2172733
+    sku: null
+    name: Antiempañante carros y motos
+    sale_price: 6500
+    suggested_price: 10000
+    simple_price: 6500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 90
+    supplier_id: 782611
+    categories[4]: Hogar,Otro,Vehículos,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2172733/1781035176anteimpañante.jpg"
+    variations[0]:
+  - id: 906326
+    sku: "9849141"
+    name: Proyector De Luz Led Star Master
+    sale_price: 29900
+    suggested_price: 89900
+    simple_price: 29900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 2
+    supplier_id: 104910
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/906326/1717626811starmaster.jpg"
+    variations[0]:
+  - id: 2209247
+    sku: Vela Larga Led Efecto Real Set X6 Decora
+    name: Vela Larga Led Efecto Real Set X6 Decora
+    sale_price: 29500
+    suggested_price: 39000
+    simple_price: 29500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 198
+    supplier_id: 49927
+    categories[2]: Hogar,Navidad
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2209247/1784740563WhatsApp%20Image%202026-07-21%20at%205.15.47%20PM.jpeg"
+    variations[0]:
+  - id: 2210317
+    sku: "9289"
+    name: Cabezal de Ducha Multifuncional 3 Modos
+    sale_price: 11300
+    suggested_price: 23000
+    simple_price: 11300
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 56
+    supplier_id: 651557
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2210317/1784828505Captura%20de%20pantalla%202026-07-23%20115312.png"
+    variations[0]:
+  - id: 1928724
+    sku: B
+    name: Maletín viajero para guardar zapatos
+    sale_price: 59000
+    suggested_price: 80000
+    simple_price: 59000
+    visible_start_sale_price: 59000
+    visible_end_sale_price: 59000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 432393
+    categories[5]: Moda,Tecnologia,Belleza,Hogar,Bebé
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1928724/1758087956IMG_6221.jpeg"
+    variations[3]:
+      - id: 1732014
+        sku: B-0
+        stock: 96
+        sale_price: 59000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          Color,Rosado
+      - id: 1732015
+        sku: B-1
+        stock: 95
+        sale_price: 59000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          Color,Morado
+      - id: 1732016
+        sku: B-2
+        stock: 0
+        sale_price: 59000
+        suggested_price: 80000
+        attributes[1]{name,value}:
+          Color,Gris
+  - id: 448661
+    sku: null
+    name: Campana Navideña Mediana Pared
+    sale_price: 59000
+    suggested_price: 0
+    simple_price: 59000
+    visible_start_sale_price: 59000
+    visible_end_sale_price: 89000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 77847
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/448661/1697739483Corona%20Adviento%20Rose%20Gold1%20(24).png"
+    variations[8]:
+      - id: 306327
+        sku: "046"
+        stock: 12
+        sale_price: 89000
+        suggested_price: 129000
+        attributes[1]{name,value}:
+          Decoración,BroGold
+      - id: 306329
+        sku: "048"
+        stock: 12
+        sale_price: 89000
+        suggested_price: 129000
+        attributes[1]{name,value}:
+          Decoración,BroChampagne
+      - id: 306328
+        sku: "047"
+        stock: 12
+        sale_price: 89000
+        suggested_price: 129000
+        attributes[1]{name,value}:
+          Decoración,BroRoseGold
+      - id: 306322
+        sku: "041"
+        stock: 12
+        sale_price: 59000
+        suggested_price: 109000
+        attributes[1]{name,value}:
+          Decoración,DorSinDecorar
+      - id: 306323
+        sku: "042"
+        stock: 12
+        sale_price: 89000
+        suggested_price: 129000
+        attributes[1]{name,value}:
+          Decoración,DorGold
+      - id: 306324
+        sku: "043"
+        stock: 12
+        sale_price: 89000
+        suggested_price: 129000
+        attributes[1]{name,value}:
+          Decoración,DorRoseGold
+      - id: 306325
+        sku: "044"
+        stock: 12
+        sale_price: 89000
+        suggested_price: 129000
+        attributes[1]{name,value}:
+          Decoración,DorChampagne
+      - id: 306326
+        sku: "045"
+        stock: 12
+        sale_price: 59000
+        suggested_price: 109000
+        attributes[1]{name,value}:
+          Decoración,BroSinDecorar
+  - id: 2248104
+    sku: ZM
+    name: Protector de esquinas en silicona X5 Paq
+    sale_price: 25000
+    suggested_price: 35000
+    simple_price: 25000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 221
+    supplier_id: 22343
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2248104/5f4ea5dc-afeb-477a-9c1a-1337d2712f1e.jpeg"
+    variations[0]:
+  - id: 1895865
+    sku: CL
+    name: Colcha Bramanta Tipo Española Blanca
+    sale_price: 95000
+    suggested_price: 115000
+    simple_price: 95000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 30
+    supplier_id: 616721
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1895865/1755136826WhatsApp%20Image%202025-08-13%20at%208.59.58%20PM.jpeg"
+    variations[0]:
+  - id: 2226467
+    sku: null
+    name: Máquina peluquera 1.1
+    sale_price: 32000
+    suggested_price: 32000
+    simple_price: 32000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 432393
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2226467/9c4ab225-45ef-4fc9-9358-9ce639537ac4.jpeg"
+    variations[0]:
+  - id: 1116573
+    sku: Tipo-11
+    name: Tipo Camara Luz Exterior
+    sale_price: 21000
+    suggested_price: 41000
+    simple_price: 21000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 102
+    supplier_id: 13657
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1116573/172468437738.PNG"
+    variations[0]:
+  - id: 1517344
+    sku: SAB_ESTMP
+    name: COMBO JUEGO DE SABANA x 3UND
+    sale_price: 65000
+    suggested_price: 100000
+    simple_price: 65000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1188
+    supplier_id: 44663
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1517344/1732290564IMG-20241005-WA0101.jpg"
+    variations[0]:
+  - id: 2282935
+    sku: null
+    name: X2 Almohadas forro acolchado 45x65
+    sale_price: 25000
+    suggested_price: null
+    simple_price: 25000
+    visible_start_sale_price: 25000
+    visible_end_sale_price: 25000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 496749
+    categories[4]: Belleza,Salud,Hogar,Bebé
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2282935/2f2a4817-ea74-4c5d-8791-56b6bf595a43.png"
+    variations[10]:
+      - id: 2390928
+        sku: "-0"
+        stock: 29997
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Vino tinto
+      - id: 2390929
+        sku: "-1"
+        stock: 29998
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Agua marina
+      - id: 2390930
+        sku: "-2"
+        stock: 30000
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Azul
+      - id: 2390931
+        sku: "-3"
+        stock: 29999
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Blanco
+      - id: 2390932
+        sku: "-4"
+        stock: 29995
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Negro
+      - id: 2390933
+        sku: "-5"
+        stock: 29999
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Beige
+      - id: 2390934
+        sku: "-6"
+        stock: 30000
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Gris
+      - id: 2390935
+        sku: "-7"
+        stock: 29996
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Palo rosa
+      - id: 2390936
+        sku: "-8"
+        stock: 0
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Lila
+      - id: 2390937
+        sku: "-9"
+        stock: 0
+        sale_price: 25000
+        suggested_price: 56000
+        attributes[1]{name,value}:
+          Color,Verde
+  - id: 1929388
+    sku: "2156416"
+    name: Irrigador Bucal
+    sale_price: 40000
+    suggested_price: 120000
+    simple_price: 40000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 197931
+    categories[2]: Salud,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1929388/1758143529Diseño%20sin%20título%20-%202025-09-15T112559.635.png"
+    variations[0]:
+  - id: 1010221
+    sku: Cepillo Alisador
+    name: Cepillo Alisador
+    sale_price: 23900
+    suggested_price: 39900
+    simple_price: 23900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 98
+    supplier_id: 219101
+    categories[5]: Bienestar,Natural Home,Hogar,Belleza,Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1010221/17218513636.jpg"
+    variations[0]:
+  - id: 1139590
+    sku: "210"
+    name: Combo Donera+Olla F+Moldes+Acc
+    sale_price: 81000
+    suggested_price: 95000
+    simple_price: 81000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 244
+    supplier_id: 4173
+    categories[2]: Cocina,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1139590/1725023892choco.webp"
+    variations[0]:
+  - id: 2311271
+    sku: AV-10475
+    name: AV-10475 LLAVE MIXTA 5/8 EFECTO ESPEJO
+    sale_price: 9360
+    suggested_price: 18900
+    simple_price: 9360
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 154
+    supplier_id: 825649
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2311271/img_6ada88cc7c5456.43132721_0.jpg"
+    variations[0]:
+  - id: 848214
+    sku: LIENZOS MODERNOS 07
+    name: LIENZOS MODERNOS 07
+    sale_price: 140000
+    suggested_price: 216000
+    simple_price: 140000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 32448
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/848214/LIENZOS-MODERNOS-07.png"
+    variations[0]:
+  - id: 2096127
+    sku: SET MASTERCOOK
+    name: SET MASTERCOOK
+    sale_price: 148595
+    suggested_price: 216500
+    simple_price: 148595
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 199
+    supplier_id: 679300
+    categories[2]: Cocina,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2096127/1772211703Captura%20de%20pantalla%202026-02-27%20120005.png"
+    variations[0]:
+  - id: 766524
+    sku: AMA580
+    name: Mini Maquina De Coser Manual Pequeña
+    sale_price: 29990
+    suggested_price: 89000
+    simple_price: 29990
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 176727
+    categories[2]: Hogar,Tecnologia
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/766524/171277906661D6y-5OL9L._AC_UF894,1000_QL80_.jpg"
+    variations[0]:
+  - id: 8657
+    sku: SA-01
+    name: Sandalias Antideslizantes
+    sale_price: 39000
+    suggested_price: 89900
+    simple_price: 39000
+    visible_start_sale_price: 39000
+    visible_end_sale_price: 39000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 2011
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/8657/17031018941703101894EqDr3j2dOp7nngpAxw1aaQjkAwWxjRwkm0uk0asB.jpeg"
+    variations[10]:
+      - id: 155977
+        sku: SA-01-0
+        stock: 2
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,AMARILLO (M)
+      - id: 155978
+        sku: SA-01-1
+        stock: 7
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,NARANJA (M)
+      - id: 155979
+        sku: SA-01-2
+        stock: 7
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,ROSADO (M)
+      - id: 155980
+        sku: SA-01-3
+        stock: 1
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,NEGRO (M)
+      - id: 155981
+        sku: SA-01-4
+        stock: 3
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,AMARILLO (L)
+      - id: 155982
+        sku: SA-01-5
+        stock: 4
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,NARANJA (L)
+      - id: 155983
+        sku: SA-01-6
+        stock: 1
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,ROSADO (L)
+      - id: 155984
+        sku: SA-01-7
+        stock: 0
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,NEGRO (L)
+      - id: 155985
+        sku: SA-01-8
+        stock: 4
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,AMARILLO (XL)
+      - id: 155986
+        sku: SA-01-9
+        stock: 1
+        sale_price: 39000
+        suggested_price: 89900
+        attributes[1]{name,value}:
+          COLOR,NARANJA (XL)
+  - id: 649360
+    sku: 1barraluzled
+    name: Barra de luz led
+    sale_price: 28000
+    suggested_price: 40000
+    simple_price: 28000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 464
+    supplier_id: 54262
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/649360/17783528807590496e-dff8-45d6-8dac-c7ae3f47b646.png"
+    variations[0]:
+  - id: 2141644
+    sku: ele8826
+    name: Rizadora Gt20500
+    sale_price: 53000
+    suggested_price: 110000
+    simple_price: 53000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 469966
+    categories[3]: Moda,Belleza,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2141644/1777507782pinza%201.png"
+    variations[0]:
+  - id: 1185427
+    sku: "234567890"
+    name: Set Cuchillos 6 Pzs
+    sale_price: 15000
+    suggested_price: 40000
+    simple_price: 15000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 986
+    supplier_id: 32016
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1185427/1726076524Diseño%20sin%20título%20-%202024-09-11T124106.352.png"
+    variations[0]:
+  - id: 2342673
+    sku: H0?
+    name: Lampara escritorio brazo
+    sale_price: 29000
+    suggested_price: 50000
+    simple_price: 29000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 400
+    supplier_id: 286651
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2342673/0fb4a07b-1bf5-4429-a411-b7e34426f53e.webp"
+    variations[0]:
+  - id: 1878147
+    sku: ARCHKI10
+    name: Armaf Check Mate King x 100 ML ORIGINAL
+    sale_price: 270000
+    suggested_price: 350000
+    simple_price: 270000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 119
+    supplier_id: 168060
+    categories[6]: Moda,Belleza,Salud,Hogar,Aseo,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1878147/17527701291000008560.png"
+    variations[0]:
+  - id: 1973833
+    sku: H158
+    name: Estante Organizador Para Baño 3 Niveles
+    sale_price: 39900
+    suggested_price: 44900
+    simple_price: 39900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1
+    supplier_id: 677046
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1973833/b9b9b41b-bc71-4ed2-a2aa-d61cf0f41dea.png"
+    variations[0]:
+  - id: 2322372
+    sku: Lampara UV multifuncional SKU Variedades
+    name: Lampara UV multifuncional
+    sale_price: 30000
+    suggested_price: 40000
+    simple_price: 30000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 150
+    supplier_id: 96165
+    categories[4]: Tecnologia,Hogar,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2322372/4b827f6b-4c6f-46bd-ad39-5b4f116b1bac.jpeg"
+    variations[0]:
+  - id: 260221
+    sku: "9999"
+    name: Organizador De Tela De Joyas De DobleUso
+    sale_price: 22100
+    suggested_price: 35000
+    simple_price: 22100
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 20
+    supplier_id: 48534
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/260221/17018991051701899105198623-1600-1600.jpeg"
+    variations[0]:
+  - id: 1483951
+    sku: Tapete De Piedra Diatomeas Absorbente
+    name: Tapete De Piedra Diatomeas Absorbente
+    sale_price: 36900
+    suggested_price: 65000
+    simple_price: 37900
+    visible_start_sale_price: 37900
+    visible_end_sale_price: 37900
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 88099
+    categories[2]: Cocina,Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1483951/1731685984Tapete%20de%20baño%20de%20piedra%20Gris%204.jpg"
+    variations[1]:
+      - id: 1047038
+        sku: 789-1
+        stock: 200
+        sale_price: 37900
+        suggested_price: 36900
+        attributes[1]{name,value}:
+          Color,Gris
+  - id: 2228309
+    sku: electro
+    name: Barajador De Cartas Poker
+    sale_price: 28000
+    suggested_price: 99900
+    simple_price: 28000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 300
+    supplier_id: 671741
+    categories[3]: Tecnologia,Hogar,Jugueteria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2228309/fc512316-beb4-48d9-8c58-b21c9e6dab52.webp"
+    variations[0]:
+  - id: 1401780
+    sku: Almohada Memory Pillow  Cool Gel + Funda
+    name: Almohada Memory Pillow  Cool Gel + Funda
+    sale_price: 39900
+    suggested_price: 39900
+    simple_price: 39900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 300
+    supplier_id: 10929
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1401780/1729953680Almohada%20Memory%20Foam%20con%20Gel%20y%20Funda%20A.jpg"
+    variations[0]:
+  - id: 1827476
+    sku: BOLA
+    name: Bola Quita Pelos Reutilizable
+    sale_price: 12000
+    suggested_price: 50000
+    simple_price: 12000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 315
+    supplier_id: 11358
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1827476/1747794933img2_720x720.webp"
+    variations[0]:
+  - id: 1771134
+    sku: GTEC6
+    name: CONSERVADOR DE VERDURAS
+    sale_price: 14000
+    suggested_price: 24000
+    simple_price: 14000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 49
+    supplier_id: 93931
+    categories[6]: Moda,Cocina,Hogar,Natural Home,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1771134/1745595977CONSERVADOR%20DE%20VERDURAS.jpg"
+    variations[0]:
+  - id: 2296063
+    sku: FORRO PUERTA NAVIDEÑO
+    name: FORRO PUERTA NAVIDEÑO
+    sale_price: 23000
+    suggested_price: 24000
+    simple_price: 23000
+    visible_start_sale_price: 23000
+    visible_end_sale_price: 23000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 359739
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2296063/cca74773-f4f1-4dcb-8f8c-688ed100c5b7.jpeg"
+    variations[36]:
+      - id: 2417542
+        sku: FORRO PUERTA NAVIDEÑO-35
+        stock: 95
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,PERRITO Y GATITO EN LA NIEVE
+      - id: 2417541
+        sku: FORRO PUERTA NAVIDEÑO-34
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,35 ABRAZO PAPÁ NOEL Y MUÑECO
+      - id: 2417507
+        sku: FORRO PUERTA NAVIDEÑO-0
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,1 RENO PAPÁ NOEL
+      - id: 2417508
+        sku: FORRO PUERTA NAVIDEÑO-1
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,2 MUÑECO DE NIEVE CON FARON
+      - id: 2417509
+        sku: FORRO PUERTA NAVIDEÑO-2
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,3 GATITO PAPÁ NOEL
+      - id: 2417510
+        sku: FORRO PUERTA NAVIDEÑO-3
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,4 GATITI Y PERRITO EN LA VENTANA
+      - id: 2417511
+        sku: FORRO PUERTA NAVIDEÑO-4
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,5 RENITO CON GORRO
+      - id: 2417512
+        sku: FORRO PUERTA NAVIDEÑO-5
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,PAPA NOEL CON JUEGOS ARTIFICIALES
+      - id: 2417513
+        sku: FORRO PUERTA NAVIDEÑO-6
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,7 RENITO EN EL BOSQUE
+      - id: 2417514
+        sku: FORRO PUERTA NAVIDEÑO-7
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,8 GATITOS CON REGALO
+      - id: 2417515
+        sku: FORRO PUERTA NAVIDEÑO-8
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,9 ESEBRE SAGRADA FAMILIA
+      - id: 2417516
+        sku: FORRO PUERTA NAVIDEÑO-9
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,10 PAPA NOEL EN TRINEO CON HUSKY
+      - id: 2417517
+        sku: FORRO PUERTA NAVIDEÑO-10
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,11 PAPA NOEL Y RENITO
+      - id: 2417518
+        sku: FORRO PUERTA NAVIDEÑO-11
+        stock: 97
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,12 GRINCH CON BASTÓN
+      - id: 2417519
+        sku: FORRO PUERTA NAVIDEÑO-12
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,13 MERRY CRHISMAS NOEL Y AMIGOS
+      - id: 2417520
+        sku: FORRO PUERTA NAVIDEÑO-13
+        stock: 98
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,14 PAPA NOEL EN LA PUERTA
+      - id: 2417521
+        sku: FORRO PUERTA NAVIDEÑO-14
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,15 PAPA NOEL EN TRINEO ROJO
+      - id: 2417522
+        sku: FORRO PUERTA NAVIDEÑO-15
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,16 PAREJA DE VENADOS
+      - id: 2417523
+        sku: FORRO PUERTA NAVIDEÑO-16
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,17 GRINCH VERDE
+      - id: 2417524
+        sku: FORRO PUERTA NAVIDEÑO-17
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,18 PAPA NOEL CON REGALOS
+      - id: 2417525
+        sku: FORRO PUERTA NAVIDEÑO-18
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,19 MUÑECO DE NIEVE AZUL
+      - id: 2417528
+        sku: FORRO PUERTA NAVIDEÑO-21
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,22 NACIMIENTO ✯ DE BELÉN
+      - id: 2417529
+        sku: FORRO PUERTA NAVIDEÑO-22
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,23 RENO NARIZ ROJA
+      - id: 2417530
+        sku: FORRO PUERTA NAVIDEÑO-23
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,24 GATITOS EN LA PUERTA ROJA
+      - id: 2417531
+        sku: FORRO PUERTA NAVIDEÑO-24
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,25 PAPA NOEL ROSADO
+      - id: 2417532
+        sku: FORRO PUERTA NAVIDEÑO-25
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,26 RENITO Y MUÑECO PLATEADO
+      - id: 2417533
+        sku: FORRO PUERTA NAVIDEÑO-26
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,27 NAVIDAD DORADA
+      - id: 2417534
+        sku: FORRO PUERTA NAVIDEÑO-27
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,28 PAPA NOEL AZUL
+      - id: 2417535
+        sku: FORRO PUERTA NAVIDEÑO-28
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,29 MIKEY Y MINIE
+      - id: 2417536
+        sku: FORRO PUERTA NAVIDEÑO-29
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,30 MIKEY PAPÁ NOEL
+      - id: 2417537
+        sku: FORRO PUERTA NAVIDEÑO-30
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,31 PAPA NOEL Y RENO EN LA PUERTA
+      - id: 2417538
+        sku: FORRO PUERTA NAVIDEÑO-31
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,32 PERRITO CON REGALO
+      - id: 2417539
+        sku: FORRO PUERTA NAVIDEÑO-32
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,33 PAPA Y MAMÁ NOEL
+      - id: 2417540
+        sku: FORRO PUERTA NAVIDEÑO-33
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,34 MUÑEQUITOS DE NIEVE
+      - id: 2417526
+        sku: FORRO PUERTA NAVIDEÑO-19
+        stock: 99
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,20 PAPA NOEL LEYENDO
+      - id: 2417527
+        sku: FORRO PUERTA NAVIDEÑO-20
+        stock: 100
+        sale_price: 23000
+        suggested_price: 24000
+        attributes[1]{name,value}:
+          Diseño,21 MASCOTAS EN LA CHIMENEA
+  - id: 275512
+    sku: null
+    name: TERMO PLASTICO TIPO HELADO
+    sale_price: 27000
+    suggested_price: 49000
+    simple_price: 27000
+    visible_start_sale_price: 27000
+    visible_end_sale_price: 27000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 52741
+    categories[5]: Moda,Cocina,Salud,Hogar,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/275512/17018957501701895750TQ1007.jpeg"
+    variations[1]:
+      - id: 159052
+        sku: "-0"
+        stock: 74
+        sale_price: 27000
+        suggested_price: 49000
+        attributes[5]{name,value}:
+          CAFE,"15"
+          ROJO SANDIA,"15"
+          TIPO FRESA,"15"
+          CARA FELIZ BLANCO,"15"
+          CARA FELIZ AMARILLO,"15"
+  - id: 2292163
+    sku: GM-1004 TV
+    name: JUEGO DOMINO
+    sale_price: 45500
+    suggested_price: 90000
+    simple_price: 45500
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 250
+    supplier_id: 69935
+    categories[2]: Hogar,Jugueteria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2292163/f64d6aca-90a6-4605-a4bd-deac3b8183bc.png"
+    variations[0]:
+  - id: 2307895
+    sku: null
+    name: ESCURRIDOR 3 NIVELES
+    sale_price: 52000
+    suggested_price: 62000
+    simple_price: 52000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 13657
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2307895/4d692127-8d50-4a52-96ab-6623e67bdb69.jpg"
+    variations[0]:
+  - id: 2217282
+    sku: Bolsas Organizadoras de Maleta x7
+    name: Bolsas Organizadoras de Maleta x7
+    sale_price: 26000
+    suggested_price: 65000
+    simple_price: 26000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 10
+    supplier_id: 948991
+    categories[3]: Ropa Deportiva,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2217282/0b18bd53-e64f-4c9f-87b8-06cea8f03203.jpg"
+    variations[0]:
+  - id: 277671
+    sku: OLLAUPSELL
+    name: UPSELL OLLA SEPARADORA DE ACEITE
+    sale_price: 10000
+    suggested_price: 39900
+    simple_price: 10000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 17
+    supplier_id: 276
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/277671/17018955791701895579Screenshot_56.png"
+    variations[0]:
+  - id: 1591368
+    sku: VA
+    name: VA Sofá Inflable Con Reposa Pies
+    sale_price: 55200
+    suggested_price: 85200
+    simple_price: 55200
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 215864
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1591368/1734453224sillon%20inflable%20reposa%20pies.JPG"
+    variations[0]:
+  - id: 2217318
+    sku: GDR-987
+    name: Cortadora De Cesped Con Ruedas Podadora
+    sale_price: 96900
+    suggested_price: 99900
+    simple_price: 96900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 2
+    supplier_id: 36442
+    categories[4]: Tecnologia,Hogar,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2217318/a3ae00cc-60d7-4b7b-977c-c882047c932a.jpg"
+    variations[0]:
+  - id: 845894
+    sku: RELIGIOSO W 447
+    name: RELIGIOSO W 447
+    sale_price: 94000
+    suggested_price: 160000
+    simple_price: 94000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 32448
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/845894/RELIGIOSO-W-447-jpg.jpg"
+    variations[0]:
+  - id: 2056595
+    sku: null
+    name: Doble estimulacion Ian
+    sale_price: 66000
+    suggested_price: 140000
+    simple_price: 66000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 20
+    supplier_id: 535547
+    categories[8]: Bisutería,Cocina,Belleza,Salud,Hogar,Sex Shop,Bienestar,Jugueteria
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2056595/1769644135WhatsApp%20Image%202026-01-28%20at%206.02.26%20PM%20(1).jpeg"
+    variations[0]:
+  - id: 1725177
+    sku: Cepillo-01
+    name: Cepillo Dental Niños
+    sale_price: 10000
+    suggested_price: 18000
+    simple_price: 10000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 300
+    supplier_id: 13615
+    categories[3]: Salud,Hogar,Bebé
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1725177/1742393672153.jpg"
+    variations[0]:
+  - id: 2320611
+    sku: L-12
+    name: Kit para Mover Muebles Pesados
+    sale_price: 16000
+    suggested_price: 25000
+    simple_price: 16000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 400
+    supplier_id: 773022
+    categories[7]: Moda,Cocina,Salud,Hogar,Natural Home,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2320611/d27264d8-30d3-426c-885c-f3ac03ec15e5.png"
+    variations[0]:
+  - id: 845800
+    sku: RELIGIOSO W 359
+    name: RELIGIOSO W 359
+    sale_price: 84000
+    suggested_price: 146000
+    simple_price: 84000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 32448
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/845800/RELIGIOSO-W-359-jpg.jpg"
+    variations[0]:
+  - id: 419391
+    sku: "040434"
+    name: Limpiador 7 En 1 Para Audífonos Teclado
+    sale_price: 15000
+    suggested_price: 35000
+    simple_price: 15000
+    visible_start_sale_price: 15000
+    visible_end_sale_price: 15000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 7165
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/419391/1696088164Limpiador%207en1_01.jpg"
+    variations[2]:
+      - id: 285576
+        sku: 040434-0
+        stock: 89
+        sale_price: 15000
+        suggested_price: 35000
+        attributes[1]{name,value}:
+          Color,Rosa
+      - id: 285577
+        sku: 040434-1
+        stock: 128
+        sale_price: 15000
+        suggested_price: 35000
+        attributes[1]{name,value}:
+          Color,Azul
+  - id: 2299041
+    sku: Tasa calentadora
+    name: Tasa calentadora
+    sale_price: 18000
+    suggested_price: 28000
+    simple_price: 18000
+    visible_start_sale_price: 18000
+    visible_end_sale_price: 18000
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 0
+    supplier_id: 96165
+    categories[4]: Tecnologia,Cocina,Hogar,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2299041/73deb7e2-bf3b-469b-b031-dbf12bea3e52.jpeg"
+    variations[3]:
+      - id: 2535581
+        sku: Tasa calentadora-0
+        stock: 200
+        sale_price: 18000
+        suggested_price: 28000
+        attributes[1]{name,value}:
+          color,verde
+      - id: 2535582
+        sku: Tasa calentadora-1
+        stock: 250
+        sale_price: 18000
+        suggested_price: 28000
+        attributes[1]{name,value}:
+          color,rosado
+      - id: 2535583
+        sku: Tasa calentadora-2
+        stock: 200
+        sale_price: 18000
+        suggested_price: 28000
+        attributes[1]{name,value}:
+          color,blanco
+  - id: 2201681
+    sku: Barra Led Rgb Barra Multicolor Decorativa x 2 und
+    name: Barra Led Rgb Barra Multicolor x 2
+    sale_price: 34900
+    suggested_price: 49900
+    simple_price: 34900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 376574
+    categories[3]: Tecnologia,Hogar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2201681/1784065811WhatsApp%20Image%202026-07-14%20at%204.45.56%20PM%20(1).jpeg"
+    variations[0]:
+  - id: 2146024
+    sku: ELECTRO
+    name: Filtro Calentador De Agua Grifo Llave
+    sale_price: 55000
+    suggested_price: 120000
+    simple_price: 55000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 200
+    supplier_id: 671741
+    categories[7]: Moda,Tecnologia,Cocina,Salud,Hogar,Bienestar,Otro
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2146024/1778102501WhatsApp%20Image%202026-05-06%20at%204.12.32%20PM.jpeg"
+    variations[0]:
+  - id: 2150515
+    sku: baseruedas34
+    name: PALANCA LEVANTA MUEBLES
+    sale_price: 16000
+    suggested_price: 28000
+    simple_price: 16000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 237
+    supplier_id: 797942
+    categories[3]: Hogar,Natural Home,Defensa personal
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2150515/fc63f18c-8f4b-4441-8d59-4dcfcf939604.png"
+    variations[0]:
+  - id: 800227
+    sku: Base Soporte Portatil Plegable + Funda
+    name: Base Soporte Portatil Plegable + Funda
+    sale_price: 14900
+    suggested_price: 28000
+    simple_price: 14900
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 895
+    supplier_id: 55384
+    categories[28]: Bisutería,Ropa Deportiva,Vaporizadores,Mascotas,Moda,Tecnologia,Cocina,Belleza,Salud,Hogar,Natural Home,Deportes,Mad,Sex Shop,Bebé,Aseo,Bienestar,Camping,Pesca,Defensa personal,Otro,Vehículos,Jugueteria,Piñateria,Herramientas,Navidad,Halloween,Libros
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/800227/1713905939Soporte%20portatil.webp"
+    variations[0]:
+  - id: 1648101
+    sku: WD-40
+    name: Lubricante Aerosol WD-40
+    sale_price: 26000
+    suggested_price: 40000
+    simple_price: 26000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 100
+    supplier_id: 147195
+    categories[3]: Herramientas,Hogar,Vehículos
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/1648101/1738260956D_NQ_NP_926413-MCO74093902386_012024-O.webp"
+    variations[0]:
+  - id: 848259
+    sku: ELEFANTE 39
+    name: ELFANTE 39
+    sale_price: 94000
+    suggested_price: 160000
+    simple_price: 94000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 1000
+    supplier_id: 32448
+    categories[1]: Hogar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/848259/ELEFANTE-39.jpg"
+    variations[0]:
+  - id: 2246293
+    sku: "54786658"
+    name: Masajeador Facial y Cuello LED 6 Colores
+    sale_price: 28000
+    suggested_price: 38000
+    simple_price: 28000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 155
+    supplier_id: 157733
+    categories[5]: Moda,Tecnologia,Belleza,Hogar,Bienestar
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2246293/2c016e42-0cf7-4bcb-bbb8-205c4d69ce77.webp"
+    variations[0]:
+  - id: 2082543
+    sku: RH00283
+    name: ASPERSOR 15M
+    sale_price: 26000
+    suggested_price: 48000
+    simple_price: 26000
+    visible_start_sale_price: null
+    visible_end_sale_price: null
+    combo_min_sale_price: 0
+    combo_min_suggested_price: 0
+    stock: 600
+    supplier_id: 43728
+    categories[4]: Hogar,Aseo,Otro,Herramientas
+    gallery[1]{urlS3}:
+      "https://d39ru7awumhhs2.cloudfront.net/colombia/products/2082543/17709205451705440291ASPERSOR%2010M.jpg"
+    variations[0]:
+count: 78
+currency: COP
